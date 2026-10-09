@@ -1,0 +1,2106 @@
+{
+  "date": "2026-10-21",
+  "questions": [
+    {
+      "id": "d1021-eating-etiquette",
+      "number": 1,
+      "prompt": "Name a sunnah or good manner of eating and drinking.",
+      "answers": [
+        {
+          "id": "d1021-eating-etiquette-saying-bismillah",
+          "canonical": "Saying Bismillah",
+          "variants": [
+            "Bismillah",
+            "Basmalah",
+            "Saying the name of Allah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Say Bismillah, eat with your right hand, and eat from what is in front of you.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5376",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-eating-with-the-right-hand",
+          "canonical": "Eating with the right hand",
+          "variants": [
+            "Right hand",
+            "Using the right hand",
+            "Eating with right hand"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Prophet ﷺ taught children and adults to eat with the right hand.",
+          "source": {
+            "text": "Sahih al-Bukhari 5376",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-eating-from-what-is-in-front-of-you",
+          "canonical": "Eating from what is in front of you",
+          "variants": [
+            "Eat from in front of you",
+            "Eating from your side",
+            "Eating from in front of you"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Eating from the side of the dish nearest to you.",
+          "source": {
+            "text": "Sahih al-Bukhari 5376",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-saying-alhamdulillah-after",
+          "canonical": "Saying Alhamdulillah after",
+          "variants": [
+            "Alhamdulillah",
+            "Praising Allah after eating",
+            "Thanking Allah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Allah is pleased with one who praises Him after eating or drinking.",
+          "source": {
+            "text": "Sahih Muslim 2734",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-licking-the-fingers",
+          "canonical": "Licking the fingers",
+          "variants": [
+            "Licking fingers"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"You do not know in which part of your food the blessing lies.\"",
+          "source": {
+            "text": "Sahih Muslim 2033",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-sitting-down",
+          "canonical": "Sitting down",
+          "variants": [
+            "Sitting",
+            "Eating sitting down",
+            "Drinking sitting down"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Eating and drinking while seated.",
+          "source": {
+            "text": "Sahih Muslim 2024",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-not-criticising-food",
+          "canonical": "Not criticising food",
+          "variants": [
+            "Never criticising food",
+            "Not complaining about food"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"He never criticised food: if he liked it he ate it, otherwise he left it.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5409",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-eating-together",
+          "canonical": "Eating together",
+          "variants": [
+            "Sharing food",
+            "Eating in company",
+            "Eating as a group"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Eat together and mention Allah's name — it will be blessed for you.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 3764",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-washing-hands",
+          "canonical": "Washing hands",
+          "variants": [
+            "Wash hands",
+            "Washing the hands"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Washing the hands before and after eating.",
+          "source": {
+            "text": "Sunan Abi Dawud 3761",
+            "status": "needs-review"
+          },
+          "note": "Some of the reports on this are weak."
+        },
+        {
+          "id": "d1021-eating-etiquette-eating-with-three-fingers",
+          "canonical": "Eating with three fingers",
+          "variants": [
+            "Three fingers"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Prophet ﷺ ate with three fingers.",
+          "source": {
+            "text": "Sahih Muslim 2032",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-not-blowing-on-food",
+          "canonical": "Not blowing on food",
+          "variants": [
+            "Not blowing on drink",
+            "Not blowing on food or drink"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He forbade blowing into food and drink.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 1888",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-picking-up-dropped-food",
+          "canonical": "Picking up dropped food",
+          "variants": [
+            "Picking up fallen food",
+            "Dropped food",
+            "Picking up a dropped morsel"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Pick up a fallen morsel, clean it and eat it — don't leave it for Shaytan.",
+          "source": {
+            "text": "Sahih Muslim 2033",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-drinking-in-three-breaths",
+          "canonical": "Drinking in three breaths",
+          "variants": [
+            "Three sips",
+            "Three breaths",
+            "Drinking in three sips"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He would drink in three breaths, pausing outside the cup.",
+          "source": {
+            "text": "Sahih Muslim 2028",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-not-overeating",
+          "canonical": "Not overeating",
+          "variants": [
+            "Moderation",
+            "Eating a third",
+            "Not eating too much"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"A third for food, a third for drink and a third for air.\"",
+          "source": {
+            "text": "Sunan al-Tirmidhi 2380",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-not-leaning-while-eating",
+          "canonical": "Not leaning while eating",
+          "variants": [
+            "Not reclining",
+            "Not leaning"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"I do not eat while reclining.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5398",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-wiping-the-plate-clean",
+          "canonical": "Wiping the plate clean",
+          "variants": [
+            "Cleaning the plate",
+            "Finishing the plate",
+            "Not wasting food"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He told them to wipe the dish clean.",
+          "source": {
+            "text": "Sahih Muslim 2034",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-bismillah-awwalahu-wa-akhirahu",
+          "canonical": "Bismillah awwalahu wa akhirahu",
+          "variants": [
+            "Bismillahi awwalahu wa akhirahu"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "What to say if you forgot Bismillah at the start.",
+          "source": {
+            "text": "Sunan Abi Dawud 3767",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-no-gold-or-silver-vessels",
+          "canonical": "No gold or silver vessels",
+          "variants": [
+            "Not using gold plates",
+            "No gold or silver plates"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He forbade eating and drinking from gold and silver vessels.",
+          "source": {
+            "text": "Sahih al-Bukhari 5426",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eating-etiquette-dua-for-the-host",
+          "canonical": "Du'a for the host",
+          "variants": [
+            "Dua for the host",
+            "Praying for the host"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He made du'a for those who fed him.",
+          "source": {
+            "text": "Sahih Muslim 2042",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1021-scholar-titles",
+      "number": 2,
+      "prompt": "Name a title given to a Muslim scholar or religious role.",
+      "answers": [
+        {
+          "id": "d1021-scholar-titles-imam",
+          "canonical": "Imam",
+          "variants": [
+            "Imaam"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Leads the prayer; also a title for great scholars.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-shaykh",
+          "canonical": "Shaykh",
+          "variants": [
+            "Sheikh",
+            "Shaikh",
+            "Sheik",
+            "Shaykha"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "An elder or teacher of knowledge.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-mufti",
+          "canonical": "Mufti",
+          "variants": [
+            "Muftee"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A scholar qualified to give fatwas.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-hafiz",
+          "canonical": "Hafiz",
+          "variants": [
+            "Hafidh",
+            "Haafiz",
+            "Hafiza",
+            "Hafidha"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Someone who has memorised the whole Qur'an.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-qari",
+          "canonical": "Qari",
+          "variants": [
+            "Qaari",
+            "Reciter",
+            "Qariah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A skilled reciter of the Qur'an.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-mawlana",
+          "canonical": "Mawlana",
+          "variants": [
+            "Maulana",
+            "Molana",
+            "Moulana"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'Our master' — a title for scholars, especially in South Asia.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-alim",
+          "canonical": "'Alim",
+          "variants": [
+            "Alim",
+            "Aalim",
+            "Ulama",
+            "Ulema",
+            "Alimah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A scholar; the plural is 'ulama.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-qadi",
+          "canonical": "Qadi",
+          "variants": [
+            "Qazi",
+            "Kadi",
+            "Judge"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A judge of Islamic law.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-ustadh",
+          "canonical": "Ustadh",
+          "variants": [
+            "Ustaz",
+            "Ustad",
+            "Ustadha",
+            "Teacher"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A teacher.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-khatib",
+          "canonical": "Khatib",
+          "variants": [
+            "Khateeb",
+            "Preacher"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The one who gives the Friday sermon.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-muadhdhin",
+          "canonical": "Mu'adhdhin",
+          "variants": [
+            "Muezzin",
+            "Muazzin",
+            "Muadhin"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The one who calls the adhan.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-mullah",
+          "canonical": "Mullah",
+          "variants": [
+            "Mulla"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A title for religious teachers, especially in Iran and Central Asia.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-muhaddith",
+          "canonical": "Muhaddith",
+          "variants": [
+            "Hadith scholar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A master of hadith.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-mufassir",
+          "canonical": "Mufassir",
+          "variants": [
+            "Tafsir scholar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A commentator on the Qur'an.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-faqih",
+          "canonical": "Faqih",
+          "variants": [
+            "Faqeeh",
+            "Jurist",
+            "Fuqaha"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A jurist; the plural is fuqaha'.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-mujtahid",
+          "canonical": "Mujtahid",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A scholar qualified to derive rulings directly from the sources.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-allamah",
+          "canonical": "'Allamah",
+          "variants": [
+            "Allama",
+            "Allamah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A title for a very learned scholar.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-shaykh-al-islam",
+          "canonical": "Shaykh al-Islam",
+          "variants": [
+            "Shaikh ul Islam",
+            "Sheikh al-Islam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A senior title, held by the chief mufti in the Ottoman state.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-ayatollah",
+          "canonical": "Ayatollah",
+          "variants": [
+            "Ayatullah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A senior title among Shia scholars.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-hujjat-al-islam",
+          "canonical": "Hujjat al-Islam",
+          "variants": [
+            "Hujjatul Islam"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'Proof of Islam' — al-Ghazali's title.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-mawlawi",
+          "canonical": "Mawlawi",
+          "variants": [
+            "Molvi",
+            "Maulvi",
+            "Moulvi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A title for scholars in South Asia and Afghanistan.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-murshid",
+          "canonical": "Murshid",
+          "variants": [
+            "Spiritual guide"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A spiritual guide.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-dai",
+          "canonical": "Da'i",
+          "variants": [
+            "Daee",
+            "Daiyah",
+            "Caller"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "One who calls people to Islam.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-scholar-titles-amir-al-muminin",
+          "canonical": "Amir al-Mu'minin",
+          "variants": [
+            "Commander of the Faithful",
+            "Amirul Muminin"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'Commander of the Faithful', the title of the caliphs.",
+          "source": {
+            "text": "General usage in the Muslim world",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1021-eid",
+      "number": 3,
+      "prompt": "Name something Muslims do on Eid.",
+      "answers": [
+        {
+          "id": "d1021-eid-eid-prayer",
+          "canonical": "Eid prayer",
+          "variants": [
+            "Salat al-Eid",
+            "Eid salah",
+            "Eid namaz",
+            "Praying Eid"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The congregational Eid prayer in the morning.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Two Eids",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-takbir",
+          "canonical": "Takbir",
+          "variants": [
+            "Takbirat",
+            "Saying takbir",
+            "Allahu Akbar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Saying the takbirat: \"Allahu Akbar, Allahu Akbar…\"",
+          "source": {
+            "text": "Qur'an 2:185",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-eid-ghusl",
+          "canonical": "Ghusl",
+          "variants": [
+            "Bath",
+            "Shower"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Taking a bath before the prayer.",
+          "source": {
+            "text": "Al-Muwatta' (Ibn 'Umar's practice)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-wearing-best-clothes",
+          "canonical": "Wearing best clothes",
+          "variants": [
+            "New clothes",
+            "Best clothes",
+            "Nice clothes"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Dressing in one's best clothes.",
+          "source": {
+            "text": "Sahih al-Bukhari 948",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-zakat-al-fitr",
+          "canonical": "Zakat al-Fitr",
+          "variants": [
+            "Fitrana",
+            "Fitra"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Paying Zakat al-Fitr before the Eid al-Fitr prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari 1503",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-eating-dates-before-the-prayer",
+          "canonical": "Eating dates before the prayer",
+          "variants": [
+            "Eating dates",
+            "Eating before the prayer",
+            "Odd number of dates"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "On Eid al-Fitr he ate an odd number of dates before going out.",
+          "source": {
+            "text": "Sahih al-Bukhari 953",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-taking-a-different-route",
+          "canonical": "Taking a different route",
+          "variants": [
+            "Different route home",
+            "Different way back",
+            "Different path"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Going to the prayer by one way and returning by another.",
+          "source": {
+            "text": "Sahih al-Bukhari 986",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-greeting-each-other",
+          "canonical": "Greeting each other",
+          "variants": [
+            "Eid Mubarak",
+            "Taqabbal Allahu minna wa minkum",
+            "Eid greeting",
+            "Greeting"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Saying \"Eid Mubarak\" or \"Taqabbal Allahu minna wa minkum\".",
+          "source": {
+            "text": "Ibn Hajar, Fath al-Bari (reports from the Companions)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-qurbani",
+          "canonical": "Qurbani",
+          "variants": [
+            "Sacrifice",
+            "Udhiyah",
+            "Qurban"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sacrificing an animal on Eid al-Adha.",
+          "source": {
+            "text": "Sahih al-Bukhari 5545",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-visiting-family",
+          "canonical": "Visiting family",
+          "variants": [
+            "Visiting relatives",
+            "Family",
+            "Seeing family"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Visiting relatives and friends.",
+          "source": {
+            "text": "General practice",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-not-fasting",
+          "canonical": "Not fasting",
+          "variants": [
+            "No fasting"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Fasting on the two Eids is forbidden.",
+          "source": {
+            "text": "Sahih al-Bukhari 1990",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-praying-in-the-open",
+          "canonical": "Praying in the open",
+          "variants": [
+            "Musalla",
+            "Open ground",
+            "Eid prayer outside"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Prophet ﷺ prayed Eid in an open prayer ground.",
+          "source": {
+            "text": "Sahih al-Bukhari 956",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-bringing-women-and-children",
+          "canonical": "Bringing women and children",
+          "variants": [
+            "Bringing children",
+            "Women attending",
+            "Taking the family"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Even young girls and women went out to witness the good.",
+          "source": {
+            "text": "Sahih al-Bukhari 324",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-listening-to-the-khutbah",
+          "canonical": "Listening to the khutbah",
+          "variants": [
+            "Khutbah",
+            "Sermon"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Listening to the sermon after the Eid prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Two Eids",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-walking-to-the-prayer",
+          "canonical": "Walking to the prayer",
+          "variants": [
+            "Walking"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Going to the Eid prayer on foot.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 530",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-eating-after-the-prayer-on-eid-al-adha",
+          "canonical": "Eating after the prayer on Eid al-Adha",
+          "variants": [
+            "Delaying eating on Adha",
+            "Eating after prayer"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "On Eid al-Adha he did not eat until he had prayed.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 542",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-giving-gifts",
+          "canonical": "Giving gifts",
+          "variants": [
+            "Eidi",
+            "Gifts",
+            "Money gifts",
+            "Presents"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Giving gifts and money (eidi), especially to children.",
+          "source": {
+            "text": "General practice",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-celebrating",
+          "canonical": "Celebrating",
+          "variants": [
+            "Having fun",
+            "Games",
+            "Playing",
+            "Celebration"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Permissible joy and play — the Prophet ﷺ let girls sing and the Abyssinians play on Eid.",
+          "source": {
+            "text": "Sahih al-Bukhari 949–950",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-eid-wearing-perfume",
+          "canonical": "Wearing perfume",
+          "variants": [
+            "Perfume"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Men wear perfume for the occasion.",
+          "source": {
+            "text": "General practice following Friday's sunnah",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1021-tribes",
+      "number": 4,
+      "prompt": "Name an Arab tribe or clan from the time of the Prophet ﷺ.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Banu",
+            "Bani"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1021-tribes-quraysh",
+          "canonical": "Quraysh",
+          "variants": [
+            "Quraish",
+            "Koraysh"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Prophet's ﷺ tribe, guardians of the Ka'bah.",
+          "source": {
+            "text": "Qur'an 106:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-tribes-aws",
+          "canonical": "Aws",
+          "variants": [
+            "Al-Aws",
+            "Banu Aws"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "One of the two Arab tribes of Madinah who became the Ansar.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-khazraj",
+          "canonical": "Khazraj",
+          "variants": [
+            "Al-Khazraj",
+            "Banu Khazraj"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "One of the two Arab tribes of Madinah who became the Ansar.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-hashim",
+          "canonical": "Banu Hashim",
+          "variants": [
+            "Bani Hashim",
+            "Hashimites",
+            "Hashim"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Prophet's ﷺ own clan within Quraysh.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-thaqif",
+          "canonical": "Thaqif",
+          "variants": [
+            "Banu Thaqif"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The tribe of Ta'if.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-hawazin",
+          "canonical": "Hawazin",
+          "variants": [
+            "Banu Hawazin"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The tribes fought at Hunayn.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-umayyah",
+          "canonical": "Banu Umayyah",
+          "variants": [
+            "Bani Umayyah",
+            "Umayyah",
+            "Banu Umayya"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A powerful clan of Quraysh, later the Umayyad dynasty.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-ghatafan",
+          "canonical": "Ghatafan",
+          "variants": [
+            "Banu Ghatafan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A tribe of Najd, part of the Confederates at the Trench.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-makhzum",
+          "canonical": "Banu Makhzum",
+          "variants": [
+            "Makhzum",
+            "Bani Makhzum"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A leading clan of Quraysh — Khalid ibn al-Walid's clan.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-sad",
+          "canonical": "Banu Sa'd",
+          "variants": [
+            "Banu Sad",
+            "Bani Sad",
+            "Bani Saad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Halimah's tribe, where the Prophet ﷺ spent his early childhood.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-tamim",
+          "canonical": "Banu Tamim",
+          "variants": [
+            "Tamim",
+            "Bani Tamim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A large tribe of eastern Arabia.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-asad",
+          "canonical": "Banu Asad",
+          "variants": [
+            "Asad",
+            "Bani Asad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A tribe of Najd.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-kinanah",
+          "canonical": "Kinanah",
+          "variants": [
+            "Banu Kinanah",
+            "Kinana"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A large tribe related to Quraysh.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-khuzaah",
+          "canonical": "Khuza'ah",
+          "variants": [
+            "Khuzaah",
+            "Banu Khuzaah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Allies of the Prophet ﷺ; an attack on them led to the conquest of Makkah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-hanifah",
+          "canonical": "Banu Hanifah",
+          "variants": [
+            "Hanifa",
+            "Bani Hanifah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The tribe of Yamamah, home of Musaylimah the liar.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-hudhayl",
+          "canonical": "Hudhayl",
+          "variants": [
+            "Hudhail",
+            "Banu Hudhayl"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A tribe near Makkah known for its poets.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-juhaynah",
+          "canonical": "Juhaynah",
+          "variants": [
+            "Juhayna",
+            "Banu Juhaynah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A tribe west of Madinah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-muzaynah",
+          "canonical": "Muzaynah",
+          "variants": [
+            "Muzayna",
+            "Banu Muzaynah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A tribe near Madinah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-aslam",
+          "canonical": "Aslam",
+          "variants": [
+            "Banu Aslam"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A tribe near Madinah that embraced Islam early.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-bakr",
+          "canonical": "Banu Bakr",
+          "variants": [
+            "Bani Bakr"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Allies of Quraysh whose attack on Khuza'ah broke the truce of Hudaybiyyah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-tayyi",
+          "canonical": "Tayyi'",
+          "variants": [
+            "Tayy",
+            "Tayyi",
+            "Banu Tayy"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The tribe of the famous generous man Hatim al-Ta'i.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-daws",
+          "canonical": "Daws",
+          "variants": [
+            "Banu Daws"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Abu Hurayrah's tribe in Yemen.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-ashariyyun",
+          "canonical": "Ash'ariyyun",
+          "variants": [
+            "Ashariyyun",
+            "Al-Ashariyyun",
+            "Asharis"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Abu Musa al-Ash'ari's people from Yemen.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-zuhrah",
+          "canonical": "Banu Zuhrah",
+          "variants": [
+            "Zuhrah",
+            "Bani Zuhrah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The clan of the Prophet's ﷺ mother, Aminah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-sulaym",
+          "canonical": "Banu Sulaym",
+          "variants": [
+            "Sulaym",
+            "Bani Sulaym"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A large tribe of Najd.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-ghassan",
+          "canonical": "Ghassan",
+          "variants": [
+            "Ghassanids",
+            "Banu Ghassan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Arab Christian rulers on the Syrian frontier.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-qaynuqa",
+          "canonical": "Banu Qaynuqa",
+          "variants": [
+            "Qaynuqa",
+            "Bani Qaynuqa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A Jewish tribe of Madinah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-nadir",
+          "canonical": "Banu Nadir",
+          "variants": [
+            "Bani Nadir",
+            "Nadir",
+            "Banu an-Nadir"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A Jewish tribe of Madinah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-tribes-banu-qurayzah",
+          "canonical": "Banu Qurayzah",
+          "variants": [
+            "Bani Qurayzah",
+            "Qurayzah",
+            "Banu Qurayza"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A Jewish tribe of Madinah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Hazm, Jamharat Ansab al-'Arab",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1021-companion-titles",
+      "number": 5,
+      "prompt": "Name a title or nickname given to one of the Companions.",
+      "answers": [
+        {
+          "id": "d1021-companion-titles-as-siddiq",
+          "canonical": "As-Siddiq",
+          "variants": [
+            "Siddiq",
+            "Siddeeq",
+            "The Truthful",
+            "Al-Siddiq"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The Truthful' — Abu Bakr, who believed in the Night Journey at once.",
+          "source": {
+            "text": "Ibn Hajar, al-Isabah; Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-al-faruq",
+          "canonical": "Al-Faruq",
+          "variants": [
+            "Faruq",
+            "Farooq",
+            "Al-Farooq"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The one who distinguishes right from wrong' — 'Umar.",
+          "source": {
+            "text": "Ibn Hajar, al-Isabah; Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-dhun-nurayn",
+          "canonical": "Dhun-Nurayn",
+          "variants": [
+            "Dhul Nurayn",
+            "Zun Nurain",
+            "Dhu al-Nurayn",
+            "Possessor of the Two Lights"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'Possessor of the Two Lights' — 'Uthman, who married two of the Prophet's ﷺ daughters.",
+          "source": {
+            "text": "Ibn Hajar, al-Isabah; Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-sayfullah",
+          "canonical": "Sayfullah",
+          "variants": [
+            "Saifullah",
+            "Sword of Allah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Sword of Allah' — Khalid ibn al-Walid.",
+          "source": {
+            "text": "Sahih al-Bukhari 3757",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-asadullah",
+          "canonical": "Asadullah",
+          "variants": [
+            "Lion of Allah",
+            "Asad Allah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Lion of Allah' — Hamzah.",
+          "source": {
+            "text": "Ibn Hajar, al-Isabah; Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-umm-al-muminin",
+          "canonical": "Umm al-Mu'minin",
+          "variants": [
+            "Mother of the Believers",
+            "Ummul Muminin",
+            "Ummahat al-Muminin"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'Mother of the Believers' — each of the Prophet's ﷺ wives.",
+          "source": {
+            "text": "Qur'an 33:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-abu-turab",
+          "canonical": "Abu Turab",
+          "variants": [
+            "Father of Dust"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'Father of Dust' — the Prophet ﷺ called 'Ali this, finding him lying in the dust.",
+          "source": {
+            "text": "Sahih al-Bukhari 441",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-abu-hurayrah",
+          "canonical": "Abu Hurayrah",
+          "variants": [
+            "Abu Huraira",
+            "Father of the kitten"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'Father of the kitten' — he carried a small cat.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3840",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-amin-al-ummah",
+          "canonical": "Amin al-Ummah",
+          "variants": [
+            "Trustee of the Ummah",
+            "Ameen al-Ummah",
+            "Amin of the Ummah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Trustworthy One of this Ummah' — Abu 'Ubaydah ibn al-Jarrah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3744",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-hibr-al-ummah",
+          "canonical": "Hibr al-Ummah",
+          "variants": [
+            "Scholar of the Ummah",
+            "Tarjuman al-Quran",
+            "Interpreter of the Quran"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Scholar of the Ummah' — 'Abdullah ibn 'Abbas.",
+          "source": {
+            "text": "Ibn Hajar, al-Isabah; Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-dhat-an-nitaqayn",
+          "canonical": "Dhat an-Nitaqayn",
+          "variants": [
+            "She of the Two Belts",
+            "Dhatun Nitaqayn"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'She of the Two Belts' — Asma' bint Abi Bakr, who tore her belt to tie food for the Hijrah.",
+          "source": {
+            "text": "Sahih al-Bukhari 2979",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-at-tayyar",
+          "canonical": "At-Tayyar",
+          "variants": [
+            "Jafar at-Tayyar",
+            "Dhul Janahayn",
+            "Possessor of two wings",
+            "The one with two wings"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Flier' — Ja'far ibn Abi Talib, given two wings in Paradise.",
+          "source": {
+            "text": "Sahih al-Bukhari 3709",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-sayyid-ash-shuhada",
+          "canonical": "Sayyid ash-Shuhada",
+          "variants": [
+            "Master of the martyrs",
+            "Sayyidush Shuhada"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'Master of the Martyrs' — Hamzah.",
+          "source": {
+            "text": "Ibn Hajar, al-Isabah; Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-hawari-of-the-prophet",
+          "canonical": "Hawari of the Prophet",
+          "variants": [
+            "Hawari",
+            "Disciple of the Prophet"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Prophet's disciple' — al-Zubayr ibn al-'Awwam.",
+          "source": {
+            "text": "Sahih al-Bukhari 2846",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-ghasil-al-malaikah",
+          "canonical": "Ghasil al-Mala'ikah",
+          "variants": [
+            "Washed by the angels",
+            "Ghaseel al-Malaikah",
+            "Ghasil al-Malaikah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'Washed by the angels' — Hanzalah, martyred at Uhud.",
+          "source": {
+            "text": "Ibn Hajar, al-Isabah; Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-keeper-of-the-secret",
+          "canonical": "Keeper of the Secret",
+          "variants": [
+            "Sahib as-Sirr",
+            "Keeper of the secrets"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Hudhayfah ibn al-Yaman, who knew the names of the hypocrites.",
+          "source": {
+            "text": "Sahih al-Bukhari 3743",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-poet-of-the-prophet",
+          "canonical": "Poet of the Prophet",
+          "variants": [
+            "Sha'ir ar-Rasul",
+            "Poet of the Messenger"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Hassan ibn Thabit.",
+          "source": {
+            "text": "Ibn Hajar, al-Isabah; Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-al-humayra",
+          "canonical": "Al-Humayra",
+          "variants": [
+            "Al-Humayra'",
+            "Humayra"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A loving name the Prophet ﷺ used for 'Aishah.",
+          "source": {
+            "text": "Ibn Hajar, al-Isabah; Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-dhul-yadayn",
+          "canonical": "Dhul-Yadayn",
+          "variants": [
+            "Dhul Yadain",
+            "Possessor of two hands"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The one with the two hands', who asked if the prayer had been shortened.",
+          "source": {
+            "text": "Sahih al-Bukhari 482",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-scribe-of-the-revelation",
+          "canonical": "Scribe of the Revelation",
+          "variants": [
+            "Katib al-Wahy",
+            "Scribe of revelation"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Zayd ibn Thabit, who wrote down the revelation.",
+          "source": {
+            "text": "Ibn Hajar, al-Isabah; Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-muadhdhin-of-the-prophet",
+          "canonical": "Mu'adhdhin of the Prophet",
+          "variants": [
+            "Muezzin of the Prophet",
+            "Muadhin of the Prophet"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Bilal ibn Rabah, who first called the adhan.",
+          "source": {
+            "text": "Ibn Hajar, al-Isabah; Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-companion-titles-imam-al-ulama",
+          "canonical": "Imam al-'Ulama'",
+          "variants": [
+            "Leader of the scholars",
+            "Imam al-Ulama"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'Leader of the scholars' — Mu'adh ibn Jabal will come ahead of the scholars.",
+          "source": {
+            "text": "Ibn Hajar, al-Isabah; Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1021-rulings",
+      "number": 6,
+      "prompt": "Name a category of Islamic legal ruling (how an act is classed).",
+      "answers": [
+        {
+          "id": "d1021-rulings-halal",
+          "canonical": "Halal",
+          "variants": [
+            "Permissible",
+            "Lawful",
+            "Allowed"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Permissible.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-haram",
+          "canonical": "Haram",
+          "variants": [
+            "Forbidden",
+            "Prohibited",
+            "Unlawful"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Forbidden.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-fard",
+          "canonical": "Fard",
+          "variants": [
+            "Fardh",
+            "Farz",
+            "Obligatory",
+            "Compulsory"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Obligatory — rewarded if done, sinful if left.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-sunnah",
+          "canonical": "Sunnah",
+          "variants": [
+            "Sunnat"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Prophet's ﷺ practice; recommended.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-makruh",
+          "canonical": "Makruh",
+          "variants": [
+            "Makrooh",
+            "Disliked"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Disliked — better to avoid, but not sinful.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-wajib",
+          "canonical": "Wajib",
+          "variants": [
+            "Waajib",
+            "Necessary"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Necessary — in the Hanafi school, a step below fard.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-mubah",
+          "canonical": "Mubah",
+          "variants": [
+            "Neutral",
+            "Permitted"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Neutral — neither rewarded nor punished.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-mustahabb",
+          "canonical": "Mustahabb",
+          "variants": [
+            "Mustahab",
+            "Recommended",
+            "Praiseworthy"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Recommended — rewarded if done, not sinful if left.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-nafl",
+          "canonical": "Nafl",
+          "variants": [
+            "Nafil",
+            "Nafilah",
+            "Optional",
+            "Voluntary"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Voluntary, extra worship.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-mandub",
+          "canonical": "Mandub",
+          "variants": [
+            "Mandoob"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Recommended (another word for mustahabb).",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-sunnah-muakkadah",
+          "canonical": "Sunnah mu'akkadah",
+          "variants": [
+            "Sunnah muakkadah",
+            "Confirmed sunnah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A confirmed sunnah the Prophet ﷺ rarely left.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-fard-ayn",
+          "canonical": "Fard 'ayn",
+          "variants": [
+            "Fard ain",
+            "Individual obligation"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An obligation on every individual, like the five prayers.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-fard-kifayah",
+          "canonical": "Fard kifayah",
+          "variants": [
+            "Fard kifaya",
+            "Communal obligation"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A communal obligation — if some do it, the rest are excused.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-doubtful-matters",
+          "canonical": "Doubtful matters",
+          "variants": [
+            "Shubuhat",
+            "Mushtabihat",
+            "Doubtful",
+            "Shubhah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Between them are doubtful matters\" — best avoided.",
+          "source": {
+            "text": "Sahih al-Bukhari 52",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-sahih",
+          "canonical": "Sahih",
+          "variants": [
+            "Valid"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Valid — an act that fulfils its conditions.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-makruh-tahrimi",
+          "canonical": "Makruh tahrimi",
+          "variants": [
+            "Makrooh tahrimi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Disliked close to forbidden (Hanafi).",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-makruh-tanzihi",
+          "canonical": "Makruh tanzihi",
+          "variants": [
+            "Makrooh tanzihi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Mildly disliked (Hanafi).",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-batil",
+          "canonical": "Batil",
+          "variants": [
+            "Invalid",
+            "Void"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Void — with no legal effect.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-fasid",
+          "canonical": "Fasid",
+          "variants": [
+            "Defective"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Defective (in Hanafi law, distinct from void).",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-rukhsah",
+          "canonical": "Rukhsah",
+          "variants": [
+            "Rukhsa",
+            "Concession"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A concession, such as shortening prayer when travelling.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-rulings-azimah",
+          "canonical": "'Azimah",
+          "variants": [
+            "Azimah",
+            "Azeemah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The original, strict ruling, as opposed to a concession.",
+          "source": {
+            "text": "Standard works of usul al-fiqh",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

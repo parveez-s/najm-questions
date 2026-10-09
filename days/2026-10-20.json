@@ -1,0 +1,1896 @@
+{
+  "date": "2026-10-20",
+  "questions": [
+    {
+      "id": "d1020-seerah-events",
+      "number": 1,
+      "prompt": "Name an event from the life of Prophet Muhammad ﷺ.",
+      "answers": [
+        {
+          "id": "d1020-seerah-events-hijrah",
+          "canonical": "Hijrah",
+          "variants": [
+            "Hijra",
+            "Migration to Madinah",
+            "Migration to Medina",
+            "Migration",
+            "Emigration"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The migration from Makkah to Madinah in 622 — year 1 of the Islamic calendar.",
+          "source": {
+            "text": "Qur'an 9:40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-first-revelation",
+          "canonical": "First revelation",
+          "variants": [
+            "Revelation in Cave Hira",
+            "Iqra",
+            "First wahy",
+            "Cave Hira",
+            "Revelation"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "In the cave of Hira, Jibril brought the first words: \"Read!\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3; Qur'an 96:1–5",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-isra-and-miraj",
+          "canonical": "Isra' and Mi'raj",
+          "variants": [
+            "Night Journey",
+            "Miraj",
+            "Isra and Miraj",
+            "Isra"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Night Journey to Jerusalem and the ascent through the heavens.",
+          "source": {
+            "text": "Qur'an 17:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-farewell-sermon",
+          "canonical": "Farewell Sermon",
+          "variants": [
+            "Last Sermon",
+            "Khutbat al-Wada",
+            "Farewell Hajj",
+            "Final sermon"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His sermon at Arafah during his only Hajj, in 10 AH.",
+          "source": {
+            "text": "Sahih Muslim 1218",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-treaty-of-hudaybiyyah",
+          "canonical": "Treaty of Hudaybiyyah",
+          "variants": [
+            "Hudaybiyyah",
+            "Hudaibiya",
+            "Treaty of Hudaybiya",
+            "Hudaybiya"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The truce with Quraysh in 6 AH, called \"a clear victory\".",
+          "source": {
+            "text": "Qur'an 48:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-conquest-of-makkah",
+          "canonical": "Conquest of Makkah",
+          "variants": [
+            "Fath Makkah",
+            "Conquest of Mecca",
+            "Opening of Makkah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He entered Makkah in 8 AH and forgave its people.",
+          "source": {
+            "text": "Qur'an 110",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-marriage-to-khadijah",
+          "canonical": "Marriage to Khadijah",
+          "variants": [
+            "Marrying Khadijah",
+            "Marriage to Khadija"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He married Khadijah when he was about 25.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-year-of-sorrow",
+          "canonical": "Year of Sorrow",
+          "variants": [
+            "'Am al-Huzn",
+            "Am al-Huzn",
+            "Year of Grief"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The year Khadijah and Abu Talib both died.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-migration-to-abyssinia",
+          "canonical": "Migration to Abyssinia",
+          "variants": [
+            "Hijrah to Abyssinia",
+            "Migration to Ethiopia",
+            "Abyssinia",
+            "Habasha",
+            "Hijrah to Habasha"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Muslims sought refuge with the just Christian king of Abyssinia.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-journey-to-taif",
+          "canonical": "Journey to Ta'if",
+          "variants": [
+            "Taif",
+            "Ta'if",
+            "Visit to Taif",
+            "Journey to Taif"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He was stoned in Ta'if, yet prayed for its people.",
+          "source": {
+            "text": "Sahih al-Bukhari 3231",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-pledges-of-aqabah",
+          "canonical": "Pledges of 'Aqabah",
+          "variants": [
+            "Aqabah",
+            "Pledge of Aqabah",
+            "Bay'at al-Aqabah",
+            "Pledges of Aqabah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Muslims of Madinah pledged to support him, opening the way to the Hijrah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-his-passing",
+          "canonical": "His passing",
+          "variants": [
+            "Death of the Prophet",
+            "Passing away",
+            "Wafat",
+            "His death"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He died in Madinah in 11 AH, aged 63.",
+          "source": {
+            "text": "Sahih al-Bukhari 4466",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-year-of-the-elephant",
+          "canonical": "Year of the Elephant",
+          "variants": [
+            "'Am al-Fil",
+            "Am al-Fil",
+            "Birth",
+            "His birth"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He was born in the year Abraha's army came with elephants to destroy the Ka'bah.",
+          "source": {
+            "text": "Qur'an 105; Ibn Hisham",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-opening-of-the-chest",
+          "canonical": "Opening of the chest",
+          "variants": [
+            "Splitting of the chest",
+            "Shaqq as-Sadr",
+            "Chest opened"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Angels opened and washed his chest while he was a child with Halimah.",
+          "source": {
+            "text": "Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-meeting-bahira",
+          "canonical": "Meeting Bahira",
+          "variants": [
+            "Bahira",
+            "Bahira the monk",
+            "Trip to Syria"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The monk Bahira saw signs of prophethood in the boy on a trade journey to Syria.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-placing-the-black-stone",
+          "canonical": "Placing the Black Stone",
+          "variants": [
+            "Black Stone dispute",
+            "Rebuilding the Kaaba",
+            "Placing the Black Stone"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He settled the tribes' dispute by placing the stone on a cloth for all to lift.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-call-from-mount-safa",
+          "canonical": "Call from Mount Safa",
+          "variants": [
+            "Calling from Safa",
+            "Safa sermon",
+            "Call on Safa"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He gathered Quraysh at Safa and openly warned them.",
+          "source": {
+            "text": "Sahih al-Bukhari 4770",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-boycott-of-banu-hashim",
+          "canonical": "Boycott of Banu Hashim",
+          "variants": [
+            "Boycott",
+            "Shib Abi Talib",
+            "Shi'b Abi Talib",
+            "Siege in the valley"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His clan was boycotted for about three years in the valley of Abu Talib.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-splitting-of-the-moon",
+          "canonical": "Splitting of the moon",
+          "variants": [
+            "Shaqq al-Qamar",
+            "Moon splitting",
+            "Moon split"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The moon split as a sign for the disbelievers.",
+          "source": {
+            "text": "Qur'an 54:1; Sahih al-Bukhari 3637",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-change-of-qiblah",
+          "canonical": "Change of qiblah",
+          "variants": [
+            "Qiblah change",
+            "Changing the qiblah",
+            "Change of qibla"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The direction of prayer changed from Jerusalem to the Ka'bah.",
+          "source": {
+            "text": "Qur'an 2:144",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-building-the-prophets-mosque",
+          "canonical": "Building the Prophet's Mosque",
+          "variants": [
+            "Building Masjid an-Nabawi",
+            "Building the mosque",
+            "Building the masjid"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He helped build the mosque in Madinah with his own hands.",
+          "source": {
+            "text": "Sahih al-Bukhari 428",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-brotherhood-of-the-muhajirun-and-ansar",
+          "canonical": "Brotherhood of the Muhajirun and Ansar",
+          "variants": [
+            "Mu'akhah",
+            "Muakhat",
+            "Brotherhood",
+            "Muakhah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He paired each emigrant with a helper of Madinah as brothers.",
+          "source": {
+            "text": "Sahih al-Bukhari 3780",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-pledge-of-ridwan",
+          "canonical": "Pledge of Ridwan",
+          "variants": [
+            "Bay'at ar-Ridwan",
+            "Pledge under the tree",
+            "Bayat al-Ridwan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Companions pledged under a tree at al-Hudaybiyyah.",
+          "source": {
+            "text": "Qur'an 48:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-mubahalah",
+          "canonical": "Mubahalah",
+          "variants": [
+            "Mubahala"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He invited the Christians of Najran to invoke Allah's curse on whoever lied.",
+          "source": {
+            "text": "Qur'an 3:61",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-seerah-events-year-of-delegations",
+          "canonical": "Year of Delegations",
+          "variants": [
+            "'Am al-Wufud",
+            "Am al-Wufud",
+            "Delegations"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "9 AH, when tribes across Arabia sent delegations to accept Islam.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1020-kaaba-builders",
+      "number": 2,
+      "prompt": "Name someone who built or rebuilt the Ka'bah (in the Qur'an, history or tradition).",
+      "answers": [
+        {
+          "id": "d1020-kaaba-builders-ibrahim",
+          "canonical": "Ibrahim",
+          "honorific": "AS",
+          "variants": [
+            "Abraham",
+            "Ibraheem"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Raised the foundations of the House with his son.",
+          "source": {
+            "text": "Qur'an 2:127",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-kaaba-builders-ismail",
+          "canonical": "Isma'il",
+          "honorific": "AS",
+          "variants": [
+            "Ismail",
+            "Ishmael",
+            "Ismaeel"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Helped his father Ibrahim build the House.",
+          "source": {
+            "text": "Qur'an 2:127",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-kaaba-builders-quraysh",
+          "canonical": "Quraysh",
+          "variants": [
+            "Quraish",
+            "The Quraysh"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Rebuilt it around 605 CE, when the Prophet ﷺ was 35.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-kaaba-builders-muhammad",
+          "canonical": "Muhammad",
+          "variants": [
+            "Prophet Muhammad",
+            "The Prophet",
+            "Rasulullah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Carried stones in the rebuilding and set the Black Stone in place.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-kaaba-builders-abdullah-ibn-al-zubayr",
+          "canonical": "'Abdullah ibn al-Zubayr",
+          "honorific": "RA",
+          "variants": [
+            "Ibn al-Zubayr",
+            "Abdullah ibn Zubayr",
+            "Ibn Zubair"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Rebuilt it in 683 on Ibrahim's foundations.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-kaaba-builders-adam",
+          "canonical": "Adam",
+          "honorific": "AS",
+          "variants": [
+            "Adam (AS)"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Tradition says Adam built the first House of worship there.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          },
+          "note": "This comes from tradition, not the Qur'an or authentic hadith."
+        },
+        {
+          "id": "d1020-kaaba-builders-al-hajjaj",
+          "canonical": "Al-Hajjaj",
+          "variants": [
+            "Hajjaj",
+            "Al-Hajjaj ibn Yusuf",
+            "Hajjaj bin Yusuf"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Restored part of it to Quraysh's design in 693.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-kaaba-builders-murad-iv",
+          "canonical": "Murad IV",
+          "variants": [
+            "Sultan Murad IV",
+            "Murad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Ottoman sultan who rebuilt it after a flood in 1630.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-kaaba-builders-king-fahd",
+          "canonical": "King Fahd",
+          "variants": [
+            "Fahd"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Ordered a major renovation of the Ka'bah in 1996.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-kaaba-builders-the-angels",
+          "canonical": "The angels",
+          "variants": [
+            "Angels"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Some reports say angels first built the House.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          },
+          "note": "This comes from tradition, not the Qur'an or authentic hadith."
+        },
+        {
+          "id": "d1020-kaaba-builders-jurhum",
+          "canonical": "Jurhum",
+          "variants": [
+            "Banu Jurhum"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The tribe that lived in Makkah after Isma'il and is said to have rebuilt it.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-kaaba-builders-amalekites",
+          "canonical": "Amalekites",
+          "variants": [
+            "'Amaliqah",
+            "Amaliqah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Said to have rebuilt it before Jurhum.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-kaaba-builders-qusayy-ibn-kilab",
+          "canonical": "Qusayy ibn Kilab",
+          "variants": [
+            "Qusayy",
+            "Qusay"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An ancestor of the Prophet ﷺ who rebuilt it and organised Makkah.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1020-rulers",
+      "number": 3,
+      "prompt": "Name a famous Muslim ruler from history (after the four Rightly Guided Caliphs).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Abu Bakr",
+            "Umar",
+            "Uthman",
+            "Ali",
+            "Umar ibn al-Khattab"
+          ],
+          "message": "That's one of the four Rightly Guided Caliphs. Try someone later!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1020-rulers-salah-al-din",
+          "canonical": "Salah al-Din",
+          "variants": [
+            "Saladin",
+            "Salahuddin",
+            "Salah ad-Din",
+            "Salahuddin Ayyubi",
+            "Salah al-Din al-Ayyubi"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Saladin (d. 1193), who retook Jerusalem in 1187.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-mehmed-ii",
+          "canonical": "Mehmed II",
+          "variants": [
+            "Mehmed the Conqueror",
+            "Muhammad al-Fatih",
+            "Fatih Sultan Mehmet",
+            "Sultan Mehmed",
+            "Mehmet II"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The Conqueror', who took Constantinople in 1453.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-suleiman-the-magnificent",
+          "canonical": "Suleiman the Magnificent",
+          "variants": [
+            "Suleiman",
+            "Sulayman al-Qanuni",
+            "Kanuni",
+            "Suleyman"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Ottoman sultan (r. 1520–1566) known as 'the Lawgiver'.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-harun-al-rashid",
+          "canonical": "Harun al-Rashid",
+          "variants": [
+            "Harun Rashid",
+            "Haroon Rasheed",
+            "Harun ar-Rashid"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Abbasid caliph of Baghdad's golden age (r. 786–809).",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-umar-ibn-abd-al-aziz",
+          "canonical": "'Umar ibn 'Abd al-'Aziz",
+          "variants": [
+            "Umar II",
+            "Umar bin Abdul Aziz",
+            "Umar ibn Abdul Aziz"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Umayyad caliph famed for his justice, called 'Umar II.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-mansa-musa",
+          "canonical": "Mansa Musa",
+          "variants": [
+            "Musa I of Mali"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "King of Mali, famed for his wealth and his Hajj of 1324.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-ertugrul",
+          "canonical": "Ertugrul",
+          "variants": [
+            "Ertugrul Ghazi",
+            "Ertuğrul"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Father of Osman, the founder of the Ottoman state.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-osman-i",
+          "canonical": "Osman I",
+          "variants": [
+            "Osman Ghazi",
+            "Uthman I",
+            "Osman"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Founder of the Ottoman dynasty (d. 1324).",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-alp-arslan",
+          "canonical": "Alp Arslan",
+          "variants": [
+            "Alparslan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Seljuk sultan who won the Battle of Manzikert in 1071.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-baybars",
+          "canonical": "Baybars",
+          "variants": [
+            "Sultan Baybars",
+            "Al-Zahir Baybars",
+            "Baibars"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Mamluk sultan who fought the Mongols and Crusaders.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-aurangzeb",
+          "canonical": "Aurangzeb",
+          "variants": [
+            "Alamgir",
+            "Aurangzeb Alamgir"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Mughal emperor (r. 1658–1707).",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-abd-al-rahman-iii",
+          "canonical": "'Abd al-Rahman III",
+          "variants": [
+            "Abdur Rahman III",
+            "Abd al-Rahman al-Nasir",
+            "Abdul Rahman III"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Declared the caliphate of Cordoba in 929.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-nur-al-din-zangi",
+          "canonical": "Nur al-Din Zangi",
+          "variants": [
+            "Nur ad-Din",
+            "Nuruddin Zengi",
+            "Nur al-Din"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Ruler of Syria who united Muslims against the Crusaders.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-mahmud-of-ghazni",
+          "canonical": "Mahmud of Ghazni",
+          "variants": [
+            "Mahmud Ghaznavi",
+            "Mahmud Ghazni"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Ghaznavid sultan (r. 998–1030).",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-tipu-sultan",
+          "canonical": "Tipu Sultan",
+          "variants": [
+            "Tipu"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Ruler of Mysore who fought the British (d. 1799).",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-qutuz",
+          "canonical": "Qutuz",
+          "variants": [
+            "Saif al-Din Qutuz",
+            "Sultan Qutuz"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mamluk sultan who defeated the Mongols at 'Ayn Jalut in 1260.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-selim-i",
+          "canonical": "Selim I",
+          "variants": [
+            "Yavuz Selim",
+            "Selim the Grim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Ottoman sultan who brought Egypt and the Holy Cities under Ottoman rule.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-al-mamun",
+          "canonical": "Al-Ma'mun",
+          "variants": [
+            "Mamun",
+            "Al-Mamun"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Abbasid caliph who patronised the House of Wisdom.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-yusuf-ibn-tashfin",
+          "canonical": "Yusuf ibn Tashfin",
+          "variants": [
+            "Yusuf bin Tashfin"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Almoravid ruler who founded Marrakesh.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-abd-al-malik-ibn-marwan",
+          "canonical": "'Abd al-Malik ibn Marwan",
+          "variants": [
+            "Abdul Malik",
+            "Abd al-Malik"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Umayyad caliph who built the Dome of the Rock.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-babur",
+          "canonical": "Babur",
+          "variants": [
+            "Babar",
+            "Zahir al-Din Babur"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Founder of the Mughal Empire (d. 1530).",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-shah-jahan",
+          "canonical": "Shah Jahan",
+          "variants": [
+            "Shahjahan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mughal emperor who built the Taj Mahal.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-akbar",
+          "canonical": "Akbar",
+          "variants": [
+            "Akbar the Great"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mughal emperor (r. 1556–1605).",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-abdulhamid-ii",
+          "canonical": "Abdulhamid II",
+          "variants": [
+            "Abdul Hamid II",
+            "Abdulhamid"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Ottoman sultan (r. 1876–1909).",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-al-mutasim",
+          "canonical": "Al-Mu'tasim",
+          "variants": [
+            "Mutasim",
+            "Al-Mutasim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Abbasid caliph who founded Samarra.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-malik-shah",
+          "canonical": "Malik Shah",
+          "variants": [
+            "Malikshah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Seljuk sultan under whom Nizam al-Mulk served.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-murad-ii",
+          "canonical": "Murad II",
+          "variants": [],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ottoman sultan, father of Mehmed II.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-al-walid-i",
+          "canonical": "Al-Walid I",
+          "variants": [
+            "Walid I",
+            "Al-Walid ibn Abd al-Malik"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Umayyad caliph who built the Great Mosque of Damascus.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-rulers-usman-dan-fodio",
+          "canonical": "Usman dan Fodio",
+          "variants": [
+            "Uthman dan Fodio",
+            "Shehu Usman"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Founder of the Sokoto Caliphate.",
+          "source": {
+            "text": "Standard histories of the Islamic world",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1020-dua-times",
+      "number": 4,
+      "prompt": "Name a time or situation when du'a is especially likely to be answered.",
+      "answers": [
+        {
+          "id": "d1020-dua-times-last-third-of-the-night",
+          "canonical": "Last third of the night",
+          "variants": [
+            "Tahajjud time",
+            "Late night",
+            "Last part of the night",
+            "Night",
+            "Tahajjud"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Allah descends to the lowest heaven and asks who is calling upon Him.",
+          "source": {
+            "text": "Sahih al-Bukhari 1145",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-while-fasting",
+          "canonical": "While fasting",
+          "variants": [
+            "Fasting",
+            "When fasting",
+            "At iftar",
+            "Breaking the fast",
+            "Iftar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The fasting person's du'a is not turned back, especially at iftar.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3598",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-in-sujud",
+          "canonical": "In sujud",
+          "variants": [
+            "Sujud",
+            "Prostration",
+            "Sajdah",
+            "In prostration"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"The closest a servant is to his Lord is while prostrating.\"",
+          "source": {
+            "text": "Sahih Muslim 482",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-laylat-al-qadr",
+          "canonical": "Laylat al-Qadr",
+          "variants": [
+            "Night of Power",
+            "Lailatul Qadr",
+            "Laylatul Qadr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Prophet ﷺ taught 'Aishah what to say on that night.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3513",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-day-of-arafah",
+          "canonical": "Day of Arafah",
+          "variants": [
+            "Arafah",
+            "Arafat",
+            "Day of Arafat"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"The best du'a is the du'a of the Day of Arafah.\"",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3585",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-hour-on-friday",
+          "canonical": "Hour on Friday",
+          "variants": [
+            "Friday",
+            "Jumuah",
+            "Last hour of Friday",
+            "Jummah",
+            "Friday afternoon"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "There is an hour on Friday when no du'a is refused.",
+          "source": {
+            "text": "Sahih al-Bukhari 935",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-between-adhan-and-iqamah",
+          "canonical": "Between adhan and iqamah",
+          "variants": [
+            "After adhan",
+            "Between the adhan and iqamah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Du'a between the adhan and iqamah is not rejected.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 521",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-while-travelling",
+          "canonical": "While travelling",
+          "variants": [
+            "Travelling",
+            "Traveller",
+            "Musafir",
+            "On a journey"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The traveller's du'a is answered.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 1905",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-when-it-rains",
+          "canonical": "When it rains",
+          "variants": [
+            "Rain",
+            "Raining",
+            "During rain"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Du'a is accepted when rain falls.",
+          "source": {
+            "text": "Sunan Abi Dawud 2540",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-the-oppressed",
+          "canonical": "The oppressed",
+          "variants": [
+            "Oppressed",
+            "When oppressed",
+            "Oppressed person"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Beware the du'a of the oppressed — there is no barrier between it and Allah.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1496",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-a-parent-for-their-child",
+          "canonical": "A parent for their child",
+          "variants": [
+            "Parents",
+            "Parents dua",
+            "Parent for a child",
+            "Mother"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A parent's du'a for their child is answered.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 1905",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-after-obligatory-prayers",
+          "canonical": "After obligatory prayers",
+          "variants": [
+            "After salah",
+            "After prayer",
+            "After the prayer"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Du'a at the end of the obligatory prayers is most heard.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3499",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-for-someone-in-their-absence",
+          "canonical": "For someone in their absence",
+          "variants": [
+            "For your brother",
+            "Secretly for someone",
+            "For others"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An angel says \"And for you the same\" when you pray for your brother secretly.",
+          "source": {
+            "text": "Sahih Muslim 2733",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-drinking-zamzam",
+          "canonical": "Drinking Zamzam",
+          "variants": [
+            "Zamzam"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Zamzam water is for whatever it is drunk for.\"",
+          "source": {
+            "text": "Sunan Ibn Majah 3062",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-when-the-rooster-crows",
+          "canonical": "When the rooster crows",
+          "variants": [
+            "Rooster crowing",
+            "Rooster"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ask Allah for His bounty when you hear a rooster, for it has seen an angel.",
+          "source": {
+            "text": "Sahih al-Bukhari 3303",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-dua-times-when-armies-meet",
+          "canonical": "When armies meet",
+          "variants": [
+            "In battle",
+            "Battle"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Du'a when the ranks meet in battle is not turned back.",
+          "source": {
+            "text": "Sunan Abi Dawud 2540",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1020-friday",
+      "number": 5,
+      "prompt": "Name something Muslims are encouraged to do on Friday (Jumu'ah).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Fasting",
+            "Fasting on Friday"
+          ],
+          "message": "Fasting on Friday alone is discouraged. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1020-friday-ghusl",
+          "canonical": "Ghusl",
+          "variants": [
+            "Bath",
+            "Shower",
+            "Taking a bath",
+            "Washing",
+            "Taking a shower"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Taking a full bath before the Friday prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari 877",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-jumuah-prayer",
+          "canonical": "Jumu'ah prayer",
+          "variants": [
+            "Friday prayer",
+            "Jummah prayer",
+            "Juma prayer",
+            "Going to Jummah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Attending the Friday congregational prayer.",
+          "source": {
+            "text": "Qur'an 62:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-friday-reading-surah-al-kahf",
+          "canonical": "Reading Surah al-Kahf",
+          "variants": [
+            "Kahf",
+            "Surah Kahf",
+            "Reading Kahf",
+            "Al-Kahf",
+            "Surah al-Kahf"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Its light shines for the reader between the two Fridays.",
+          "source": {
+            "text": "Al-Hakim, al-Mustadrak 3392",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-salawat-on-the-prophet",
+          "canonical": "Salawat on the Prophet",
+          "variants": [
+            "Salawat",
+            "Durood",
+            "Darood",
+            "Sending blessings on the Prophet"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Send abundant blessings on me on Friday.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 1047",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-wearing-perfume",
+          "canonical": "Wearing perfume",
+          "variants": [
+            "Perfume",
+            "Fragrance",
+            "Itr",
+            "Scent"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Using perfume before the prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari 883",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-wearing-best-clothes",
+          "canonical": "Wearing best clothes",
+          "variants": [
+            "Best clothes",
+            "Nice clothes",
+            "Clean clothes",
+            "Good clothes"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Wearing your best clothes for Jumu'ah.",
+          "source": {
+            "text": "Sunan Abi Dawud 1078",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-going-early",
+          "canonical": "Going early",
+          "variants": [
+            "Going early to the mosque",
+            "Arriving early",
+            "Early"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Going early earns a reward like sacrificing a camel.",
+          "source": {
+            "text": "Sahih al-Bukhari 881",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-listening-to-the-khutbah",
+          "canonical": "Listening to the khutbah",
+          "variants": [
+            "Khutbah",
+            "Sermon",
+            "Listening to the sermon",
+            "Staying silent"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Listening in silence to the sermon.",
+          "source": {
+            "text": "Sahih al-Bukhari 934",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-making-dua",
+          "canonical": "Making du'a",
+          "variants": [
+            "Dua",
+            "Duaa",
+            "Supplication",
+            "Last hour dua"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Seeking the hour on Friday when du'a is answered.",
+          "source": {
+            "text": "Sahih al-Bukhari 935",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-using-the-miswak",
+          "canonical": "Using the miswak",
+          "variants": [
+            "Miswak",
+            "Siwak",
+            "Brushing teeth"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Cleaning the teeth with the miswak.",
+          "source": {
+            "text": "Sahih al-Bukhari 880",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-walking-to-the-mosque",
+          "canonical": "Walking to the mosque",
+          "variants": [
+            "Walking"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Walking rather than riding.",
+          "source": {
+            "text": "Sunan Abi Dawud 345",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-sitting-near-the-imam",
+          "canonical": "Sitting near the imam",
+          "variants": [
+            "Sitting close to the imam",
+            "Front row"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Sitting close to the imam.",
+          "source": {
+            "text": "Sunan Abi Dawud 1108",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-reciting-as-sajdah-and-al-insan-at-fajr",
+          "canonical": "Reciting as-Sajdah and al-Insan at Fajr",
+          "variants": [
+            "Surah Sajdah",
+            "Surah Insan",
+            "Sajdah and Insan",
+            "Sajdah and Dahr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Prophet ﷺ recited these two surahs in Friday Fajr.",
+          "source": {
+            "text": "Sahih Muslim 879",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-not-stepping-over-people",
+          "canonical": "Not stepping over people",
+          "variants": [
+            "Not stepping over necks"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Not stepping over people's necks to get to the front.",
+          "source": {
+            "text": "Sunan Abi Dawud 1118",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-two-rakahs-on-arrival",
+          "canonical": "Two rak'ahs on arrival",
+          "variants": [
+            "Tahiyyat al-Masjid",
+            "Two rakahs",
+            "Greeting the mosque"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Praying two short rak'ahs on entering, even during the khutbah.",
+          "source": {
+            "text": "Sahih Muslim 875",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-friday-cutting-nails",
+          "canonical": "Cutting nails",
+          "variants": [
+            "Trimming nails",
+            "Clipping nails"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Some early Muslims cut their nails on Friday.",
+          "source": {
+            "text": "Reports from the early Muslims",
+            "status": "needs-review"
+          },
+          "note": "The hadith about Friday specifically are weak; it was a practice of some early Muslims."
+        }
+      ]
+    },
+    {
+      "id": "d1020-quran-structure",
+      "number": 6,
+      "prompt": "Name a term for a part or division of the Qur'an.",
+      "answers": [
+        {
+          "id": "d1020-quran-structure-surah",
+          "canonical": "Surah",
+          "variants": [
+            "Sura",
+            "Surat",
+            "Chapter",
+            "Chapters"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A chapter — there are 114.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-ayah",
+          "canonical": "Ayah",
+          "variants": [
+            "Ayat",
+            "Aya",
+            "Verse",
+            "Verses"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A verse — over 6,000 in all.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-juz",
+          "canonical": "Juz'",
+          "variants": [
+            "Juz",
+            "Para",
+            "Siparah",
+            "Sipara",
+            "Part",
+            "Ajza"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "One of 30 equal parts, often read one a night in Ramadan.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-mushaf",
+          "canonical": "Mushaf",
+          "variants": [
+            "Mus'haf",
+            "Copy of the Quran"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A written copy of the Qur'an.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-basmalah",
+          "canonical": "Basmalah",
+          "variants": [
+            "Bismillah",
+            "Bismillahir Rahmanir Rahim"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"In the name of Allah\", which opens every surah but one.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-hizb",
+          "canonical": "Hizb",
+          "variants": [
+            "Ahzab",
+            "Half juz"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Half of a juz' — the Qur'an has 60.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-makki",
+          "canonical": "Makki",
+          "variants": [
+            "Makkan",
+            "Meccan",
+            "Makki surah",
+            "Meccan surah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A surah revealed before the Hijrah.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-madani",
+          "canonical": "Madani",
+          "variants": [
+            "Madinan",
+            "Medinan",
+            "Madani surah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A surah revealed after the Hijrah.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-ruku",
+          "canonical": "Ruku'",
+          "variants": [
+            "Ruku",
+            "Ruku section"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A section marked in the margin of many copies, about a page long.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-manzil",
+          "canonical": "Manzil",
+          "variants": [
+            "Manazil",
+            "Seven parts"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "One of seven parts for reading the whole Qur'an in a week.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-sajdah-marks",
+          "canonical": "Sajdah marks",
+          "variants": [
+            "Sajdah tilawah",
+            "Prostration of recitation",
+            "Ayat of sajdah",
+            "Sajdah verses"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Verses of prostration — reciting them calls for a sajdah.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-rub-al-hizb",
+          "canonical": "Rub' al-Hizb",
+          "variants": [
+            "Quarter hizb",
+            "Rub"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A quarter of a hizb.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-waqf-signs",
+          "canonical": "Waqf signs",
+          "variants": [
+            "Stop signs",
+            "Pause marks"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Marks showing where to stop or continue reciting.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-huruf-muqattaat",
+          "canonical": "Huruf muqatta'at",
+          "variants": [
+            "Disjointed letters",
+            "Muqattaat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The disjointed letters that open 29 surahs.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-mufassal",
+          "canonical": "Mufassal",
+          "variants": [
+            "Al-Mufassal",
+            "Short surahs"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The section of shorter surahs from Qaf (or al-Hujurat) to the end.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-quran-structure-as-sab-at-tiwal",
+          "canonical": "As-Sab' at-Tiwal",
+          "variants": [
+            "Seven long surahs",
+            "Long surahs",
+            "Sab al-Tiwal"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The seven long surahs at the start of the Qur'an.",
+          "source": {
+            "text": "Standard works of 'ulum al-Qur'an",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1865 @@
+{
+  "date": "2026-10-18",
+  "questions": [
+    {
+      "id": "d1018-muqattaat",
+      "number": 1,
+      "prompt": "Name a set of the disjointed letters (huruf muqatta'at) that open some surahs.",
+      "answers": [
+        {
+          "id": "d1018-muqattaat-alif-lam-mim",
+          "canonical": "Alif Lam Mim",
+          "variants": [
+            "ALM",
+            "Alif Laam Meem",
+            "Alif Lam Meem",
+            "Alif Laam Mim"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Opens six surahs, including al-Baqarah and Al 'Imran.",
+          "source": {
+            "text": "Qur'an 2:1; 3:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-ya-sin",
+          "canonical": "Ya Sin",
+          "variants": [
+            "Yasin",
+            "Yaseen",
+            "Ya Seen",
+            "Yaa Seen"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Opens Surah Ya Sin, often called the heart of the Qur'an.",
+          "source": {
+            "text": "Qur'an 36:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-ta-ha",
+          "canonical": "Ta Ha",
+          "variants": [
+            "Taha",
+            "Taa Haa",
+            "Ta Haa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Opens Surah Ta Ha.",
+          "source": {
+            "text": "Qur'an 20:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-ha-mim",
+          "canonical": "Ha Mim",
+          "variants": [
+            "Hamim",
+            "Haa Meem",
+            "Ha Meem",
+            "Haa Mim"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Opens the seven surahs known as the Hawamim (40–46).",
+          "source": {
+            "text": "Qur'an 40:1; 41:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-alif-lam-raa",
+          "canonical": "Alif Lam Raa",
+          "variants": [
+            "ALR",
+            "Alif Laam Raa",
+            "Alif Lam Raa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Opens five surahs, including Yunus, Hud and Yusuf.",
+          "source": {
+            "text": "Qur'an 10:1; 12:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-qaf",
+          "canonical": "Qaf",
+          "variants": [
+            "Qaaf"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Opens Surah Qaf.",
+          "source": {
+            "text": "Qur'an 50:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-sad",
+          "canonical": "Sad",
+          "variants": [
+            "Saad",
+            "Suad",
+            "Saaad"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Opens Surah Sad.",
+          "source": {
+            "text": "Qur'an 38:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-nun",
+          "canonical": "Nun",
+          "variants": [
+            "Noon",
+            "Nuun"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Opens Surah al-Qalam: \"Nun. By the pen.\"",
+          "source": {
+            "text": "Qur'an 68:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-alif-lam-mim-sad",
+          "canonical": "Alif Lam Mim Sad",
+          "variants": [
+            "ALMS",
+            "Alif Lam Meem Saad",
+            "Alif Laam Meem Saad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Opens Surah al-A'raf.",
+          "source": {
+            "text": "Qur'an 7:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-alif-lam-mim-raa",
+          "canonical": "Alif Lam Mim Raa",
+          "variants": [
+            "ALMR",
+            "Alif Lam Meem Raa",
+            "Alif Laam Meem Raa"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Opens Surah ar-Ra'd.",
+          "source": {
+            "text": "Qur'an 13:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-ta-sin-mim",
+          "canonical": "Ta Sin Mim",
+          "variants": [
+            "Ta Seen Meem",
+            "Taa Seen Meem",
+            "Tasm"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Opens Surahs ash-Shu'ara' and al-Qasas.",
+          "source": {
+            "text": "Qur'an 26:1; 28:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-ta-sin",
+          "canonical": "Ta Sin",
+          "variants": [
+            "Ta Seen",
+            "Taa Seen"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Opens Surah an-Naml.",
+          "source": {
+            "text": "Qur'an 27:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-kaf-ha-ya-ayn-sad",
+          "canonical": "Kaf Ha Ya 'Ayn Sad",
+          "variants": [
+            "Kaf Ha Ya Ain Sad",
+            "Kaaf Haa Yaa Ayn Saad",
+            "Kaf Ha Ya Ayn Sad"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Opens Surah Maryam — the longest set, five letters.",
+          "source": {
+            "text": "Qur'an 19:1",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        },
+        {
+          "id": "d1018-muqattaat-ha-mim-ayn-sin-qaf",
+          "canonical": "Ha Mim 'Ayn Sin Qaf",
+          "variants": [
+            "Ha Meem Ain Seen Qaaf",
+            "Ha Mim Ayn Sin Qaf",
+            "Haa Meem Ayn Seen Qaaf"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Opens Surah ash-Shura, split over two verses.",
+          "source": {
+            "text": "Qur'an 42:1–2",
+            "status": "quran-reference"
+          },
+          "note": "The meaning of these letters is known to Allah; scholars have offered many views."
+        }
+      ]
+    },
+    {
+      "id": "d1018-tafsir",
+      "number": 2,
+      "prompt": "Name a well-known tafsir (commentary on the Qur'an) or its author.",
+      "answers": [
+        {
+          "id": "d1018-tafsir-tafsir-ibn-kathir",
+          "canonical": "Tafsir Ibn Kathir",
+          "variants": [
+            "Ibn Kathir",
+            "Ibn Katheer",
+            "Tafseer Ibn Kathir",
+            "Tafsir ibn Kathir"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "By Ibn Kathir (d. 1373), explaining the Qur'an by the Qur'an and hadith; the most widely read today.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-tafsir-al-jalalayn",
+          "canonical": "Tafsir al-Jalalayn",
+          "variants": [
+            "Jalalayn",
+            "Jalalain",
+            "Tafsir Jalalain",
+            "Al-Jalalayn"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"The Tafsir of the two Jalals\" — al-Mahalli and his student al-Suyuti.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-tafsir-al-tabari",
+          "canonical": "Tafsir al-Tabari",
+          "variants": [
+            "Tabari",
+            "Al-Tabari",
+            "Jami al-Bayan",
+            "Ibn Jarir",
+            "Ibn Jarir al-Tabari"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Jami' al-Bayan by Ibn Jarir al-Tabari (d. 923), the great early commentary.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-tafsir-al-qurtubi",
+          "canonical": "Tafsir al-Qurtubi",
+          "variants": [
+            "Qurtubi",
+            "Al-Qurtubi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Al-Qurtubi's commentary (13th century), focused on legal rulings.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-tafhim-al-quran",
+          "canonical": "Tafhim al-Qur'an",
+          "variants": [
+            "Maududi",
+            "Mawdudi",
+            "Tafheem ul Quran",
+            "Tafhim ul Quran",
+            "Towards Understanding the Quran"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Abul A'la Maududi's Urdu commentary.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-fi-zilal-al-quran",
+          "canonical": "Fi Zilal al-Qur'an",
+          "variants": [
+            "Sayyid Qutb",
+            "In the Shade of the Quran",
+            "Fi Dhilal al-Quran",
+            "Fi Zilal"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"In the Shade of the Qur'an\" by Sayyid Qutb.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-tafsir-al-sadi",
+          "canonical": "Tafsir al-Sa'di",
+          "variants": [
+            "Sadi",
+            "As-Sadi",
+            "Al-Sadi",
+            "Taysir al-Karim al-Rahman"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A concise, popular commentary by 'Abd al-Rahman al-Sa'di (d. 1956).",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-tafsir-al-razi",
+          "canonical": "Tafsir al-Razi",
+          "variants": [
+            "Fakhr al-Din al-Razi",
+            "Mafatih al-Ghayb",
+            "Tafsir al-Kabir",
+            "Al-Razi",
+            "Fakhruddin Razi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mafatih al-Ghayb, the vast commentary of Fakhr al-Din al-Razi.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-al-kashshaf",
+          "canonical": "Al-Kashshaf",
+          "variants": [
+            "Zamakhshari",
+            "Kashshaf",
+            "Al-Zamakhshari"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Al-Zamakhshari's commentary, famous for its analysis of the Qur'an's language.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-tafsir-al-baghawi",
+          "canonical": "Tafsir al-Baghawi",
+          "variants": [
+            "Baghawi",
+            "Al-Baghawi",
+            "Ma'alim al-Tanzil"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Ma'alim al-Tanzil by al-Baghawi.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-tafsir-al-baydawi",
+          "canonical": "Tafsir al-Baydawi",
+          "variants": [
+            "Baydawi",
+            "Baidawi",
+            "Anwar al-Tanzil"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Anwar al-Tanzil by al-Baydawi, long studied in madrasas.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-al-tahrir-wa-al-tanwir",
+          "canonical": "Al-Tahrir wa al-Tanwir",
+          "variants": [
+            "Ibn Ashur",
+            "Tahrir wat Tanwir",
+            "Ibn Aashur"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The modern commentary of Muhammad al-Tahir Ibn 'Ashur of Tunis.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-maariful-quran",
+          "canonical": "Ma'ariful Qur'an",
+          "variants": [
+            "Maariful Quran",
+            "Mufti Shafi",
+            "Mufti Muhammad Shafi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mufti Muhammad Shafi's Urdu commentary.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-the-message-of-the-quran",
+          "canonical": "The Message of the Qur'an",
+          "variants": [
+            "Muhammad Asad",
+            "Message of the Quran"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Muhammad Asad's English translation and commentary.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-tafsir-ibn-abbas",
+          "canonical": "Tafsir Ibn Abbas",
+          "variants": [
+            "Ibn Abbas",
+            "Tanwir al-Miqbas"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Tanwir al-Miqbas, a commentary attributed to Ibn 'Abbas.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          },
+          "note": "Its attribution to Ibn 'Abbas is considered unreliable."
+        },
+        {
+          "id": "d1018-tafsir-adwa-al-bayan",
+          "canonical": "Adwa' al-Bayan",
+          "variants": [
+            "Shinqiti",
+            "Adwa al-Bayan",
+            "Al-Shinqiti"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Al-Shinqiti's commentary, explaining the Qur'an by the Qur'an.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-ruh-al-maani",
+          "canonical": "Ruh al-Ma'ani",
+          "variants": [
+            "Alusi",
+            "Al-Alusi",
+            "Ruh al-Maani"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Al-Alusi's large commentary.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-tafsir-al-nasafi",
+          "canonical": "Tafsir al-Nasafi",
+          "variants": [
+            "Nasafi",
+            "An-Nasafi",
+            "Madarik al-Tanzil"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Madarik al-Tanzil by al-Nasafi.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-al-durr-al-manthur",
+          "canonical": "Al-Durr al-Manthur",
+          "variants": [
+            "Suyuti",
+            "Al-Suyuti",
+            "Durr al-Manthur"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Al-Suyuti's commentary built from narrations.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-zad-al-masir",
+          "canonical": "Zad al-Masir",
+          "variants": [
+            "Ibn al-Jawzi",
+            "Ibn Jawzi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ibn al-Jawzi's commentary.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-tafsir-ibn-abi-hatim",
+          "canonical": "Tafsir Ibn Abi Hatim",
+          "variants": [
+            "Ibn Abi Hatim"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An early commentary built from narrations.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-tafsir-al-mizan",
+          "canonical": "Al-Mizan",
+          "variants": [
+            "Tafsir al-Mizan",
+            "Tabatabai",
+            "Tabataba'i"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The commentary of 'Allamah Tabataba'i.",
+          "source": {
+            "text": "Standard surveys of tafsir literature",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1018-prophet-belongings",
+      "number": 3,
+      "prompt": "Name an animal or possession that belonged to Prophet Muhammad ﷺ.",
+      "answers": [
+        {
+          "id": "d1018-prophet-belongings-al-qaswa",
+          "canonical": "Al-Qaswa'",
+          "variants": [
+            "Qaswa",
+            "Qaswaa",
+            "Al-Qaswa",
+            "His camel",
+            "Camel"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His she-camel, which he rode on the Hijrah and the Farewell Hajj.",
+          "source": {
+            "text": "Sahih al-Bukhari 2731",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-dhu-al-fiqar",
+          "canonical": "Dhu al-Fiqar",
+          "variants": [
+            "Zulfiqar",
+            "Dhul Fiqar",
+            "Zulfikar",
+            "Dhulfiqar",
+            "Zul Fiqar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His famous sword, later given to 'Ali.",
+          "source": {
+            "text": "Ibn al-Qayyim, Zad al-Ma'ad; al-Tirmidhi, al-Shama'il",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-his-ring",
+          "canonical": "His ring",
+          "variants": [
+            "Ring",
+            "Seal ring",
+            "Silver ring",
+            "Seal"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A silver ring engraved \"Muhammad Rasul Allah\", used as his seal.",
+          "source": {
+            "text": "Sahih al-Bukhari 5872",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-the-burdah",
+          "canonical": "The Burdah",
+          "variants": [
+            "Burdah",
+            "Burda",
+            "Cloak",
+            "Mantle"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His cloak, which he gave to the poet Ka'b ibn Zuhayr.",
+          "source": {
+            "text": "Ibn al-Qayyim, Zad al-Ma'ad; al-Tirmidhi, al-Shama'il",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-duldul",
+          "canonical": "Duldul",
+          "variants": [
+            "Dul Dul",
+            "Dhuldul",
+            "Mule"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A white mule given to him by al-Muqawqis of Egypt.",
+          "source": {
+            "text": "Ibn al-Qayyim, Zad al-Ma'ad; al-Tirmidhi, al-Shama'il",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-sandals",
+          "canonical": "Sandals",
+          "variants": [
+            "Sandal",
+            "Nalayn",
+            "Shoes",
+            "Na'l"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His simple sandals, each with two straps.",
+          "source": {
+            "text": "Sahih al-Bukhari 5857",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-miswak",
+          "canonical": "Miswak",
+          "variants": [
+            "Siwak",
+            "Toothstick"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He used the tooth-stick often, even in his final illness.",
+          "source": {
+            "text": "Sahih al-Bukhari 890",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-al-sakb",
+          "canonical": "Al-Sakb",
+          "variants": [
+            "Sakb",
+            "Horse"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "One of his horses.",
+          "source": {
+            "text": "Ibn al-Qayyim, Zad al-Ma'ad; al-Tirmidhi, al-Shama'il",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-ufayr",
+          "canonical": "'Ufayr",
+          "variants": [
+            "Ufayr",
+            "Yafur",
+            "Ya'fur",
+            "Donkey"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A donkey he rode; sirah books also name a donkey Ya'fur.",
+          "source": {
+            "text": "Sahih al-Bukhari 2856",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-al-adba",
+          "canonical": "Al-'Adba'",
+          "variants": [
+            "Adba",
+            "Al-Adba"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A camel; some say it is another name for al-Qaswa'.",
+          "source": {
+            "text": "Ibn al-Qayyim, Zad al-Ma'ad; al-Tirmidhi, al-Shama'il",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-turban",
+          "canonical": "Turban",
+          "variants": [
+            "Imamah",
+            "Amamah",
+            "Black turban"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He entered Makkah at its conquest wearing a black turban.",
+          "source": {
+            "text": "Sahih Muslim 1358",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-armour",
+          "canonical": "Armour",
+          "variants": [
+            "Coat of mail",
+            "Shield",
+            "Dir",
+            "Armor"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His coat of mail, pawned with a Jewish man for barley when he died.",
+          "source": {
+            "text": "Sahih al-Bukhari 2068",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-kohl-container",
+          "canonical": "Kohl container",
+          "variants": [
+            "Kohl",
+            "Surmah",
+            "Ithmid"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He applied ithmid kohl to his eyes.",
+          "source": {
+            "text": "Ibn al-Qayyim, Zad al-Ma'ad; al-Tirmidhi, al-Shama'il",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-wooden-cup",
+          "canonical": "Wooden cup",
+          "variants": [
+            "Cup",
+            "Qadah",
+            "Drinking cup"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "His wooden drinking cup, kept by Anas ibn Malik.",
+          "source": {
+            "text": "Sahih al-Bukhari 5638",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-leather-pillow",
+          "canonical": "Leather pillow",
+          "variants": [
+            "Pillow"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A leather pillow stuffed with palm fibre.",
+          "source": {
+            "text": "Sahih al-Bukhari 6456",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-prophet-belongings-al-uqab",
+          "canonical": "Al-'Uqab",
+          "variants": [
+            "Uqab",
+            "Banner",
+            "Black banner",
+            "Flag"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "His black banner, carried into battle.",
+          "source": {
+            "text": "Ibn al-Qayyim, Zad al-Ma'ad; al-Tirmidhi, al-Shama'il",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1018-clothing",
+      "number": 4,
+      "prompt": "Name an item of clothing worn by Muslims, traditional or for worship.",
+      "answers": [
+        {
+          "id": "d1018-clothing-hijab",
+          "canonical": "Hijab",
+          "variants": [
+            "Headscarf",
+            "Hejab",
+            "Head scarf"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A headscarf covering the hair.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-abaya",
+          "canonical": "Abaya",
+          "variants": [
+            "Abaaya"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A loose, full-length outer robe.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-thobe",
+          "canonical": "Thobe",
+          "variants": [
+            "Thawb",
+            "Thoub",
+            "Dishdasha",
+            "Kandura",
+            "Kandoora"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A long robe worn by men, especially in Arabia.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-niqab",
+          "canonical": "Niqab",
+          "variants": [
+            "Niqaab",
+            "Face veil"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A veil covering the face.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-jilbab",
+          "canonical": "Jilbab",
+          "variants": [
+            "Jilbaab",
+            "Outer garment"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A loose outer garment, mentioned in the Qur'an.",
+          "source": {
+            "text": "Qur'an 33:59",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-clothing-kufi",
+          "canonical": "Kufi",
+          "variants": [
+            "Topi",
+            "Taqiyah",
+            "Taqiya",
+            "Prayer cap",
+            "Skullcap"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A brimless cap worn by men.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-burqa",
+          "canonical": "Burqa",
+          "variants": [
+            "Burka",
+            "Burkha"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A garment covering the whole body and face.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-khimar",
+          "canonical": "Khimar",
+          "variants": [
+            "Khimaar"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A head covering drawn over the chest, mentioned in the Qur'an.",
+          "source": {
+            "text": "Qur'an 24:31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-clothing-turban",
+          "canonical": "Turban",
+          "variants": [
+            "Imamah",
+            "Amamah",
+            "Pagri",
+            "Pagdi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A long cloth wound around the head — the imamah.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-shalwar-kameez",
+          "canonical": "Shalwar kameez",
+          "variants": [
+            "Salwar kameez",
+            "Kurta",
+            "Shalwar",
+            "Kameez"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Loose trousers and a long tunic, worn across South Asia.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-keffiyeh",
+          "canonical": "Keffiyeh",
+          "variants": [
+            "Shemagh",
+            "Ghutra",
+            "Kufiya",
+            "Kufiyya",
+            "Kufiyah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A square headdress folded into a triangle.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-jubbah",
+          "canonical": "Jubbah",
+          "variants": [
+            "Jubba",
+            "Jubah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A long, loose coat.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-chador",
+          "canonical": "Chador",
+          "variants": [
+            "Chadar",
+            "Chaddar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A full-length cloak worn in Iran.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-bisht",
+          "canonical": "Bisht",
+          "variants": [
+            "Mishlah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A fine cloak worn over the thobe on special occasions.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-izar",
+          "canonical": "Izar",
+          "variants": [
+            "Lungi",
+            "Sarong",
+            "Waist wrap"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A waist wrap, worn by the Prophet ﷺ.",
+          "source": {
+            "text": "Sahih al-Bukhari 5787",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-ihram-garments",
+          "canonical": "Ihram garments",
+          "variants": [
+            "Ihram",
+            "Ihram clothes",
+            "Ihram cloth"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Two plain white sheets worn by men on Hajj and Umrah.",
+          "source": {
+            "text": "Sahih al-Bukhari 1542",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-agal",
+          "canonical": "Agal",
+          "variants": [
+            "Iqal",
+            "Igal"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The black cord that holds the ghutra in place.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-fez",
+          "canonical": "Fez",
+          "variants": [
+            "Tarboosh",
+            "Tarbush"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A red felt cap with a tassel.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-songkok",
+          "canonical": "Songkok",
+          "variants": [
+            "Peci",
+            "Kopiah",
+            "Kopiyah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A cap worn in Malaysia and Indonesia.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-shayla",
+          "canonical": "Shayla",
+          "variants": [
+            "Shaylah",
+            "Sheila"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A long rectangular scarf wrapped around the head.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-djellaba",
+          "canonical": "Djellaba",
+          "variants": [
+            "Jellaba",
+            "Djellabah",
+            "Jalabiya",
+            "Jalabiyya",
+            "Galabeya"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A hooded robe from North Africa.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-telekung",
+          "canonical": "Telekung",
+          "variants": [
+            "Mukena",
+            "Telekong"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A white prayer garment worn by women in Southeast Asia.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-khuffs",
+          "canonical": "Khuffs",
+          "variants": [
+            "Khuff",
+            "Leather socks"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Leather socks, which may be wiped over in wudu.",
+          "source": {
+            "text": "Sahih al-Bukhari 202",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-clothing-sirwal",
+          "canonical": "Sirwal",
+          "variants": [
+            "Sirwaal",
+            "Trousers"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Loose trousers.",
+          "source": {
+            "text": "Qur'an 24:31; 33:59 (khimar, jilbab); otherwise traditional dress",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1018-hadith-grades",
+      "number": 5,
+      "prompt": "Name a grade or category of hadith.",
+      "answers": [
+        {
+          "id": "d1018-hadith-grades-sahih",
+          "canonical": "Sahih",
+          "variants": [
+            "Saheeh",
+            "Authentic",
+            "Sound"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Authentic: an unbroken chain of upright, precise narrators, with no hidden flaw.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-daif",
+          "canonical": "Da'if",
+          "variants": [
+            "Daif",
+            "Weak",
+            "Dhaif",
+            "Zaeef",
+            "Daeef"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Weak: missing one of the conditions of a hasan hadith.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-hasan",
+          "canonical": "Hasan",
+          "variants": [
+            "Good"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Good: like sahih, but with a narrator of slightly lesser precision.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-mawdu",
+          "canonical": "Mawdu'",
+          "variants": [
+            "Mawdu",
+            "Maudu",
+            "Fabricated",
+            "Fake",
+            "Forged"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Fabricated: falsely attributed to the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-mutawatir",
+          "canonical": "Mutawatir",
+          "variants": [
+            "Mutawattir",
+            "Mass-transmitted"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Mass-transmitted: reported by so many that a lie is impossible.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-hadith-qudsi",
+          "canonical": "Hadith Qudsi",
+          "variants": [
+            "Qudsi",
+            "Divine hadith",
+            "Sacred hadith"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Words of Allah conveyed by the Prophet ﷺ in his own phrasing.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-muttafaq-alayh",
+          "canonical": "Muttafaq 'alayh",
+          "variants": [
+            "Muttafaqun alayh",
+            "Agreed upon",
+            "Muttafaq alaih"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Agreed upon: reported by both al-Bukhari and Muslim.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-ahad",
+          "canonical": "Ahad",
+          "variants": [
+            "Aahad",
+            "Solitary"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Solitary: not reaching the level of mutawatir.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-marfu",
+          "canonical": "Marfu'",
+          "variants": [
+            "Marfu",
+            "Marfoo"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Raised: attributed to the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-mawquf",
+          "canonical": "Mawquf",
+          "variants": [
+            "Mawqoof",
+            "Stopped"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Stopped: the words of a Companion.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-maqtu",
+          "canonical": "Maqtu'",
+          "variants": [
+            "Maqtu",
+            "Maqtoo"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Severed: the words of a Successor.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-mursal",
+          "canonical": "Mursal",
+          "variants": [
+            "Mursal hadith"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Successor reports directly from the Prophet ﷺ, missing the Companion.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-gharib",
+          "canonical": "Gharib",
+          "variants": [
+            "Ghareeb",
+            "Strange"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Strange: reported by only one narrator at some stage.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-munqati",
+          "canonical": "Munqati'",
+          "variants": [
+            "Munqati",
+            "Broken"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Broken: a narrator is missing from the chain.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-muallaq",
+          "canonical": "Mu'allaq",
+          "variants": [
+            "Muallaq",
+            "Suspended"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Suspended: the start of the chain is dropped.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-mudal",
+          "canonical": "Mu'dal",
+          "variants": [
+            "Mudal"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Two or more consecutive narrators are missing.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-mashhur",
+          "canonical": "Mashhur",
+          "variants": [
+            "Mashhoor",
+            "Famous"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Well-known: reported by three or more at each stage.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-aziz",
+          "canonical": "'Aziz",
+          "variants": [
+            "Aziz"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Reported by at least two at every stage.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-munkar",
+          "canonical": "Munkar",
+          "variants": [
+            "Munkar hadith",
+            "Denounced"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Denounced: a weak narrator contradicting reliable ones.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-shadhdh",
+          "canonical": "Shadhdh",
+          "variants": [
+            "Shadh",
+            "Shaz",
+            "Anomalous"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Anomalous: a reliable narrator contradicting more reliable ones.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-mudallas",
+          "canonical": "Mudallas",
+          "variants": [
+            "Tadlis"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A narrator conceals a gap in the chain.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-matruk",
+          "canonical": "Matruk",
+          "variants": [
+            "Matrook",
+            "Abandoned"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Abandoned: from a narrator accused of lying.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-hadith-grades-mudtarib",
+          "canonical": "Mudtarib",
+          "variants": [
+            "Shaky"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Shaky: reported in conflicting ways that cannot be reconciled.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; standard works on hadith terminology",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1018-ihram-rules",
+      "number": 6,
+      "prompt": "Name something forbidden while in the state of ihram.",
+      "answers": [
+        {
+          "id": "d1018-ihram-rules-perfume",
+          "canonical": "Perfume",
+          "variants": [
+            "Using perfume",
+            "Fragrance",
+            "Scent",
+            "Wearing perfume",
+            "Scented soap"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Using perfume or scented products.",
+          "source": {
+            "text": "Sahih al-Bukhari 1542; Sahih Muslim, Book of Hajj",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-cutting-hair",
+          "canonical": "Cutting hair",
+          "variants": [
+            "Shaving",
+            "Cutting the hair",
+            "Removing hair",
+            "Haircut",
+            "Shaving the head"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Cutting, shaving or plucking hair.",
+          "source": {
+            "text": "Qur'an 2:196",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-cutting-nails",
+          "canonical": "Cutting nails",
+          "variants": [
+            "Clipping nails",
+            "Nails",
+            "Trimming nails"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Clipping the nails.",
+          "source": {
+            "text": "Sahih al-Bukhari 1542; Sahih Muslim, Book of Hajj",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-hunting",
+          "canonical": "Hunting",
+          "variants": [
+            "Hunting animals",
+            "Killing game",
+            "Killing animals"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Killing or hunting game animals.",
+          "source": {
+            "text": "Qur'an 5:95",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-marital-relations",
+          "canonical": "Marital relations",
+          "variants": [
+            "Sexual relations",
+            "Intercourse",
+            "Rafath",
+            "Intimacy"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Intimacy between husband and wife.",
+          "source": {
+            "text": "Qur'an 2:197",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-arguing",
+          "canonical": "Arguing",
+          "variants": [
+            "Disputing",
+            "Fighting",
+            "Jidal",
+            "Quarrelling"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"No disputing during Hajj.\"",
+          "source": {
+            "text": "Qur'an 2:197",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-sinning",
+          "canonical": "Sinning",
+          "variants": [
+            "Fusuq",
+            "Wrongdoing",
+            "Bad deeds",
+            "Sins"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"No wrongdoing during Hajj.\"",
+          "source": {
+            "text": "Qur'an 2:197",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-stitched-clothing",
+          "canonical": "Stitched clothing",
+          "variants": [
+            "Sewn clothes",
+            "Stitched clothes",
+            "Normal clothes",
+            "Shirts",
+            "Trousers",
+            "Tailored clothes"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "For men: shirts, trousers and other tailored clothes.",
+          "source": {
+            "text": "Sahih al-Bukhari 1542; Sahih Muslim, Book of Hajj",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-covering-the-head",
+          "canonical": "Covering the head",
+          "variants": [
+            "Head covering",
+            "Wearing a hat",
+            "Cap",
+            "Covering head",
+            "Hat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "For men: covering the head with a cap or turban.",
+          "source": {
+            "text": "Sahih al-Bukhari 1542; Sahih Muslim, Book of Hajj",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-getting-married",
+          "canonical": "Getting married",
+          "variants": [
+            "Marriage",
+            "Nikah",
+            "Proposing"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Marrying, or proposing marriage.",
+          "source": {
+            "text": "Sahih Muslim 1409",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-niqab-and-gloves",
+          "canonical": "Niqab and gloves",
+          "variants": [
+            "Niqab",
+            "Gloves",
+            "Face veil"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "For women: wearing a face veil or gloves.",
+          "source": {
+            "text": "Sahih al-Bukhari 1838",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-covering-the-ankles",
+          "canonical": "Covering the ankles",
+          "variants": [
+            "Socks",
+            "Shoes covering ankles",
+            "Khuffs",
+            "Closed shoes"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "For men: shoes or socks that cover the ankles.",
+          "source": {
+            "text": "Sahih al-Bukhari 1542; Sahih Muslim, Book of Hajj",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-cutting-plants-of-the-haram",
+          "canonical": "Cutting plants of the Haram",
+          "variants": [
+            "Cutting trees",
+            "Uprooting plants",
+            "Cutting plants"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Cutting trees or plants in the sacred precinct of Makkah.",
+          "source": {
+            "text": "Sahih al-Bukhari 1834",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-ihram-rules-saffron-dyed-clothes",
+          "canonical": "Saffron-dyed clothes",
+          "variants": [
+            "Saffron",
+            "Wars",
+            "Saffron clothes"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Clothes dyed with saffron or wars.",
+          "source": {
+            "text": "Sahih al-Bukhari 1542; Sahih Muslim, Book of Hajj",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

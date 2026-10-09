@@ -1,0 +1,1690 @@
+{
+  "date": "2026-10-22",
+  "questions": [
+    {
+      "id": "d1022-arts-crafts",
+      "number": 1,
+      "prompt": "Name a traditional Islamic art or craft.",
+      "answers": [
+        {
+          "id": "d1022-arts-crafts-calligraphy",
+          "canonical": "Calligraphy",
+          "variants": [
+            "Arabic calligraphy",
+            "Khatt"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The art of beautiful writing, prized above all in Islamic art.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-geometric-patterns",
+          "canonical": "Geometric patterns",
+          "variants": [
+            "Geometric art",
+            "Girih",
+            "Islamic geometry",
+            "Patterns",
+            "Geometric designs"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Interlacing star and polygon designs.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-arabesque",
+          "canonical": "Arabesque",
+          "variants": [
+            "Arabesques",
+            "Islimi",
+            "Floral patterns"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Flowing patterns of stems, leaves and tendrils.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-carpets",
+          "canonical": "Carpets",
+          "variants": [
+            "Persian carpets",
+            "Rugs",
+            "Carpet weaving",
+            "Rug weaving"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Hand-knotted carpets and prayer rugs, from Persia to Anatolia.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-tiles",
+          "canonical": "Tiles",
+          "variants": [
+            "Tilework",
+            "Ceramic tiles",
+            "Tiling"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Glazed tilework covering mosques and palaces.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-mosaics",
+          "canonical": "Mosaics",
+          "variants": [
+            "Mosaic"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Pictures and patterns made of small pieces of glass or stone.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-zellige",
+          "canonical": "Zellige",
+          "variants": [
+            "Zellij",
+            "Moroccan tiles"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Moroccan mosaic tilework of hand-cut glazed pieces.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-iznik-tiles",
+          "canonical": "Iznik tiles",
+          "variants": [
+            "Iznik",
+            "Turkish tiles",
+            "Iznik pottery"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Bright Ottoman ceramics from the town of Iznik.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-miniature-painting",
+          "canonical": "Miniature painting",
+          "variants": [
+            "Miniatures",
+            "Persian miniature",
+            "Mughal miniature"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Finely detailed book paintings of Persia, the Ottomans and the Mughals.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-pottery",
+          "canonical": "Pottery",
+          "variants": [
+            "Ceramics"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Glazed ceramics, from Samarra to Kashan.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-illumination",
+          "canonical": "Illumination",
+          "variants": [
+            "Tazhib",
+            "Manuscript illumination",
+            "Tezhip"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Decorating manuscripts with gold and colour — tazhib.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-ebru",
+          "canonical": "Ebru",
+          "variants": [
+            "Paper marbling",
+            "Marbling"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Paper marbling, especially in Ottoman Turkey.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-lustreware",
+          "canonical": "Lustreware",
+          "variants": [
+            "Lusterware",
+            "Lustre pottery"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Pottery with a metallic sheen, first made in Abbasid Iraq.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-mosque-lamps",
+          "canonical": "Mosque lamps",
+          "variants": [
+            "Enamelled glass",
+            "Glass lamps"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Enamelled glass lamps, often inscribed with the Verse of Light.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-metalwork",
+          "canonical": "Metalwork",
+          "variants": [
+            "Damascening",
+            "Inlaid metalwork",
+            "Brass work"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Brass and steel inlaid with silver and gold.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-woodcarving",
+          "canonical": "Woodcarving",
+          "variants": [
+            "Wood carving",
+            "Carved wood"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Carved wooden minbars, doors and ceilings.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-bookbinding",
+          "canonical": "Bookbinding",
+          "variants": [
+            "Leather bookbinding"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Tooled and gilded leather bindings.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-stucco-carving",
+          "canonical": "Stucco carving",
+          "variants": [
+            "Stucco",
+            "Plaster carving"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Carved plaster walls, as in the Alhambra.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-suzani",
+          "canonical": "Suzani",
+          "variants": [
+            "Suzani embroidery"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Embroidered textiles from Central Asia.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-arts-crafts-astrolabes",
+          "canonical": "Astrolabes",
+          "variants": [
+            "Astrolabe"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Finely engraved brass instruments for astronomy and finding prayer times.",
+          "source": {
+            "text": "Standard histories of Islamic art",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1022-night-journey",
+      "number": 2,
+      "prompt": "Name someone or something from the Night Journey and Ascension (Isra' and Mi'raj).",
+      "answers": [
+        {
+          "id": "d1022-night-journey-buraq",
+          "canonical": "Buraq",
+          "variants": [
+            "Al-Buraq",
+            "Burak"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The white mount, between a mule and a donkey in size, whose stride reached as far as it could see.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-jibril",
+          "canonical": "Jibril",
+          "variants": [
+            "Jibreel",
+            "Gabriel",
+            "Jibrail"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He accompanied the Prophet ﷺ through the journey.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-al-aqsa",
+          "canonical": "Al-Aqsa",
+          "variants": [
+            "Masjid al-Aqsa",
+            "Jerusalem",
+            "Bayt al-Maqdis",
+            "Baitul Maqdis",
+            "Aqsa Mosque"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"From the Sacred Mosque to the Farthest Mosque.\"",
+          "source": {
+            "text": "Qur'an 17:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-night-journey-five-daily-prayers",
+          "canonical": "Five daily prayers",
+          "variants": [
+            "Prayers",
+            "Salah",
+            "Fifty prayers",
+            "Five prayers"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Fifty prayers were made obligatory, then reduced to five with the reward of fifty.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-musa",
+          "canonical": "Musa",
+          "honorific": "AS",
+          "variants": [
+            "Moses"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "In the sixth heaven; he urged the Prophet ﷺ to ask for the prayers to be reduced.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-sidrat-al-muntaha",
+          "canonical": "Sidrat al-Muntaha",
+          "variants": [
+            "Lote tree",
+            "Sidrah",
+            "Lote Tree of the Utmost Boundary"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Lote Tree of the Utmost Boundary.",
+          "source": {
+            "text": "Qur'an 53:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-night-journey-ibrahim",
+          "canonical": "Ibrahim",
+          "honorific": "AS",
+          "variants": [
+            "Abraham"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "In the seventh heaven, leaning against the Frequented House.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-adam",
+          "canonical": "Adam",
+          "honorific": "AS",
+          "variants": [],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Met in the first heaven.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-isa",
+          "canonical": "'Isa",
+          "honorific": "AS",
+          "variants": [
+            "Isa",
+            "Jesus",
+            "Eesa"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Met in the second heaven, with Yahya.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-leading-the-prophets-in-prayer",
+          "canonical": "Leading the prophets in prayer",
+          "variants": [
+            "Leading the prophets",
+            "Praying with the prophets",
+            "Imam of the prophets"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He led the prophets in prayer at Jerusalem.",
+          "source": {
+            "text": "Sahih Muslim 172",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-seven-heavens",
+          "canonical": "Seven heavens",
+          "variants": [
+            "Heavens",
+            "Ascending the heavens",
+            "The heavens"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He ascended through the seven heavens.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-yahya",
+          "canonical": "Yahya",
+          "honorific": "AS",
+          "variants": [
+            "John"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Met in the second heaven, with 'Isa.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-yusuf",
+          "canonical": "Yusuf",
+          "honorific": "AS",
+          "variants": [
+            "Joseph"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Met in the third heaven — given half of all beauty.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-idris",
+          "canonical": "Idris",
+          "honorific": "AS",
+          "variants": [
+            "Enoch"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Met in the fourth heaven.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-harun",
+          "canonical": "Harun",
+          "honorific": "AS",
+          "variants": [
+            "Aaron",
+            "Haroon"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Met in the fifth heaven.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-al-bayt-al-mamur",
+          "canonical": "Al-Bayt al-Ma'mur",
+          "variants": [
+            "Bayt al-Mamur",
+            "Frequented House",
+            "Baitul Mamur"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Frequented House, entered daily by 70,000 angels who never return.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-cup-of-milk",
+          "canonical": "Cup of milk",
+          "variants": [
+            "Milk",
+            "Milk and wine"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Offered milk and wine, he chose milk — 'the natural way'.",
+          "source": {
+            "text": "Sahih al-Bukhari 3394",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-abu-bakr",
+          "canonical": "Abu Bakr",
+          "honorific": "RA",
+          "variants": [
+            "As-Siddiq"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He believed the account at once, earning the title as-Siddiq.",
+          "source": {
+            "text": "Al-Hakim, al-Mustadrak",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-masjid-al-haram",
+          "canonical": "Masjid al-Haram",
+          "variants": [
+            "Sacred Mosque",
+            "Makkah",
+            "Kaaba"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Where the journey began.",
+          "source": {
+            "text": "Qur'an 17:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-night-journey-rivers-at-the-lote-tree",
+          "canonical": "Rivers at the Lote Tree",
+          "variants": [
+            "Nile and Euphrates",
+            "Four rivers"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He saw four rivers there, including the Nile and Euphrates.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-last-verses-of-al-baqarah",
+          "canonical": "Last verses of al-Baqarah",
+          "variants": [
+            "End of Baqarah",
+            "Last two verses of Baqarah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Given to him that night, with the five prayers.",
+          "source": {
+            "text": "Sahih Muslim 173",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-night-journey-paradise-and-hell",
+          "canonical": "Paradise and Hell",
+          "variants": [
+            "Paradise",
+            "Hell",
+            "Jannah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He was shown Paradise and the Fire.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207, 3887; Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1022-islamic-finance",
+      "number": 3,
+      "prompt": "Name a term from Islamic finance or trade.",
+      "answers": [
+        {
+          "id": "d1022-islamic-finance-riba",
+          "canonical": "Riba",
+          "variants": [
+            "Interest",
+            "Usury"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Interest or usury, which Islam forbids.",
+          "source": {
+            "text": "Qur'an 2:275",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-murabahah",
+          "canonical": "Murabahah",
+          "variants": [
+            "Murabaha",
+            "Cost-plus sale"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A sale at cost plus an agreed profit, often used for home and car finance.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-mudarabah",
+          "canonical": "Mudarabah",
+          "variants": [
+            "Mudaraba",
+            "Profit sharing"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "One side gives money, the other gives work, and profits are shared.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-musharakah",
+          "canonical": "Musharakah",
+          "variants": [
+            "Musharaka",
+            "Partnership",
+            "Joint venture"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A partnership sharing profit and loss.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-sukuk",
+          "canonical": "Sukuk",
+          "variants": [
+            "Islamic bonds",
+            "Sukuk bonds"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Islamic bonds, giving ownership in real assets.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-ijarah",
+          "canonical": "Ijarah",
+          "variants": [
+            "Ijara",
+            "Leasing",
+            "Lease"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Leasing.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-takaful",
+          "canonical": "Takaful",
+          "variants": [
+            "Islamic insurance"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Islamic insurance, based on members helping each other.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-gharar",
+          "canonical": "Gharar",
+          "variants": [
+            "Uncertainty",
+            "Excessive uncertainty"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Excessive uncertainty in a contract, which is forbidden.",
+          "source": {
+            "text": "Sahih Muslim 1513",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-maysir",
+          "canonical": "Maysir",
+          "variants": [
+            "Gambling"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Gambling and speculation, which are forbidden.",
+          "source": {
+            "text": "Qur'an 5:90",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-qard-hasan",
+          "canonical": "Qard hasan",
+          "variants": [
+            "Qard al-Hasan",
+            "Interest-free loan",
+            "Benevolent loan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "An interest-free loan.",
+          "source": {
+            "text": "Qur'an 2:245",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-salam",
+          "canonical": "Salam",
+          "variants": [
+            "Bay al-salam",
+            "Forward sale"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Paying now for goods delivered later.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-istisna",
+          "canonical": "Istisna'",
+          "variants": [
+            "Istisna",
+            "Manufacturing contract"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A contract to manufacture or build something.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-waqf",
+          "canonical": "Waqf",
+          "variants": [
+            "Endowment"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An endowment for charitable purposes.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-diminishing-musharakah",
+          "canonical": "Diminishing musharakah",
+          "variants": [
+            "Musharakah mutanaqisah",
+            "Diminishing partnership"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A partnership in which one partner gradually buys out the other — common in home finance.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-wakalah",
+          "canonical": "Wakalah",
+          "variants": [
+            "Wakala",
+            "Agency"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An agency contract.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-tawarruq",
+          "canonical": "Tawarruq",
+          "variants": [
+            "Tawarruq"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Buying on credit and selling for cash to a third party.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-wadiah",
+          "canonical": "Wadi'ah",
+          "variants": [
+            "Wadiah",
+            "Safekeeping"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Safekeeping of deposits.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-kafalah",
+          "canonical": "Kafalah",
+          "variants": [
+            "Kafala",
+            "Guarantee"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A guarantee.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-rahn",
+          "canonical": "Rahn",
+          "variants": [
+            "Pledge",
+            "Collateral"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Collateral or a pledge.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-islamic-finance-hibah",
+          "canonical": "Hibah",
+          "variants": [
+            "Gift"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A gift.",
+          "source": {
+            "text": "AAOIFI Shari'ah Standards; standard works on Islamic finance",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1022-letters",
+      "number": 4,
+      "prompt": "Name a ruler to whom Prophet Muhammad ﷺ sent a letter inviting them to Islam.",
+      "answers": [
+        {
+          "id": "d1022-letters-heraclius",
+          "canonical": "Heraclius",
+          "variants": [
+            "Hiraql",
+            "Byzantine emperor",
+            "Caesar",
+            "Qaysar",
+            "Emperor of Rome",
+            "Hercules"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Byzantine emperor, who questioned Abu Sufyan about the Prophet ﷺ.",
+          "source": {
+            "text": "Sahih al-Bukhari 7",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-letters-khosrow-ii",
+          "canonical": "Khosrow II",
+          "variants": [
+            "Kisra",
+            "Chosroes",
+            "Khusrau",
+            "Persian emperor",
+            "Kisra Parviz",
+            "Khosrau"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Persian emperor, who tore up the letter.",
+          "source": {
+            "text": "Sahih al-Bukhari 64",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-letters-the-negus",
+          "canonical": "The Negus",
+          "variants": [
+            "Najashi",
+            "An-Najashi",
+            "King of Abyssinia",
+            "Ashama",
+            "Negus"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The king of Abyssinia, who had sheltered the Muslims.",
+          "source": {
+            "text": "Sahih Muslim 1774",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-letters-al-muqawqis",
+          "canonical": "Al-Muqawqis",
+          "variants": [
+            "Muqawqis",
+            "Ruler of Egypt"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The ruler of Egypt, who sent gifts including the mule Duldul.",
+          "source": {
+            "text": "Sahih al-Bukhari 7, 64; Sahih Muslim 1774; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-letters-al-mundhir-ibn-sawa",
+          "canonical": "Al-Mundhir ibn Sawa",
+          "variants": [
+            "Mundhir",
+            "Mundhir ibn Sawa"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The ruler of Bahrain, who accepted Islam.",
+          "source": {
+            "text": "Sahih al-Bukhari 7, 64; Sahih Muslim 1774; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-letters-jayfar",
+          "canonical": "Jayfar",
+          "variants": [
+            "Kings of Oman",
+            "Rulers of Oman",
+            "Jayfar ibn al-Julanda"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One of the two rulers of Oman, who accepted Islam with his brother 'Abd.",
+          "source": {
+            "text": "Sahih al-Bukhari 7, 64; Sahih Muslim 1774; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-letters-abd-ibn-al-julanda",
+          "canonical": "'Abd ibn al-Julanda",
+          "variants": [
+            "Abd of Oman",
+            "Abd ibn Julanda"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Co-ruler of Oman with his brother Jayfar.",
+          "source": {
+            "text": "Sahih al-Bukhari 7, 64; Sahih Muslim 1774; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-letters-al-harith-al-ghassani",
+          "canonical": "Al-Harith al-Ghassani",
+          "variants": [
+            "Harith al-Ghassani",
+            "Al-Harith ibn Abi Shimr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Ghassanid ruler in Syria.",
+          "source": {
+            "text": "Sahih al-Bukhari 7, 64; Sahih Muslim 1774; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-letters-hawdhah-ibn-ali",
+          "canonical": "Hawdhah ibn 'Ali",
+          "variants": [
+            "Hawdha ibn Ali",
+            "Hawza ibn Ali"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The ruler of al-Yamamah.",
+          "source": {
+            "text": "Sahih al-Bukhari 7, 64; Sahih Muslim 1774; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-letters-al-harith-ibn-abd-kulal",
+          "canonical": "Al-Harith ibn 'Abd Kulal",
+          "variants": [
+            "Himyar",
+            "Kings of Himyar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A king of Himyar in Yemen.",
+          "source": {
+            "text": "Sahih al-Bukhari 7, 64; Sahih Muslim 1774; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-letters-musaylimah",
+          "canonical": "Musaylimah",
+          "variants": [
+            "Musaylimah the Liar",
+            "Musailima"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He wrote claiming a share in prophethood; the Prophet ﷺ replied calling him 'the liar'.",
+          "source": {
+            "text": "Sahih al-Bukhari 7, 64; Sahih Muslim 1774; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1022-daily-duas",
+      "number": 5,
+      "prompt": "Name an everyday moment for which there is a sunnah du'a.",
+      "answers": [
+        {
+          "id": "d1022-daily-duas-before-sleeping",
+          "canonical": "Before sleeping",
+          "variants": [
+            "Sleeping",
+            "Going to sleep",
+            "Bedtime",
+            "Before sleep"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Bismika Allahumma amutu wa ahya.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6312",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-waking-up",
+          "canonical": "Waking up",
+          "variants": [
+            "Waking",
+            "After waking up",
+            "In the morning when waking"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Alhamdulillahil-ladhi ahyana…\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6312",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-before-eating",
+          "canonical": "Before eating",
+          "variants": [
+            "Eating",
+            "Before food"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Bismillah.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5376",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-after-eating",
+          "canonical": "After eating",
+          "variants": [
+            "After food",
+            "Finishing a meal"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Praising Allah who fed us.",
+          "source": {
+            "text": "Sahih Muslim 2734",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-entering-the-toilet",
+          "canonical": "Entering the toilet",
+          "variants": [
+            "Toilet",
+            "Bathroom",
+            "Entering the bathroom"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Seeking refuge from male and female devils.",
+          "source": {
+            "text": "Sahih al-Bukhari 142",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-morning-and-evening",
+          "canonical": "Morning and evening",
+          "variants": [
+            "Morning and evening adhkar",
+            "Adhkar",
+            "Morning adhkar",
+            "Evening adhkar"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The morning and evening adhkar.",
+          "source": {
+            "text": "Sunan Abi Dawud 5068",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-leaving-the-toilet",
+          "canonical": "Leaving the toilet",
+          "variants": [
+            "Leaving the bathroom",
+            "Ghufranak",
+            "After the toilet"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Ghufranak\" — \"I seek Your forgiveness.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 30",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-entering-the-mosque",
+          "canonical": "Entering the mosque",
+          "variants": [
+            "Mosque",
+            "Going into the masjid",
+            "Entering the masjid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"O Allah, open for me the doors of Your mercy.\"",
+          "source": {
+            "text": "Sahih Muslim 713",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-leaving-the-mosque",
+          "canonical": "Leaving the mosque",
+          "variants": [
+            "Leaving the masjid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"O Allah, I ask You of Your bounty.\"",
+          "source": {
+            "text": "Sahih Muslim 713",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-leaving-home",
+          "canonical": "Leaving home",
+          "variants": [
+            "Going out",
+            "Leaving the house",
+            "Leaving the home"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Bismillah, tawakkaltu 'ala Allah.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 5095",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-entering-home",
+          "canonical": "Entering home",
+          "variants": [
+            "Coming home",
+            "Entering the house"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Mentioning Allah on entering the home.",
+          "source": {
+            "text": "Sahih Muslim 2018",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-travelling",
+          "canonical": "Travelling",
+          "variants": [
+            "Journey",
+            "Travel",
+            "Getting in a car",
+            "Riding",
+            "Starting a journey"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The du'a of travel: \"Subhan alladhi sakhkhara lana hadha…\"",
+          "source": {
+            "text": "Sahih Muslim 1342",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-sneezing",
+          "canonical": "Sneezing",
+          "variants": [
+            "Sneeze",
+            "After sneezing"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Alhamdulillah\", answered with \"Yarhamuk Allah\".",
+          "source": {
+            "text": "Sahih al-Bukhari 6224",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-wearing-new-clothes",
+          "canonical": "Wearing new clothes",
+          "variants": [
+            "Getting dressed",
+            "New clothes",
+            "Wearing clothes"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Praising Allah who clothed you.",
+          "source": {
+            "text": "Sunan Abi Dawud 4020",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-when-it-rains",
+          "canonical": "When it rains",
+          "variants": [
+            "Rain"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Allahumma sayyiban nafi'an\" — \"O Allah, a beneficial rain.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1032",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-hearing-thunder",
+          "canonical": "Hearing thunder",
+          "variants": [
+            "Thunder"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Glorifying the One whom the thunder glorifies.",
+          "source": {
+            "text": "Al-Muwatta' 1801",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-visiting-the-sick",
+          "canonical": "Visiting the sick",
+          "variants": [
+            "Visiting someone sick",
+            "Sick person",
+            "Illness"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"La ba's, tahurun in sha' Allah\" — \"No harm; a purification, Allah willing.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3616",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-in-distress",
+          "canonical": "In distress",
+          "variants": [
+            "Distress",
+            "Worry",
+            "Anxiety",
+            "Hardship",
+            "Grief"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"La ilaha illallah al-'Azim al-Halim…\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6346",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-hearing-the-adhan",
+          "canonical": "Hearing the adhan",
+          "variants": [
+            "Adhan",
+            "After adhan",
+            "After the adhan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Repeating after the caller, then asking for the Prophet's ﷺ intercession.",
+          "source": {
+            "text": "Sahih al-Bukhari 614",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-breaking-the-fast",
+          "canonical": "Breaking the fast",
+          "variants": [
+            "Iftar",
+            "At iftar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Dhahaba al-zama'…\" — \"The thirst is gone…\"",
+          "source": {
+            "text": "Sunan Abi Dawud 2357",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-seeing-the-new-moon",
+          "canonical": "Seeing the new moon",
+          "variants": [
+            "New moon",
+            "Crescent"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A du'a on sighting the new crescent.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3451",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-entering-a-market",
+          "canonical": "Entering a market",
+          "variants": [
+            "Market",
+            "Shopping"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A du'a with a great reward when entering the market.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3428",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-when-angry",
+          "canonical": "When angry",
+          "variants": [
+            "Anger",
+            "Angry"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Seeking refuge in Allah from Shaytan.",
+          "source": {
+            "text": "Sahih al-Bukhari 3282",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-visiting-graves",
+          "canonical": "Visiting graves",
+          "variants": [
+            "Graveyard",
+            "At the graveyard"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Greeting the people of the graves with peace.",
+          "source": {
+            "text": "Sahih Muslim 975",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-daily-duas-after-wudu",
+          "canonical": "After wudu",
+          "variants": [
+            "After ablution"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The testimony of faith after ablution.",
+          "source": {
+            "text": "Sahih Muslim 234",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1022-seven-shaded",
+      "number": 6,
+      "prompt": "Name one of the seven whom Allah will shade on the Day when there is no shade but His.",
+      "answers": [
+        {
+          "id": "d1022-seven-shaded-a-just-ruler",
+          "canonical": "A just ruler",
+          "variants": [
+            "Just leader",
+            "Just imam",
+            "Just ruler",
+            "A just leader"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A just leader.",
+          "source": {
+            "text": "Sahih al-Bukhari 660; Sahih Muslim 1031",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-seven-shaded-a-youth-raised-in-worship",
+          "canonical": "A youth raised in worship",
+          "variants": [
+            "Young person who worships Allah",
+            "Youth who grew up worshipping Allah",
+            "Youth",
+            "A young person"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A young person who grew up worshipping Allah.",
+          "source": {
+            "text": "Sahih al-Bukhari 660; Sahih Muslim 1031",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-seven-shaded-heart-attached-to-the-mosques",
+          "canonical": "Heart attached to the mosques",
+          "variants": [
+            "Heart attached to the mosque",
+            "Someone attached to the masjid",
+            "Attached to the mosque"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A man whose heart is attached to the mosques.",
+          "source": {
+            "text": "Sahih al-Bukhari 660; Sahih Muslim 1031",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-seven-shaded-two-who-love-each-other-for-allah",
+          "canonical": "Two who love each other for Allah",
+          "variants": [
+            "Two who love for Allah",
+            "Loving for the sake of Allah",
+            "Two people who love each other for Allah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Two people who love each other for Allah's sake, meeting and parting for it.",
+          "source": {
+            "text": "Sahih al-Bukhari 660; Sahih Muslim 1031",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-seven-shaded-resisting-temptation",
+          "canonical": "Resisting temptation",
+          "variants": [
+            "Refusing temptation",
+            "Man who says I fear Allah",
+            "Saying I fear Allah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A man invited by a woman of beauty and status who says, \"I fear Allah.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 660; Sahih Muslim 1031",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-seven-shaded-secret-charity",
+          "canonical": "Secret charity",
+          "variants": [
+            "Giving charity in secret",
+            "Charity in secret",
+            "Hidden charity"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One who gives charity so secretly his left hand doesn't know what his right gives.",
+          "source": {
+            "text": "Sahih al-Bukhari 660; Sahih Muslim 1031",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-seven-shaded-weeping-in-private-remembrance",
+          "canonical": "Weeping in private remembrance",
+          "variants": [
+            "Remembering Allah alone and crying",
+            "Crying in private",
+            "Weeping for Allah",
+            "Remembering Allah in private"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One who remembers Allah alone and his eyes overflow with tears.",
+          "source": {
+            "text": "Sahih al-Bukhari 660; Sahih Muslim 1031",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-seven-shaded-giving-respite-to-a-debtor",
+          "canonical": "Giving respite to a debtor",
+          "variants": [
+            "Forgiving a debt",
+            "Giving time to a debtor"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Another hadith adds one who gives time to a debtor in difficulty, or cancels the debt.",
+          "source": {
+            "text": "Sahih Muslim 3006",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

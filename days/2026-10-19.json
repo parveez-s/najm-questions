@@ -1,0 +1,1689 @@
+{
+  "date": "2026-10-19",
+  "questions": [
+    {
+      "id": "d1019-tajwid",
+      "number": 1,
+      "prompt": "Name a rule or term of tajwid (Qur'an recitation).",
+      "answers": [
+        {
+          "id": "d1019-tajwid-madd",
+          "canonical": "Madd",
+          "variants": [
+            "Mad",
+            "Maddah",
+            "Elongation",
+            "Prolongation"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Lengthening a vowel sound for a set count.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-qalqalah",
+          "canonical": "Qalqalah",
+          "variants": [
+            "Qalqala",
+            "Echo",
+            "Bouncing"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The echoing 'bounce' on the letters of qutb jad when they have sukun.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-ghunnah",
+          "canonical": "Ghunnah",
+          "variants": [
+            "Ghunna",
+            "Nasalisation",
+            "Nasal sound"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A nasal sound held on nun and mim.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-idgham",
+          "canonical": "Idgham",
+          "variants": [
+            "Idgaam",
+            "Idghaam",
+            "Merging",
+            "Assimilation"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Merging one letter into the next.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-ikhfa",
+          "canonical": "Ikhfa'",
+          "variants": [
+            "Ikhfa",
+            "Ikhfaa",
+            "Hiding"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Hiding the nun sound before certain letters.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-izhar",
+          "canonical": "Izhar",
+          "variants": [
+            "Idhar",
+            "Izhaar",
+            "Clear pronunciation"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Pronouncing the nun clearly before the throat letters.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-iqlab",
+          "canonical": "Iqlab",
+          "variants": [
+            "Iqlaab",
+            "Conversion"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Turning nun into mim before the letter ba.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-waqf",
+          "canonical": "Waqf",
+          "variants": [
+            "Stopping",
+            "Pausing",
+            "Stop signs"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The rules for stopping at the end of a word.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-tafkhim",
+          "canonical": "Tafkhim",
+          "variants": [
+            "Tafkheem",
+            "Heavy letters",
+            "Heaviness"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Pronouncing a letter heavily.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-tarqiq",
+          "canonical": "Tarqiq",
+          "variants": [
+            "Tarqeeq",
+            "Light letters",
+            "Lightness"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Pronouncing a letter lightly.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-sun-letters",
+          "canonical": "Sun letters",
+          "variants": [
+            "Lam Shamsiyyah",
+            "Shamsi lam",
+            "Lam Shamsiya",
+            "Shamsiyyah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Letters after which the lam of 'al-' is silent (lam shamsiyyah).",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-moon-letters",
+          "canonical": "Moon letters",
+          "variants": [
+            "Lam Qamariyyah",
+            "Qamari lam",
+            "Lam Qamariya",
+            "Qamariyyah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Letters after which the lam of 'al-' is pronounced (lam qamariyyah).",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-makharij",
+          "canonical": "Makharij",
+          "variants": [
+            "Makhaarij",
+            "Articulation points",
+            "Makharij al-huruf"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The points in the mouth and throat where letters are produced.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-sifat-al-huruf",
+          "canonical": "Sifat al-huruf",
+          "variants": [
+            "Characteristics of letters",
+            "Sifaat",
+            "Sifat"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The characteristics of the letters, such as whispering or strength.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-hamzat-al-wasl",
+          "canonical": "Hamzat al-wasl",
+          "variants": [
+            "Connecting hamza",
+            "Hamza wasl",
+            "Hamzatul wasl"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The connecting hamzah, sounded only when starting from it.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-ibtida",
+          "canonical": "Ibtida'",
+          "variants": [
+            "Ibtida",
+            "Starting"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The rules for starting or resuming recitation.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-saktah",
+          "canonical": "Saktah",
+          "variants": [
+            "Sakta",
+            "Brief pause"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A brief pause without taking a breath.",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-imalah",
+          "canonical": "Imalah",
+          "variants": [
+            "Imala"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Tilting an 'a' sound towards 'e' — in Hafs, only in 'majreha' (11:41).",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-ishmam",
+          "canonical": "Ishmam",
+          "variants": [
+            "Ishmaam"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Rounding the lips without sound — in Hafs in 'ta'manna' (12:11).",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-tajwid-tashil",
+          "canonical": "Tashil",
+          "variants": [
+            "Tasheel"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Easing the pronunciation of a hamzah — in Hafs in 'a'jamiyy' (41:44).",
+          "source": {
+            "text": "Standard tajwid manuals (e.g. Ibn al-Jazari, al-Muqaddimah al-Jazariyyah)",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1019-learning-centres",
+      "number": 2,
+      "prompt": "Name a famous Islamic university, library or centre of learning.",
+      "answers": [
+        {
+          "id": "d1019-learning-centres-al-azhar-university",
+          "canonical": "Al-Azhar University",
+          "variants": [
+            "Al-Azhar",
+            "Azhar",
+            "Azhar University",
+            "Jamia al-Azhar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "In Cairo since the 10th century — the most famous centre of Sunni learning.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-islamic-university-of-madinah",
+          "canonical": "Islamic University of Madinah",
+          "variants": [
+            "Madinah University",
+            "Medina University",
+            "Islamic University of Medina",
+            "Jamiah Islamiyyah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Founded in 1961; students come from around the world.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-house-of-wisdom",
+          "canonical": "House of Wisdom",
+          "variants": [
+            "Bayt al-Hikmah",
+            "Baitul Hikmah",
+            "Bait al-Hikma",
+            "House of Wisdom Baghdad"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Bayt al-Hikmah in Abbasid Baghdad, where works were translated and studied.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-al-qarawiyyin",
+          "canonical": "Al-Qarawiyyin",
+          "variants": [
+            "Qarawiyyin",
+            "University of al-Qarawiyyin",
+            "Karaouine",
+            "Al-Karaouine"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Founded in Fez in 859 by Fatima al-Fihri — often called the world's oldest existing university.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-darul-uloom-deoband",
+          "canonical": "Darul Uloom Deoband",
+          "variants": [
+            "Deoband",
+            "Darul Uloom",
+            "Dar al-Ulum Deoband"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Founded in India in 1866; thousands of madrasas follow its model.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-nizamiyya",
+          "canonical": "Nizamiyya",
+          "variants": [
+            "Nizamiyyah",
+            "Nizamiya",
+            "Nizamiyya of Baghdad",
+            "Nizamiyyah Madrasa"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The madrasas founded by the vizier Nizam al-Mulk; al-Ghazali taught at Baghdad's.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-zaytuna",
+          "canonical": "Zaytuna",
+          "variants": [
+            "Al-Zaytuna",
+            "Zitouna",
+            "Ez-Zitouna",
+            "Zaytuna University"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Zitouna mosque-university in Tunis.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-umm-al-qura-university",
+          "canonical": "Umm al-Qura University",
+          "variants": [
+            "Umm al-Qura",
+            "Umm Al Qura University"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The university of Makkah.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-nadwatul-ulama",
+          "canonical": "Nadwatul Ulama",
+          "variants": [
+            "Nadwa",
+            "Nadwat al-Ulama",
+            "Nadwatul Ulema"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A scholarly institution in Lucknow, India, founded in 1894.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-sankore",
+          "canonical": "Sankore",
+          "variants": [
+            "Sankore Madrasah",
+            "Sankore University",
+            "Sankore Mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The mosque-university of Timbuktu, a great centre of learning in the 14th–16th centuries.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-al-mustansiriyya",
+          "canonical": "Al-Mustansiriyya",
+          "variants": [
+            "Mustansiriyah",
+            "Mustansiriya",
+            "Mustansiriyya Madrasa"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A madrasa founded in Baghdad in 1233.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-library-of-cordoba",
+          "canonical": "Library of Cordoba",
+          "variants": [
+            "Cordoba library",
+            "Great Library of Cordoba"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Caliph al-Hakam II's library, said to have held some 400,000 books.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-international-islamic-university-malaysia",
+          "canonical": "International Islamic University Malaysia",
+          "variants": [
+            "IIUM",
+            "Islamic University Malaysia"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A university founded in Kuala Lumpur in 1983.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-ahmed-baba-institute",
+          "canonical": "Ahmed Baba Institute",
+          "variants": [
+            "Ahmed Baba",
+            "Timbuktu manuscripts",
+            "Ahmad Baba Institute"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "In Timbuktu, guarding many thousands of old manuscripts.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-dar-al-ilm",
+          "canonical": "Dar al-'Ilm",
+          "variants": [
+            "Dar al-Ilm",
+            "House of Knowledge"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The 'House of Knowledge' founded in Cairo in 1005.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-dar-al-hadith-al-ashrafiyya",
+          "canonical": "Dar al-Hadith al-Ashrafiyya",
+          "variants": [
+            "Dar al-Hadith",
+            "Ashrafiyya"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A hadith school in Damascus where al-Nawawi taught.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-ulugh-beg-madrasa",
+          "canonical": "Ulugh Beg Madrasa",
+          "variants": [
+            "Ulugh Beg Madrasah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Built in Samarkand by the astronomer-ruler Ulugh Beg.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-international-islamic-university-islamabad",
+          "canonical": "International Islamic University Islamabad",
+          "variants": [
+            "IIUI",
+            "Islamic University Islamabad"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A university founded in Pakistan in 1980.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-learning-centres-cambridge-muslim-college",
+          "canonical": "Cambridge Muslim College",
+          "variants": [
+            "CMC"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A college in Cambridge, England, founded in 2009.",
+          "source": {
+            "text": "Histories of Islamic education",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1019-prophet-foods",
+      "number": 3,
+      "prompt": "Name a food or drink Prophet Muhammad ﷺ is reported to have eaten or loved.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Pork",
+            "Bacon",
+            "Alcohol",
+            "Wine"
+          ],
+          "message": "That's forbidden in Islam. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1019-prophet-foods-dates",
+          "canonical": "Dates",
+          "variants": [
+            "Date",
+            "Tamr",
+            "Ajwa",
+            "Ajwa dates"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"A household without dates has no food.\"",
+          "source": {
+            "text": "Sahih Muslim 2046",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-honey",
+          "canonical": "Honey",
+          "variants": [
+            "Asal"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He loved sweet things and honey.",
+          "source": {
+            "text": "Sahih al-Bukhari 5431",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-milk",
+          "canonical": "Milk",
+          "variants": [
+            "Laban"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He prayed for milk to be increased, as it satisfies like food and drink.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3455",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-pumpkin",
+          "canonical": "Pumpkin",
+          "variants": [
+            "Gourd",
+            "Dubba",
+            "Squash",
+            "Marrow",
+            "Kaddu"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He would pick out the pieces of gourd from the dish.",
+          "source": {
+            "text": "Sahih al-Bukhari 5379",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-barley-bread",
+          "canonical": "Barley bread",
+          "variants": [
+            "Barley",
+            "Bread"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His family never ate their fill of barley bread two days running.",
+          "source": {
+            "text": "Sahih al-Bukhari 5416",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-vinegar",
+          "canonical": "Vinegar",
+          "variants": [
+            "Khall"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"What an excellent condiment vinegar is.\"",
+          "source": {
+            "text": "Sahih Muslim 2051",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-tharid",
+          "canonical": "Tharid",
+          "variants": [
+            "Thareed",
+            "Bread and broth",
+            "Tharid stew"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Bread soaked in broth; he likened its excellence to 'Aishah's among women.",
+          "source": {
+            "text": "Sahih al-Bukhari 3411",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-olive-oil",
+          "canonical": "Olive oil",
+          "variants": [
+            "Zaytun oil",
+            "Olives"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Eat olive oil and anoint yourselves with it, for it is from a blessed tree.\"",
+          "source": {
+            "text": "Sunan al-Tirmidhi 1851",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-cucumber-with-dates",
+          "canonical": "Cucumber with dates",
+          "variants": [
+            "Cucumber",
+            "Cucumbers"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He ate fresh dates with cucumber.",
+          "source": {
+            "text": "Sahih al-Bukhari 5440",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-watermelon-with-dates",
+          "canonical": "Watermelon with dates",
+          "variants": [
+            "Watermelon",
+            "Melon"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He ate watermelon with fresh dates, balancing heat and cool.",
+          "source": {
+            "text": "Sunan Abi Dawud 3836",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-foreleg-of-mutton",
+          "canonical": "Foreleg of mutton",
+          "variants": [
+            "Lamb",
+            "Mutton",
+            "Shoulder of lamb",
+            "Foreleg",
+            "Lamb shoulder"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The foreleg was the cut he liked best.",
+          "source": {
+            "text": "Sahih al-Bukhari 3340",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-sweets",
+          "canonical": "Sweets",
+          "variants": [
+            "Sweet things",
+            "Halwa"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He loved sweet things.",
+          "source": {
+            "text": "Sahih al-Bukhari 5431",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-talbinah",
+          "canonical": "Talbinah",
+          "variants": [
+            "Talbina",
+            "Barley porridge"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A barley porridge with milk and honey, which he recommended for the grieving and sick.",
+          "source": {
+            "text": "Sahih al-Bukhari 5417",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-hays",
+          "canonical": "Hays",
+          "variants": [
+            "Hais"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A mix of dates, butter and dried yoghurt, served at his wedding to Safiyyah.",
+          "source": {
+            "text": "Sahih al-Bukhari 4213",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-butter-and-dates",
+          "canonical": "Butter and dates",
+          "variants": [
+            "Butter"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He liked butter with dates.",
+          "source": {
+            "text": "Sunan Abi Dawud 3837",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-chicken",
+          "canonical": "Chicken",
+          "variants": [
+            "Poultry"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Abu Musa saw him eating chicken.",
+          "source": {
+            "text": "Sahih al-Bukhari 5517",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-prophet-foods-dried-meat",
+          "canonical": "Dried meat",
+          "variants": [
+            "Qadid",
+            "Jerky"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Strips of dried, salted meat (qadid).",
+          "source": {
+            "text": "Sahih al-Bukhari 5423",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1019-poets",
+      "number": 4,
+      "prompt": "Name a famous Muslim poet or writer from history.",
+      "answers": [
+        {
+          "id": "d1019-poets-rumi",
+          "canonical": "Rumi",
+          "variants": [
+            "Jalal al-Din Rumi",
+            "Jalaluddin Rumi",
+            "Mawlana Rumi",
+            "Mevlana",
+            "Molana"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Jalal al-Din Rumi (d. 1273), author of the Masnavi.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-allama-iqbal",
+          "canonical": "Allama Iqbal",
+          "variants": [
+            "Iqbal",
+            "Muhammad Iqbal",
+            "Allama Muhammad Iqbal"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Muhammad Iqbal (d. 1938), the 'Poet of the East'.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-hafez",
+          "canonical": "Hafez",
+          "variants": [
+            "Hafiz",
+            "Hafiz Shirazi",
+            "Hafez Shirazi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Hafez of Shiraz (d. 1390), master of the Persian ghazal.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-saadi",
+          "canonical": "Saadi",
+          "variants": [
+            "Sadi",
+            "Saadi Shirazi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Saadi of Shiraz (d. 1291), author of the Gulistan and Bustan.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-al-mutanabbi",
+          "canonical": "Al-Mutanabbi",
+          "variants": [
+            "Mutanabbi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The 10th-century Arab poet often called the greatest of all.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-hassan-ibn-thabit",
+          "canonical": "Hassan ibn Thabit",
+          "honorific": "RA",
+          "variants": [
+            "Hassan bin Thabit",
+            "Hasan ibn Thabit"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The poet of the Prophet ﷺ\", who defended him in verse.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-al-busiri",
+          "canonical": "Al-Busiri",
+          "variants": [
+            "Busiri",
+            "Imam Busiri",
+            "Qasidat al-Burdah",
+            "Burdah poet"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Author of the Qasidat al-Burdah, the famous poem in praise of the Prophet ﷺ.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-kab-ibn-zuhayr",
+          "canonical": "Ka'b ibn Zuhayr",
+          "honorific": "RA",
+          "variants": [
+            "Kab ibn Zuhayr",
+            "Kab bin Zuhair",
+            "Banat Suad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Recited \"Banat Su'ad\" before the Prophet ﷺ, who gave him his cloak.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-ibn-arabi",
+          "canonical": "Ibn 'Arabi",
+          "variants": [
+            "Ibn Arabi",
+            "Ibn al-Arabi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mystic and poet of al-Andalus (d. 1240).",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-attar",
+          "canonical": "'Attar",
+          "variants": [
+            "Attar",
+            "Farid ud-Din Attar",
+            "Conference of the Birds"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Farid al-Din 'Attar, author of The Conference of the Birds.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-jami",
+          "canonical": "Jami",
+          "variants": [
+            "Abd al-Rahman Jami",
+            "Abdur Rahman Jami"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'Abd al-Rahman Jami (d. 1492), the last great classical Persian poet.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-nizami",
+          "canonical": "Nizami",
+          "variants": [
+            "Nizami Ganjavi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Nizami Ganjavi, author of Layla and Majnun in Persian.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-yunus-emre",
+          "canonical": "Yunus Emre",
+          "variants": [
+            "Yunus Emra"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "13th-century Turkish poet of divine love.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-amir-khusrau",
+          "canonical": "Amir Khusrau",
+          "variants": [
+            "Amir Khusro",
+            "Amir Khusraw"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Poet and musician of Delhi (d. 1325).",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-mirza-ghalib",
+          "canonical": "Mirza Ghalib",
+          "variants": [
+            "Ghalib"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The great Urdu and Persian poet of Delhi (d. 1869).",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-bulleh-shah",
+          "canonical": "Bulleh Shah",
+          "variants": [
+            "Bulleh Shah",
+            "Bulle Shah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Punjabi poet (d. 1757).",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-ahmed-shawqi",
+          "canonical": "Ahmed Shawqi",
+          "variants": [
+            "Ahmad Shawqi",
+            "Ahmed Shawki",
+            "Prince of Poets"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Egyptian 'Prince of Poets' (d. 1932).",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-naguib-mahfouz",
+          "canonical": "Naguib Mahfouz",
+          "variants": [
+            "Najib Mahfuz",
+            "Naguib Mahfuz"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Egyptian novelist, winner of the 1988 Nobel Prize in Literature.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-faiz-ahmad-faiz",
+          "canonical": "Faiz Ahmad Faiz",
+          "variants": [
+            "Faiz",
+            "Faiz Ahmed Faiz"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Urdu poet of Pakistan (d. 1984).",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-kazi-nazrul-islam",
+          "canonical": "Kazi Nazrul Islam",
+          "variants": [
+            "Nazrul",
+            "Nazrul Islam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The national poet of Bangladesh (d. 1976).",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-al-khansa",
+          "canonical": "Al-Khansa'",
+          "honorific": "RA",
+          "variants": [
+            "Khansa",
+            "Al-Khansa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The great elegy poet who embraced Islam.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-fuzuli",
+          "canonical": "Fuzuli",
+          "variants": [
+            "Fuzuli Baghdadi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "16th-century poet who wrote in Turkish, Persian and Arabic.",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-ibn-zaydun",
+          "canonical": "Ibn Zaydun",
+          "variants": [
+            "Ibn Zaidun"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Poet of Cordoba (d. 1071).",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-abu-al-atahiya",
+          "canonical": "Abu al-'Atahiya",
+          "variants": [
+            "Abul Atahiya",
+            "Abu al-Atahiyah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Abbasid poet of piety and the passing world (d. 826).",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-poets-mahmoud-darwish",
+          "canonical": "Mahmoud Darwish",
+          "variants": [
+            "Mahmud Darwish",
+            "Darwish"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Palestinian national poet (d. 2008).",
+          "source": {
+            "text": "Standard histories of Islamic literature",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1019-adhan",
+      "number": 5,
+      "prompt": "Name a phrase from the adhan or iqamah (the call to prayer).",
+      "answers": [
+        {
+          "id": "d1019-adhan-allahu-akbar",
+          "canonical": "Allahu Akbar",
+          "variants": [
+            "Allah Akbar",
+            "Allahuakbar",
+            "Allah hu Akbar",
+            "Takbir"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Allah is the Greatest\" — the opening of the call.",
+          "source": {
+            "text": "Sunan Abi Dawud 499–500; Sahih al-Bukhari 605",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-adhan-ashhadu-an-la-ilaha-illallah",
+          "canonical": "Ashhadu an la ilaha illallah",
+          "variants": [
+            "Ashhadu an la ilaha illa Allah",
+            "Ashhadu alla ilaha illallah",
+            "Ash hadu an la ilaha illallah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"I bear witness that there is no god but Allah.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 499–500; Sahih al-Bukhari 605",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-adhan-ashhadu-anna-muhammadan-rasulullah",
+          "canonical": "Ashhadu anna Muhammadan Rasulullah",
+          "variants": [
+            "Ashhadu anna Muhammadar Rasulullah",
+            "Ash hadu anna Muhammadan Rasul Allah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"I bear witness that Muhammad is the Messenger of Allah.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 499–500; Sahih al-Bukhari 605",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-adhan-hayya-ala-as-salah",
+          "canonical": "Hayya 'ala as-salah",
+          "variants": [
+            "Hayya alas salah",
+            "Hayya alas salat",
+            "Hayya ala salah",
+            "Come to prayer"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Come to prayer.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 499–500; Sahih al-Bukhari 605",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-adhan-hayya-ala-al-falah",
+          "canonical": "Hayya 'ala al-falah",
+          "variants": [
+            "Hayya alal falah",
+            "Hayya ala falah",
+            "Come to success"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Come to success.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 499–500; Sahih al-Bukhari 605",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-adhan-as-salatu-khayrun-min-an-nawm",
+          "canonical": "As-salatu khayrun min an-nawm",
+          "variants": [
+            "Assalatu khairum minan naum",
+            "Prayer is better than sleep",
+            "As salatu khairum minan nawm"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Prayer is better than sleep\" — added in the Fajr adhan.",
+          "source": {
+            "text": "Sunan Abi Dawud 500",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-adhan-la-ilaha-illallah",
+          "canonical": "La ilaha illallah",
+          "variants": [
+            "Lailahaillallah",
+            "La ilaha illa Allah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"There is no god but Allah\" — the closing words.",
+          "source": {
+            "text": "Sunan Abi Dawud 499–500; Sahih al-Bukhari 605",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-adhan-qad-qamat-as-salah",
+          "canonical": "Qad qamat as-salah",
+          "variants": [
+            "Qad qamatis salah",
+            "Qad qamatis salat",
+            "The prayer has begun"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"The prayer has begun\" — said in the iqamah.",
+          "source": {
+            "text": "Sahih al-Bukhari 605",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-adhan-hayya-ala-khayr-al-amal",
+          "canonical": "Hayya 'ala khayr al-'amal",
+          "variants": [
+            "Hayya ala khayril amal",
+            "Come to the best of deeds"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Come to the best of deeds\" — part of the Shia adhan.",
+          "source": {
+            "text": "Shia hadith collections",
+            "status": "needs-review"
+          },
+          "note": "Not part of the Sunni adhan."
+        }
+      ]
+    },
+    {
+      "id": "d1019-caliphate-capitals",
+      "number": 6,
+      "prompt": "Name a city that was a capital of a caliphate.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Delhi",
+            "Agra",
+            "Isfahan",
+            "Lahore",
+            "Granada",
+            "Tehran",
+            "Riyadh",
+            "Jerusalem"
+          ],
+          "message": "That was an important capital, but not of a caliphate. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1019-caliphate-capitals-madinah",
+          "canonical": "Madinah",
+          "variants": [
+            "Medina",
+            "Madina"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Capital of the first caliphs, Abu Bakr, 'Umar and 'Uthman.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-baghdad",
+          "canonical": "Baghdad",
+          "variants": [],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Founded in 762 as the Abbasid capital — the 'Round City'.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-damascus",
+          "canonical": "Damascus",
+          "variants": [
+            "Dimashq",
+            "Sham"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Capital of the Umayyad caliphate (661–750).",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-istanbul",
+          "canonical": "Istanbul",
+          "variants": [
+            "Constantinople",
+            "Konstantiniyye"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Capital of the Ottomans, who held the caliphate from 1517 to 1924.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-cairo",
+          "canonical": "Cairo",
+          "variants": [
+            "Qahirah",
+            "Al-Qahirah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Founded as the Fatimid capital in 969; later home to the Abbasid caliphs under the Mamluks.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-cordoba",
+          "canonical": "Cordoba",
+          "variants": [
+            "Córdoba",
+            "Qurtuba",
+            "Cordova"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Capital of the Umayyad caliphate of al-Andalus (929–1031).",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-kufa",
+          "canonical": "Kufa",
+          "variants": [
+            "Kufah",
+            "Al-Kufa"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'Ali's capital during his caliphate.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-samarra",
+          "canonical": "Samarra",
+          "variants": [
+            "Samarrah",
+            "Samarra Iraq"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Abbasid capital from 836 to 892, famous for its spiral minaret.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-raqqa",
+          "canonical": "Raqqa",
+          "variants": [
+            "Ar-Raqqah",
+            "Raqqah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Harun al-Rashid ruled from here from 796 to 809.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-mahdia",
+          "canonical": "Mahdia",
+          "variants": [
+            "Mahdiya",
+            "Al-Mahdiyya",
+            "Mahdiyya"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The first Fatimid capital, on the coast of Tunisia.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-makkah",
+          "canonical": "Makkah",
+          "variants": [
+            "Mecca",
+            "Makka"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Seat of 'Abdullah ibn al-Zubayr's caliphate (683–692).",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          },
+          "note": "Ibn al-Zubayr's caliphate rivalled the Umayyads."
+        },
+        {
+          "id": "d1019-caliphate-capitals-harran",
+          "canonical": "Harran",
+          "variants": [],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Capital of Marwan II, the last Umayyad caliph.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-anbar",
+          "canonical": "Anbar",
+          "variants": [
+            "Al-Anbar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An early capital of the Abbasids before Baghdad was built.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-marrakesh",
+          "canonical": "Marrakesh",
+          "variants": [
+            "Marrakech"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Capital of the Almohad caliphate.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-caliphate-capitals-sokoto",
+          "canonical": "Sokoto",
+          "variants": [],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Capital of the Sokoto Caliphate in West Africa (1804–1903).",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1905 @@
+{
+  "date": "2026-10-17",
+  "questions": [
+    {
+      "id": "d1017-oaths",
+      "number": 1,
+      "prompt": "Name something Allah swears by in the Qur'an (\"By the …\").",
+      "answers": [
+        {
+          "id": "d1017-oaths-the-sun",
+          "canonical": "The sun",
+          "variants": [
+            "Sun",
+            "Shams",
+            "Ash-Shams"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"By the sun and its brightness.\"",
+          "source": {
+            "text": "Qur'an 91:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-time",
+          "canonical": "Time",
+          "variants": [
+            "Asr",
+            "Al-Asr",
+            "The time",
+            "The afternoon",
+            "Afternoon"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"By time, mankind is in loss\" — Surah al-'Asr.",
+          "source": {
+            "text": "Qur'an 103:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-moon",
+          "canonical": "The moon",
+          "variants": [
+            "Moon",
+            "Qamar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"By the moon when it follows the sun.\"",
+          "source": {
+            "text": "Qur'an 91:2; 74:32",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-night",
+          "canonical": "The night",
+          "variants": [
+            "Night",
+            "Layl",
+            "Lail"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"By the night when it covers.\"",
+          "source": {
+            "text": "Qur'an 92:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-dawn",
+          "canonical": "The dawn",
+          "variants": [
+            "Dawn",
+            "Fajr",
+            "Daybreak"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"By the dawn, and ten nights.\"",
+          "source": {
+            "text": "Qur'an 89:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-morning-brightness",
+          "canonical": "The morning brightness",
+          "variants": [
+            "Duha",
+            "Ad-Duha",
+            "Forenoon",
+            "Morning",
+            "Morning light",
+            "Mid-morning"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"By the morning brightness\" — Surah ad-Duha.",
+          "source": {
+            "text": "Qur'an 93:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-fig-and-the-olive",
+          "canonical": "The fig and the olive",
+          "variants": [
+            "Fig",
+            "Olive",
+            "The fig",
+            "The olive",
+            "Tin",
+            "Zaytun",
+            "Fig and olive"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"By the fig and the olive\" — Surah at-Tin.",
+          "source": {
+            "text": "Qur'an 95:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-mount-sinai",
+          "canonical": "Mount Sinai",
+          "variants": [
+            "Tur",
+            "Sinai",
+            "The Mount",
+            "Mount Tur"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"By Mount Sinai\" — and \"By the Mount\" in Surah at-Tur.",
+          "source": {
+            "text": "Qur'an 95:2; 52:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-this-secure-city",
+          "canonical": "This secure city",
+          "variants": [
+            "City",
+            "Makkah",
+            "Mecca",
+            "Secure city",
+            "The city",
+            "Balad"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Makkah — \"By this secure city.\"",
+          "source": {
+            "text": "Qur'an 95:3; 90:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-quran",
+          "canonical": "The Qur'an",
+          "variants": [
+            "Quran",
+            "The Quran"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"By the Qur'an, full of wisdom.\"",
+          "source": {
+            "text": "Qur'an 36:2; 50:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-day",
+          "canonical": "The day",
+          "variants": [
+            "Day",
+            "Nahar",
+            "Daytime"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"By the day when it appears.\"",
+          "source": {
+            "text": "Qur'an 92:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-pen",
+          "canonical": "The pen",
+          "variants": [
+            "Pen",
+            "Qalam",
+            "Al-Qalam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Nun. By the pen and what they write.\"",
+          "source": {
+            "text": "Qur'an 68:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-stars",
+          "canonical": "The stars",
+          "variants": [
+            "Star",
+            "Stars",
+            "Najm",
+            "Positions of the stars"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"By the star when it falls\", and by the positions of the stars.",
+          "source": {
+            "text": "Qur'an 53:1; 56:75",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-sky",
+          "canonical": "The sky",
+          "variants": [
+            "Sky",
+            "Heaven",
+            "Sama",
+            "The heavens"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"By the sky with its great constellations.\"",
+          "source": {
+            "text": "Qur'an 85:1; 86:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-earth",
+          "canonical": "The earth",
+          "variants": [
+            "Earth",
+            "Ard"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"By the earth and Him who spread it.\"",
+          "source": {
+            "text": "Qur'an 91:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-soul",
+          "canonical": "The soul",
+          "variants": [
+            "Soul",
+            "Nafs"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"By the soul and Him who proportioned it.\"",
+          "source": {
+            "text": "Qur'an 91:7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-day-of-resurrection",
+          "canonical": "The Day of Resurrection",
+          "variants": [
+            "Day of Resurrection",
+            "Qiyamah",
+            "Day of Judgement"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"I swear by the Day of Resurrection.\"",
+          "source": {
+            "text": "Qur'an 75:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-self-reproaching-soul",
+          "canonical": "The self-reproaching soul",
+          "variants": [
+            "Nafs al-Lawwamah",
+            "Self-reproaching soul",
+            "Lawwamah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"And I swear by the self-reproaching soul.\"",
+          "source": {
+            "text": "Qur'an 75:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-ten-nights",
+          "canonical": "Ten nights",
+          "variants": [
+            "The ten nights",
+            "10 nights"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"By the dawn, and ten nights.\"",
+          "source": {
+            "text": "Qur'an 89:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-even-and-the-odd",
+          "canonical": "The even and the odd",
+          "variants": [
+            "Even and odd",
+            "Shaf and watr",
+            "Shaf' and watr"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"By the even and the odd.\"",
+          "source": {
+            "text": "Qur'an 89:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-charging-horses",
+          "canonical": "The charging horses",
+          "variants": [
+            "Adiyat",
+            "Al-Adiyat",
+            "Horses",
+            "War horses",
+            "Charging steeds",
+            "Racers"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"By the racers, panting\" — Surah al-'Adiyat.",
+          "source": {
+            "text": "Qur'an 100:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-winds",
+          "canonical": "The winds",
+          "variants": [
+            "Winds",
+            "Dhariyat",
+            "Scattering winds"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"By the winds that scatter\" — Surah adh-Dhariyat.",
+          "source": {
+            "text": "Qur'an 51:1; 77:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-those-who-pull-out",
+          "canonical": "Those who pull out",
+          "variants": [
+            "Naziat",
+            "An-Nazi'at",
+            "Angels who pull out"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"By those who pull out harshly\" — the angels of Surah an-Nazi'at.",
+          "source": {
+            "text": "Qur'an 79:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-father-and-his-child",
+          "canonical": "The father and his child",
+          "variants": [
+            "Father and son",
+            "Parent and child",
+            "Father and child"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"And by the father and what he fathered.\"",
+          "source": {
+            "text": "Qur'an 90:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-twilight",
+          "canonical": "The twilight",
+          "variants": [
+            "Twilight",
+            "Shafaq",
+            "Sunset glow"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"I swear by the twilight glow.\"",
+          "source": {
+            "text": "Qur'an 84:16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-sea-set-aflame",
+          "canonical": "The sea set aflame",
+          "variants": [
+            "Sea",
+            "The sea",
+            "Ocean",
+            "Bahr"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"By the sea filled with fire.\"",
+          "source": {
+            "text": "Qur'an 52:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-frequented-house",
+          "canonical": "The Frequented House",
+          "variants": [
+            "Al-Bayt al-Ma'mur",
+            "Bayt al-Mamur",
+            "Inhabited House",
+            "Baitul Mamur"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"By the House that is frequented\" — al-Bayt al-Ma'mur.",
+          "source": {
+            "text": "Qur'an 52:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-inscribed-book",
+          "canonical": "The inscribed Book",
+          "variants": [
+            "Inscribed book",
+            "Written book",
+            "The Book"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"By a Book inscribed in parchment unrolled.\"",
+          "source": {
+            "text": "Qur'an 52:2–3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-your-lord",
+          "canonical": "Your Lord",
+          "variants": [
+            "By your Lord",
+            "Lord of the heavens and earth"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"By your Lord, they will not believe until…\"",
+          "source": {
+            "text": "Qur'an 4:65; 51:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-oaths-the-prophets-life",
+          "canonical": "The Prophet's life",
+          "variants": [
+            "Your life",
+            "By your life",
+            "La'amruk",
+            "Laamruka"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"By your life\" — Allah swears by the life of the Prophet ﷺ.",
+          "source": {
+            "text": "Qur'an 15:72",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1017-islamic-sciences",
+      "number": 2,
+      "prompt": "Name a branch or field of Islamic knowledge.",
+      "answers": [
+        {
+          "id": "d1017-islamic-sciences-tafsir",
+          "canonical": "Tafsir",
+          "variants": [
+            "Tafseer",
+            "Exegesis",
+            "Qur'an commentary",
+            "Quran commentary"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Explaining the meaning of the Qur'an.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-hadith",
+          "canonical": "Hadith",
+          "variants": [
+            "Hadith studies",
+            "Ilm al-Hadith",
+            "Hadees"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Studying the sayings and practice of the Prophet ﷺ.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-fiqh",
+          "canonical": "Fiqh",
+          "variants": [
+            "Islamic law",
+            "Jurisprudence",
+            "Islamic jurisprudence",
+            "Feqh"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Islamic jurisprudence — the rulings of worship and daily life.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-aqidah",
+          "canonical": "Aqidah",
+          "variants": [
+            "Aqeedah",
+            "Creed",
+            "Belief",
+            "Islamic creed"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The creed: what a Muslim believes.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-sirah",
+          "canonical": "Sirah",
+          "variants": [
+            "Seerah",
+            "Seera",
+            "Prophetic biography",
+            "Life of the Prophet"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The life story of the Prophet ﷺ.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-tajwid",
+          "canonical": "Tajwid",
+          "variants": [
+            "Tajweed",
+            "Rules of recitation"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The rules for reciting the Qur'an correctly.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-arabic-language",
+          "canonical": "Arabic language",
+          "variants": [
+            "Arabic",
+            "Lughah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The language of the Qur'an, studied as a tool for every other science.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-usul-al-fiqh",
+          "canonical": "Usul al-Fiqh",
+          "variants": [
+            "Usul",
+            "Usool al-Fiqh",
+            "Principles of jurisprudence",
+            "Principles of fiqh"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The principles by which rulings are derived.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-mustalah-al-hadith",
+          "canonical": "Mustalah al-Hadith",
+          "variants": [
+            "Ulum al-Hadith",
+            "Hadith sciences",
+            "Science of hadith",
+            "Hadith terminology"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The science of grading hadith and their chains.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-ulum-al-quran",
+          "canonical": "'Ulum al-Qur'an",
+          "variants": [
+            "Ulum al-Quran",
+            "Uloom al-Quran",
+            "Sciences of the Quran"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The sciences of the Qur'an: its revelation, compilation, abrogation and more.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-qiraat",
+          "canonical": "Qira'at",
+          "variants": [
+            "Qiraat",
+            "Readings of the Quran",
+            "Recitations"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The different authentic readings of the Qur'an.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-nahw",
+          "canonical": "Nahw",
+          "variants": [
+            "Grammar",
+            "Arabic grammar",
+            "Syntax"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Arabic grammar and syntax.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-sarf",
+          "canonical": "Sarf",
+          "variants": [
+            "Morphology",
+            "Tasrif"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Arabic morphology — how words are formed.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-balaghah",
+          "canonical": "Balaghah",
+          "variants": [
+            "Balagha",
+            "Rhetoric"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Arabic rhetoric, used to appreciate the Qur'an's eloquence.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-tasawwuf",
+          "canonical": "Tasawwuf",
+          "variants": [
+            "Sufism",
+            "Tazkiyah",
+            "Tazkiyat an-Nafs",
+            "Purification of the soul"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Purifying the heart and soul.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-akhlaq",
+          "canonical": "Akhlaq",
+          "variants": [
+            "Ethics",
+            "Good character",
+            "Manners",
+            "Adab"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Islamic ethics and good character.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-faraid",
+          "canonical": "Fara'id",
+          "variants": [
+            "Faraid",
+            "Inheritance",
+            "Mirath",
+            "Islamic inheritance"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The science of inheritance shares.",
+          "source": {
+            "text": "Qur'an 4:11–12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-kalam",
+          "canonical": "Kalam",
+          "variants": [
+            "Ilm al-Kalam",
+            "Theology",
+            "Islamic theology"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Rational theology.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-tarikh",
+          "canonical": "Tarikh",
+          "variants": [
+            "History",
+            "Islamic history"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Islamic history.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-rijal",
+          "canonical": "Rijal",
+          "variants": [
+            "Ilm al-Rijal",
+            "Narrator criticism",
+            "Jarh wa tadil",
+            "Al-Jarh wa al-Ta'dil"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Studying hadith narrators and their reliability.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-maqasid-al-shariah",
+          "canonical": "Maqasid al-Shari'ah",
+          "variants": [
+            "Maqasid",
+            "Objectives of the Shariah",
+            "Maqasid ash-Shariah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The higher objectives of the Shari'ah.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-qawaid-fiqhiyyah",
+          "canonical": "Qawa'id Fiqhiyyah",
+          "variants": [
+            "Legal maxims",
+            "Qawaid Fiqhiyyah",
+            "Fiqh maxims"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Legal maxims that sum up many rulings.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-islamic-sciences-mantiq",
+          "canonical": "Mantiq",
+          "variants": [
+            "Logic"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Logic, studied as a tool for argument.",
+          "source": {
+            "text": "Classical classifications of the Islamic sciences",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1017-calligraphy",
+      "number": 3,
+      "prompt": "Name a style of Arabic calligraphy.",
+      "answers": [
+        {
+          "id": "d1017-calligraphy-kufic",
+          "canonical": "Kufic",
+          "variants": [
+            "Kufi",
+            "Square Kufic"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The early angular script of the first Qur'an manuscripts.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-naskh",
+          "canonical": "Naskh",
+          "variants": [
+            "Naskhi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The clear rounded script used in most printed Qur'ans.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-thuluth",
+          "canonical": "Thuluth",
+          "variants": [
+            "Thulth",
+            "Sulus",
+            "Thuluth script"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The grand flowing script of mosque inscriptions.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-diwani",
+          "canonical": "Diwani",
+          "variants": [
+            "Divani"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The ornate Ottoman chancery script.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-nastaliq",
+          "canonical": "Nasta'liq",
+          "variants": [
+            "Nastaliq",
+            "Nastaleeq",
+            "Nastaaliq"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The elegant hanging script of Persian writing.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-ruqah",
+          "canonical": "Ruq'ah",
+          "variants": [
+            "Ruqa",
+            "Ruqah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The simple everyday handwriting script.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-maghribi",
+          "canonical": "Maghribi",
+          "variants": [
+            "Maghrebi",
+            "Moroccan script"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The rounded script of North Africa and al-Andalus.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-muhaqqaq",
+          "canonical": "Muhaqqaq",
+          "variants": [
+            "Muhakkak"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A large, majestic script used for great Qur'ans.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-rayhani",
+          "canonical": "Rayhani",
+          "variants": [
+            "Raihani"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A finer relative of Muhaqqaq.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-tughra",
+          "canonical": "Tughra",
+          "variants": [
+            "Tugra"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The calligraphic monogram of the Ottoman sultans.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-tawqi",
+          "canonical": "Tawqi'",
+          "variants": [
+            "Tawqi",
+            "Tauqi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A classical script used for signing documents.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-riqa",
+          "canonical": "Riqa'",
+          "variants": [],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A small classical script used for letters.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-sini",
+          "canonical": "Sini",
+          "variants": [
+            "Sini script",
+            "Chinese Arabic calligraphy"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Arabic calligraphy in the style of Chinese brushwork.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-bihari",
+          "canonical": "Bihari",
+          "variants": [
+            "Behari"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A script used for Qur'ans in medieval India.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-calligraphy-shikasta",
+          "canonical": "Shikasta",
+          "variants": [
+            "Shekasteh",
+            "Shikaste"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A fast 'broken' Persian script.",
+          "source": {
+            "text": "Standard histories of Arabic calligraphy",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1017-major-sins",
+      "number": 4,
+      "prompt": "Name one of the major sins in Islam.",
+      "answers": [
+        {
+          "id": "d1017-major-sins-shirk",
+          "canonical": "Shirk",
+          "variants": [
+            "Associating partners with Allah",
+            "Polytheism",
+            "Idolatry",
+            "Idol worship"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Associating partners with Allah — the gravest sin.",
+          "source": {
+            "text": "Qur'an 4:48; Sahih al-Bukhari 2766",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-murder",
+          "canonical": "Murder",
+          "variants": [
+            "Killing",
+            "Killing a soul",
+            "Homicide",
+            "Killing someone"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Killing a soul that Allah has made sacred.",
+          "source": {
+            "text": "Qur'an 5:32; Sahih al-Bukhari 2766",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-zina",
+          "canonical": "Zina",
+          "variants": [
+            "Adultery",
+            "Fornication"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Adultery and fornication.",
+          "source": {
+            "text": "Qur'an 17:32",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-major-sins-drinking-alcohol",
+          "canonical": "Drinking alcohol",
+          "variants": [
+            "Alcohol",
+            "Drinking",
+            "Khamr",
+            "Wine",
+            "Drinking wine",
+            "Intoxicants"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Wine and intoxicants are 'filth from the work of Shaytan'.",
+          "source": {
+            "text": "Qur'an 5:90",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-major-sins-theft",
+          "canonical": "Theft",
+          "variants": [
+            "Stealing"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Stealing.",
+          "source": {
+            "text": "Qur'an 5:38",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-major-sins-riba",
+          "canonical": "Riba",
+          "variants": [
+            "Interest",
+            "Usury",
+            "Consuming interest",
+            "Consuming riba"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Taking or consuming interest.",
+          "source": {
+            "text": "Qur'an 2:275; Sahih al-Bukhari 2766",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-magic",
+          "canonical": "Magic",
+          "variants": [
+            "Sihr",
+            "Witchcraft",
+            "Sorcery",
+            "Black magic"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Practising sorcery.",
+          "source": {
+            "text": "Sahih al-Bukhari 2766",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-disobeying-parents",
+          "canonical": "Disobeying parents",
+          "variants": [
+            "'Uquq al-walidayn",
+            "Uquq al-walidayn",
+            "Disrespecting parents",
+            "Being disobedient to parents"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Being undutiful to one's parents.",
+          "source": {
+            "text": "Sahih al-Bukhari 5976",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-false-testimony",
+          "canonical": "False testimony",
+          "variants": [
+            "False witness",
+            "Bearing false witness",
+            "Shahadat az-zur"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Bearing false witness.",
+          "source": {
+            "text": "Sahih al-Bukhari 5976",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-consuming-an-orphans-wealth",
+          "canonical": "Consuming an orphan's wealth",
+          "variants": [
+            "Orphan's wealth",
+            "Taking orphans money",
+            "Stealing from orphans"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Unjustly taking what belongs to orphans.",
+          "source": {
+            "text": "Qur'an 4:10; Sahih al-Bukhari 2766",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-slandering-chaste-women",
+          "canonical": "Slandering chaste women",
+          "variants": [
+            "Slander",
+            "Qadhf",
+            "Falsely accusing women"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Accusing chaste, innocent believing women.",
+          "source": {
+            "text": "Qur'an 24:23; Sahih al-Bukhari 2766",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-gambling",
+          "canonical": "Gambling",
+          "variants": [
+            "Maysir",
+            "Betting"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Games of chance — 'filth from the work of Shaytan'.",
+          "source": {
+            "text": "Qur'an 5:90",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-major-sins-abandoning-prayer",
+          "canonical": "Abandoning prayer",
+          "variants": [
+            "Not praying",
+            "Leaving salah",
+            "Missing prayers",
+            "Abandoning salah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Leaving the obligatory prayers.",
+          "source": {
+            "text": "Sahih Muslim 82",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-backbiting",
+          "canonical": "Backbiting",
+          "variants": [
+            "Gheebah",
+            "Ghibah",
+            "Gossip"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Speaking ill of someone behind their back.",
+          "source": {
+            "text": "Qur'an 49:12",
+            "status": "quran-reference"
+          },
+          "note": "Many scholars count it among the major sins."
+        },
+        {
+          "id": "d1017-major-sins-fleeing-the-battlefield",
+          "canonical": "Fleeing the battlefield",
+          "variants": [
+            "Fleeing battle",
+            "Running from battle",
+            "Desertion"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Running away from the army when facing the enemy.",
+          "source": {
+            "text": "Sahih al-Bukhari 2766",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-cutting-family-ties",
+          "canonical": "Cutting family ties",
+          "variants": [
+            "Cutting ties of kinship",
+            "Breaking family ties",
+            "Qat al-rahim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Breaking off relations with relatives.",
+          "source": {
+            "text": "Sahih Muslim 2556",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-suicide",
+          "canonical": "Suicide",
+          "variants": [
+            "Killing oneself"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Taking one's own life.",
+          "source": {
+            "text": "Qur'an 4:29; Sahih al-Bukhari 5778",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-arrogance",
+          "canonical": "Arrogance",
+          "variants": [
+            "Pride",
+            "Kibr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"No one with an atom's weight of arrogance in his heart will enter Paradise.\"",
+          "source": {
+            "text": "Sahih Muslim 91",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-cheating-in-weights",
+          "canonical": "Cheating in weights",
+          "variants": [
+            "Cheating",
+            "Short measure",
+            "Cheating in business"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Giving short measure and weight.",
+          "source": {
+            "text": "Qur'an 83:1–3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-major-sins-bribery",
+          "canonical": "Bribery",
+          "variants": [
+            "Bribes",
+            "Rishwah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Giving or taking bribes.",
+          "source": {
+            "text": "Sunan Abi Dawud 3580",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-major-sins-lying",
+          "canonical": "Lying",
+          "variants": [
+            "Lies",
+            "Telling lies"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Habitual lying, and especially lying about Allah and His Messenger ﷺ.",
+          "source": {
+            "text": "Sahih al-Bukhari 6094; 110",
+            "status": "needs-review"
+          },
+          "note": "Al-Dhahabi lists persistent lying among the major sins."
+        }
+      ]
+    },
+    {
+      "id": "d1017-prophet-childhood",
+      "number": 5,
+      "prompt": "Name someone who looked after Prophet Muhammad ﷺ when he was a child.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Abdullah",
+            "Abdullah ibn Abd al-Muttalib",
+            "His father"
+          ],
+          "message": "His father died before he was born. Try again!"
+        },
+        {
+          "inputs": [
+            "Khadijah",
+            "Khadija"
+          ],
+          "message": "Khadijah was his wife, later in life. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1017-prophet-childhood-aminah",
+          "canonical": "Aminah",
+          "variants": [
+            "Amina",
+            "Aminah bint Wahb",
+            "Amina bint Wahab",
+            "His mother"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His mother, who died when he was about six.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-prophet-childhood-halimah",
+          "canonical": "Halimah",
+          "honorific": "RA",
+          "variants": [
+            "Halima",
+            "Halimah as-Sadiyyah",
+            "Haleema",
+            "Halima Sadia",
+            "Halimah Sadiyah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His wet-nurse from Banu Sa'd, with whom he lived in the desert.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-prophet-childhood-abd-al-muttalib",
+          "canonical": "'Abd al-Muttalib",
+          "variants": [
+            "Abdul Muttalib",
+            "Abd al-Muttalib",
+            "Abdul Mutalib",
+            "His grandfather",
+            "Shaybah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His grandfather, who raised him after his mother died, until he was eight.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-prophet-childhood-abu-talib",
+          "canonical": "Abu Talib",
+          "variants": [
+            "Abu Taalib",
+            "His uncle"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His uncle, who raised him after his grandfather died and protected him for life.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-prophet-childhood-umm-ayman",
+          "canonical": "Umm Ayman",
+          "honorific": "RA",
+          "variants": [
+            "Barakah",
+            "Baraka",
+            "Umm Aiman",
+            "Umm Aymen"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Barakah, the nurse who cared for him from birth — \"my mother after my mother\".",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-prophet-childhood-thuwaybah",
+          "canonical": "Thuwaybah",
+          "variants": [
+            "Thuwaiba",
+            "Thuwaiba",
+            "Thuwayba"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A freed slave of Abu Lahab, the first to nurse him.",
+          "source": {
+            "text": "Sahih al-Bukhari 5101",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-prophet-childhood-fatimah-bint-asad",
+          "canonical": "Fatimah bint Asad",
+          "honorific": "RA",
+          "variants": [
+            "Fatima bint Asad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Abu Talib's wife, who cared for him like a mother.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-prophet-childhood-al-shayma",
+          "canonical": "Al-Shayma'",
+          "honorific": "RA",
+          "variants": [
+            "Shayma",
+            "Shaima",
+            "Al-Shaima",
+            "Shaymaa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "His foster sister, Halimah's daughter, who carried and sang to him.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-prophet-childhood-al-harith",
+          "canonical": "Al-Harith",
+          "variants": [
+            "Harith",
+            "Foster father",
+            "Al-Harith ibn Abd al-Uzza",
+            "Abu Kabshah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Halimah's husband, his foster father.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1017-nature",
+      "number": 6,
+      "prompt": "Name a natural phenomenon or weather event mentioned in the Qur'an.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Snow",
+            "Rainbow",
+            "Volcano",
+            "Tsunami",
+            "Fog"
+          ],
+          "message": "That one isn't mentioned in the Qur'an. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1017-nature-rain",
+          "canonical": "Rain",
+          "variants": [
+            "Matar",
+            "Ghayth",
+            "Rainfall"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Sent down from the sky to bring dead land to life.",
+          "source": {
+            "text": "Qur'an 2:22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-wind",
+          "canonical": "Wind",
+          "variants": [
+            "Winds",
+            "Rih",
+            "Riyah",
+            "Breeze"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The winds are among the signs for people who reason.",
+          "source": {
+            "text": "Qur'an 2:164",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-thunder",
+          "canonical": "Thunder",
+          "variants": [
+            "Ra'd",
+            "Rad",
+            "Thunderstorm"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"The thunder glorifies His praise\" — Surah ar-Ra'd.",
+          "source": {
+            "text": "Qur'an 13:13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-lightning",
+          "canonical": "Lightning",
+          "variants": [
+            "Barq"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The lightning almost snatches away their sight.",
+          "source": {
+            "text": "Qur'an 2:20; 13:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-clouds",
+          "canonical": "Clouds",
+          "variants": [
+            "Cloud",
+            "Sahab"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Clouds driven and piled up, from which rain comes.",
+          "source": {
+            "text": "Qur'an 24:43; 2:164",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-earthquake",
+          "canonical": "Earthquake",
+          "variants": [
+            "Zalzalah",
+            "Zilzal",
+            "Quake",
+            "Earthquakes"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"When the earth is shaken with its quake\" — Surah az-Zalzalah.",
+          "source": {
+            "text": "Qur'an 99:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-flood",
+          "canonical": "Flood",
+          "variants": [
+            "Tufan",
+            "Deluge",
+            "Great Flood"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Flood that overtook the people of Nuh.",
+          "source": {
+            "text": "Qur'an 29:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-day-and-night",
+          "canonical": "Day and night",
+          "variants": [
+            "Alternation of night and day",
+            "Night and day"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The alternation of night and day is a sign.",
+          "source": {
+            "text": "Qur'an 2:164",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-hail",
+          "canonical": "Hail",
+          "variants": [
+            "Barad",
+            "Hailstones"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mountains of cloud from which He sends down hail.",
+          "source": {
+            "text": "Qur'an 24:43",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-lunar-eclipse",
+          "canonical": "Lunar eclipse",
+          "variants": [
+            "Eclipse",
+            "Moon eclipse",
+            "Eclipse of the moon"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"When the moon is eclipsed\" — a sign of the Last Day.",
+          "source": {
+            "text": "Qur'an 75:8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-shadows",
+          "canonical": "Shadows",
+          "variants": [
+            "Shadow",
+            "Shade",
+            "Zill"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He extends the shadow, and could have made it still.",
+          "source": {
+            "text": "Qur'an 25:45",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-waves",
+          "canonical": "Waves",
+          "variants": [
+            "Wave",
+            "Ocean waves"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Darkness in a deep sea, covered by waves upon waves.",
+          "source": {
+            "text": "Qur'an 24:40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-barrier-between-two-seas",
+          "canonical": "Barrier between two seas",
+          "variants": [
+            "Two seas meeting",
+            "Meeting of two seas",
+            "Barrier between seas",
+            "Barzakh between the seas"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Two seas meet, with a barrier between them they do not cross.",
+          "source": {
+            "text": "Qur'an 55:19–20",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-furious-wind",
+          "canonical": "Furious wind",
+          "variants": [
+            "Sarsar",
+            "Storm",
+            "Sandstorm",
+            "Violent wind",
+            "Hurricane"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A screaming, violent wind destroyed the people of 'Ad.",
+          "source": {
+            "text": "Qur'an 69:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-whirlwind",
+          "canonical": "Whirlwind",
+          "variants": [
+            "I'sar",
+            "Isar",
+            "Fiery whirlwind"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A whirlwind with fire that burns a garden.",
+          "source": {
+            "text": "Qur'an 2:266",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-nature-darkness-of-the-deep-sea",
+          "canonical": "Darkness of the deep sea",
+          "variants": [
+            "Deep sea darkness",
+            "Darkness in the sea"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Layers of darkness in a deep ocean.",
+          "source": {
+            "text": "Qur'an 24:40",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
+}

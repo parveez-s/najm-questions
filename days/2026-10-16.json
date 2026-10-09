@@ -1,0 +1,1754 @@
+{
+  "date": "2026-10-16",
+  "questions": [
+    {
+      "id": "d1016-hell-names",
+      "number": 1,
+      "prompt": "Name a name the Qur'an gives to Hell.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Barzakh",
+            "Grave",
+            "Sijjin"
+          ],
+          "message": "That isn't a name for Hell itself. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1016-hell-names-jahannam",
+          "canonical": "Jahannam",
+          "variants": [
+            "Jahanam",
+            "Jahannum",
+            "Hell",
+            "Hellfire",
+            "Gehenna",
+            "Jahannam fire"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The most common name for Hell in the Qur'an.",
+          "source": {
+            "text": "Qur'an 2:206",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-hell-names-an-nar",
+          "canonical": "An-Nar",
+          "variants": [
+            "Nar",
+            "The Fire",
+            "Fire"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Fire', whose fuel is people and stones.",
+          "source": {
+            "text": "Qur'an 2:24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-hell-names-al-jahim",
+          "canonical": "Al-Jahim",
+          "variants": [
+            "Jahim",
+            "Jaheem",
+            "Blazing Fire"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Blazing Fire.",
+          "source": {
+            "text": "Qur'an 2:119; 37:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-hell-names-as-sair",
+          "canonical": "As-Sa'ir",
+          "variants": [
+            "Sair",
+            "Saeer",
+            "Blaze",
+            "The Blaze"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Blaze.",
+          "source": {
+            "text": "Qur'an 4:10; 67:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-hell-names-saqar",
+          "canonical": "Saqar",
+          "variants": [
+            "Sakar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"And what will make you know what Saqar is? It leaves nothing and spares nothing.\"",
+          "source": {
+            "text": "Qur'an 74:26–28",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-hell-names-al-hutamah",
+          "canonical": "Al-Hutamah",
+          "variants": [
+            "Hutamah",
+            "Hutama",
+            "The Crusher"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Crusher, \"the fire of Allah, kindled\".",
+          "source": {
+            "text": "Qur'an 104:4–6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-hell-names-laza",
+          "canonical": "Laza",
+          "variants": [
+            "Ladha",
+            "Lazaa",
+            "Laza fire"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A raging flame that strips away the skin.",
+          "source": {
+            "text": "Qur'an 70:15–16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-hell-names-al-hawiyah",
+          "canonical": "Al-Hawiyah",
+          "variants": [
+            "Hawiyah",
+            "Hawiya",
+            "The Abyss",
+            "The Pit"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Abyss — the home of those whose scales are light.",
+          "source": {
+            "text": "Qur'an 101:8–9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-hell-names-dar-al-bawar",
+          "canonical": "Dar al-Bawar",
+          "variants": [
+            "Abode of ruin",
+            "Home of ruin",
+            "Darul Bawar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Home of Ruin.",
+          "source": {
+            "text": "Qur'an 14:28–29",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1016-quran-names",
+      "number": 2,
+      "prompt": "Name a name or description the Qur'an gives to itself.",
+      "answers": [
+        {
+          "id": "d1016-quran-names-al-quran",
+          "canonical": "Al-Qur'an",
+          "variants": [
+            "Quran",
+            "Koran",
+            "The Quran"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The Recitation' — its best-known name.",
+          "source": {
+            "text": "Qur'an 2:185",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-al-kitab",
+          "canonical": "Al-Kitab",
+          "variants": [
+            "Kitab",
+            "The Book"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Book', in which there is no doubt.",
+          "source": {
+            "text": "Qur'an 2:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-al-furqan",
+          "canonical": "Al-Furqan",
+          "variants": [
+            "Furqan",
+            "The Criterion"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Criterion' between right and wrong; Surah 25 is named after it.",
+          "source": {
+            "text": "Qur'an 25:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-adh-dhikr",
+          "canonical": "Adh-Dhikr",
+          "variants": [
+            "Dhikr",
+            "Zikr",
+            "The Reminder"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Reminder', which Allah Himself preserves.",
+          "source": {
+            "text": "Qur'an 15:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-al-huda",
+          "canonical": "Al-Huda",
+          "variants": [
+            "Huda",
+            "Guidance"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Guidance for those who are mindful of Allah.",
+          "source": {
+            "text": "Qur'an 2:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-an-nur",
+          "canonical": "An-Nur",
+          "variants": [
+            "Nur",
+            "Noor",
+            "The Light"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A clear light sent down.",
+          "source": {
+            "text": "Qur'an 4:174",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-kalam-allah",
+          "canonical": "Kalam Allah",
+          "variants": [
+            "Word of Allah",
+            "Kalamullah",
+            "Speech of Allah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Word of Allah.",
+          "source": {
+            "text": "Qur'an 9:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-at-tanzil",
+          "canonical": "At-Tanzil",
+          "variants": [
+            "Tanzil",
+            "Revelation",
+            "The Revelation"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Revelation' sent down by the Lord of the worlds.",
+          "source": {
+            "text": "Qur'an 26:192",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-ash-shifa",
+          "canonical": "Ash-Shifa",
+          "variants": [
+            "Shifa",
+            "Shifa'",
+            "Healing",
+            "Cure"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A healing for what is in the hearts.",
+          "source": {
+            "text": "Qur'an 17:82; 10:57",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-ar-rahmah",
+          "canonical": "Ar-Rahmah",
+          "variants": [
+            "Rahmah",
+            "Mercy"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A mercy for the believers.",
+          "source": {
+            "text": "Qur'an 17:82",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-al-bayan",
+          "canonical": "Al-Bayan",
+          "variants": [
+            "Bayan",
+            "Clear explanation"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A clear explanation for people.",
+          "source": {
+            "text": "Qur'an 3:138",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-al-kitab-al-mubin",
+          "canonical": "Al-Kitab al-Mubin",
+          "variants": [
+            "Mubin",
+            "Kitab Mubin",
+            "The Clear Book"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Clear Book'.",
+          "source": {
+            "text": "Qur'an 5:15; 12:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-al-mawizah",
+          "canonical": "Al-Maw'izah",
+          "variants": [
+            "Mawizah",
+            "Mauizah",
+            "Admonition",
+            "Exhortation"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An admonition from your Lord.",
+          "source": {
+            "text": "Qur'an 10:57",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-al-burhan",
+          "canonical": "Al-Burhan",
+          "variants": [
+            "Burhan",
+            "Proof"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A conclusive proof from your Lord.",
+          "source": {
+            "text": "Qur'an 4:174",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-al-hakim",
+          "canonical": "Al-Hakim",
+          "variants": [
+            "Hakim",
+            "The Wise",
+            "Quran al-Hakim"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'The Wise' — \"By the Qur'an, full of wisdom.\"",
+          "source": {
+            "text": "Qur'an 36:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-al-majid",
+          "canonical": "Al-Majid",
+          "variants": [
+            "Majid",
+            "Majeed",
+            "The Glorious"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'The Glorious' — \"Qaf. By the glorious Qur'an.\"",
+          "source": {
+            "text": "Qur'an 50:1; 85:21",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-al-karim",
+          "canonical": "Al-Karim",
+          "variants": [
+            "Karim",
+            "Kareem",
+            "The Noble"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'The Noble' — \"It is a noble Qur'an.\"",
+          "source": {
+            "text": "Qur'an 56:77",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-al-aziz",
+          "canonical": "Al-'Aziz",
+          "variants": [
+            "Aziz",
+            "The Mighty"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'The Mighty' — \"it is a mighty Book.\"",
+          "source": {
+            "text": "Qur'an 41:41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-ahsan-al-hadith",
+          "canonical": "Ahsan al-Hadith",
+          "variants": [
+            "Best of speech",
+            "Best statement",
+            "Ahsanul Hadith"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'The best of statements'.",
+          "source": {
+            "text": "Qur'an 39:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-al-mathani",
+          "canonical": "Al-Mathani",
+          "variants": [
+            "Mathani",
+            "Oft-repeated"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'Oft-repeated' — a Book consistent and repeated.",
+          "source": {
+            "text": "Qur'an 39:23; 15:87",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-quran-names-habl-allah",
+          "canonical": "Habl Allah",
+          "variants": [
+            "Rope of Allah",
+            "Hablullah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'The rope of Allah' to hold fast to, which many explain as the Qur'an.",
+          "source": {
+            "text": "Qur'an 3:103",
+            "status": "quran-reference"
+          },
+          "note": "Commentators also explain the rope as Islam or the community."
+        }
+      ]
+    },
+    {
+      "id": "d1016-signs-of-the-hour",
+      "number": 3,
+      "prompt": "Name one of the major signs before the Day of Judgement.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Trumpet",
+            "Sur",
+            "Blowing of the trumpet"
+          ],
+          "message": "The Trumpet starts the Day itself rather than being a sign before it. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1016-signs-of-the-hour-dajjal",
+          "canonical": "Dajjal",
+          "variants": [
+            "Al-Masih ad-Dajjal",
+            "Dajal",
+            "Antichrist",
+            "False Messiah",
+            "The Dajjal"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The False Messiah, whose trial is the greatest before the Hour.",
+          "source": {
+            "text": "Sahih Muslim 2901; 2937",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-signs-of-the-hour-return-of-isa",
+          "canonical": "Return of 'Isa",
+          "variants": [
+            "Isa returning",
+            "Jesus returning",
+            "Descent of Isa",
+            "Second coming",
+            "Nuzul Isa",
+            "Isa coming back",
+            "Return of Jesus"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'Isa son of Maryam will descend and kill the Dajjal.",
+          "source": {
+            "text": "Sahih Muslim 2901; Sahih al-Bukhari 3448",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-signs-of-the-hour-the-mahdi",
+          "canonical": "The Mahdi",
+          "variants": [
+            "Mahdi",
+            "Al-Mahdi",
+            "Imam Mahdi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A leader from the Prophet's ﷺ family who will fill the earth with justice.",
+          "source": {
+            "text": "Sunan Abi Dawud 4282",
+            "status": "needs-review"
+          },
+          "note": "Scholars differ on whether to count him among the major signs."
+        },
+        {
+          "id": "d1016-signs-of-the-hour-yajuj-and-majuj",
+          "canonical": "Ya'juj and Ma'juj",
+          "variants": [
+            "Gog and Magog",
+            "Yajuj and Majuj",
+            "Yajooj Majooj",
+            "Yajuj Majuj"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Gog and Magog will break loose and swarm over the earth.",
+          "source": {
+            "text": "Qur'an 21:96; Sahih Muslim 2901",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-signs-of-the-hour-sun-rising-from-the-west",
+          "canonical": "Sun rising from the west",
+          "variants": [
+            "Sun rising in the west",
+            "Sunrise from the west"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "After it, repentance will no longer be accepted.",
+          "source": {
+            "text": "Sahih Muslim 2901; Sahih al-Bukhari 4635",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-signs-of-the-hour-the-beast",
+          "canonical": "The Beast",
+          "variants": [
+            "Dabbah",
+            "Dabbat al-Ard",
+            "Beast of the Earth",
+            "Dabbatul Ard"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A creature brought out of the earth that will speak to people.",
+          "source": {
+            "text": "Qur'an 27:82",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-signs-of-the-hour-the-smoke",
+          "canonical": "The Smoke",
+          "variants": [
+            "Dukhan",
+            "Smoke"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A smoke that will cover the people.",
+          "source": {
+            "text": "Qur'an 44:10; Sahih Muslim 2901",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-signs-of-the-hour-three-landslides",
+          "canonical": "Three landslides",
+          "variants": [
+            "Landslides",
+            "Sinkings",
+            "Earth swallowing",
+            "Khusuf"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The earth will swallow up places in the east, the west and Arabia.",
+          "source": {
+            "text": "Sahih Muslim 2901",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-signs-of-the-hour-fire-from-yemen",
+          "canonical": "Fire from Yemen",
+          "variants": [
+            "Great fire",
+            "Fire from Aden",
+            "The fire"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A fire that will drive people to their place of gathering — the last of the ten signs.",
+          "source": {
+            "text": "Sahih Muslim 2901",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-signs-of-the-hour-destruction-of-the-kabah",
+          "canonical": "Destruction of the Ka'bah",
+          "variants": [
+            "Dhul Suwayqatayn",
+            "Destruction of the Kaaba"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An Abyssinian with thin legs will destroy the Ka'bah.",
+          "source": {
+            "text": "Sahih al-Bukhari 1591",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-signs-of-the-hour-the-gentle-wind",
+          "canonical": "The gentle wind",
+          "variants": [
+            "Pleasant wind",
+            "The wind",
+            "Gentle wind"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A pleasant wind will take the soul of every believer, leaving only the worst people.",
+          "source": {
+            "text": "Sahih Muslim 2937",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1016-reciters",
+      "number": 4,
+      "prompt": "Name a famous reciter (qari) of the Qur'an.",
+      "answers": [
+        {
+          "id": "d1016-reciters-mishary-rashid-alafasy",
+          "canonical": "Mishary Rashid Alafasy",
+          "variants": [
+            "Mishary Alafasy",
+            "Alafasy",
+            "Mishary",
+            "Mishari Rashid",
+            "Mishary al-Afasy",
+            "Afasy"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Kuwaiti reciter and imam, one of the most listened-to voices today.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-abdul-rahman-al-sudais",
+          "canonical": "Abdul Rahman al-Sudais",
+          "variants": [
+            "Sudais",
+            "Al-Sudais",
+            "Abdur Rahman Sudais",
+            "Sheikh Sudais"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Long-serving imam of the Masjid al-Haram in Makkah.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-abdul-basit-abdus-samad",
+          "canonical": "Abdul Basit Abdus Samad",
+          "variants": [
+            "Abdul Basit",
+            "Abdel Basset",
+            "Abdulbasit",
+            "Abd al-Basit"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Egyptian reciter (1927–1988), famed worldwide for his recitation.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-saad-al-ghamdi",
+          "canonical": "Saad al-Ghamdi",
+          "variants": [
+            "Ghamdi",
+            "Saad Ghamdi",
+            "Al-Ghamdi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Saudi reciter whose recordings are widely heard.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-maher-al-muaiqly",
+          "canonical": "Maher al-Muaiqly",
+          "variants": [
+            "Maher",
+            "Muaiqly",
+            "Maher al-Mueaqly",
+            "Maher Al Mueaqly"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Imam of the Masjid al-Haram in Makkah.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-saud-al-shuraim",
+          "canonical": "Saud al-Shuraim",
+          "variants": [
+            "Shuraim",
+            "Shuraym",
+            "Saud Shuraim"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Former imam of the Masjid al-Haram, known for his fast-paced recitation.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-yasser-al-dosari",
+          "canonical": "Yasser al-Dosari",
+          "variants": [
+            "Yasser Dosari",
+            "Dosari",
+            "Yasir al-Dawsari"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Imam of the Masjid al-Haram in Makkah.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-mahmoud-khalil-al-husary",
+          "canonical": "Mahmoud Khalil al-Husary",
+          "variants": [
+            "Husary",
+            "Al-Husary",
+            "Hussary",
+            "Mahmoud al-Husari"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Egyptian master reciter (1917–1980), among the first to record the whole Qur'an.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-muhammad-siddiq-al-minshawi",
+          "canonical": "Muhammad Siddiq al-Minshawi",
+          "variants": [
+            "Minshawi",
+            "Al-Minshawi",
+            "Menshawi",
+            "Siddiq al-Minshawi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Egyptian reciter (1920–1969) known for his moving voice.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-abu-bakr-al-shatri",
+          "canonical": "Abu Bakr al-Shatri",
+          "variants": [
+            "Shatri",
+            "Al-Shatri",
+            "Abu Bakr Shatri"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Saudi reciter popular for his calm style.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-ahmed-al-ajmi",
+          "canonical": "Ahmed al-Ajmi",
+          "variants": [
+            "Ajmi",
+            "Al-Ajmi",
+            "Ahmad al-Ajmi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Saudi reciter widely heard online.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-fares-abbad",
+          "canonical": "Fares Abbad",
+          "variants": [
+            "Fares Abbad",
+            "Abbad",
+            "Faris Abbad"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Reciter known for his gentle, slow recitation.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-muhammad-ayyub",
+          "canonical": "Muhammad Ayyub",
+          "variants": [
+            "Mohammed Ayyoub",
+            "Ayyub",
+            "Muhammad Ayoub"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Imam of the Prophet's ﷺ Mosque in Madinah (d. 2016).",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-ali-jaber",
+          "canonical": "Ali Jaber",
+          "variants": [
+            "Ali Jabir",
+            "Jaber"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Former imam of the Masjid al-Haram (d. 2005).",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-idris-abkar",
+          "canonical": "Idris Abkar",
+          "variants": [
+            "Idrees Abkar",
+            "Abkar"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Reciter much loved for his emotional recitation.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-nasser-al-qatami",
+          "canonical": "Nasser al-Qatami",
+          "variants": [
+            "Qatami",
+            "Nasser Qatami",
+            "Al-Qatami"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Saudi reciter widely heard online.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-hani-ar-rifai",
+          "canonical": "Hani ar-Rifai",
+          "variants": [
+            "Hani Rifai",
+            "Rifai",
+            "Hani al-Rifai"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Imam in Jeddah known for his emotional recitation.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-mustafa-ismail",
+          "canonical": "Mustafa Ismail",
+          "variants": [
+            "Mustafa Ismaeel",
+            "Mostafa Ismail"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Egyptian master reciter (1905–1978).",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-abdullah-basfar",
+          "canonical": "Abdullah Basfar",
+          "variants": [
+            "Basfar",
+            "Abdallah Basfar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Saudi reciter whose recordings are widely heard.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-muhammad-jibreel",
+          "canonical": "Muhammad Jibreel",
+          "variants": [
+            "Mohamed Jebril",
+            "Jibreel",
+            "Muhammad Jibril"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Egyptian reciter famous for his Ramadan night prayers in Cairo.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-bandar-baleela",
+          "canonical": "Bandar Baleela",
+          "variants": [
+            "Baleela",
+            "Bandar Balila"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Imam of the Masjid al-Haram in Makkah.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-islam-sobhi",
+          "canonical": "Islam Sobhi",
+          "variants": [
+            "Islam Subhi",
+            "Sobhi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Young Egyptian reciter popular online.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-omar-hisham-al-arabi",
+          "canonical": "Omar Hisham al-Arabi",
+          "variants": [
+            "Omar Hisham",
+            "Umar Hisham"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Reciter widely followed online.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-salah-bukhatir",
+          "canonical": "Salah Bukhatir",
+          "variants": [
+            "Bukhatir",
+            "Salah Bu Khater"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Emirati reciter.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-khalid-al-jalil",
+          "canonical": "Khalid al-Jalil",
+          "variants": [
+            "Khalid Jalil",
+            "Al-Jalil"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Saudi reciter known for his deep voice.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-abdullah-awad-al-juhany",
+          "canonical": "Abdullah Awad al-Juhany",
+          "variants": [
+            "Juhany",
+            "Al-Juhani",
+            "Abdullah al-Juhani"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Imam of the Masjid al-Haram in Makkah.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-muhammad-al-luhaidan",
+          "canonical": "Muhammad al-Luhaidan",
+          "variants": [
+            "Luhaidan",
+            "Al-Luhaidan",
+            "Mohammed al-Luhaidan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Saudi reciter known for his emotional recitation.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-mahmoud-ali-al-banna",
+          "canonical": "Mahmoud Ali al-Banna",
+          "variants": [
+            "Al-Banna",
+            "Mahmoud al-Banna"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Egyptian master reciter (1926–1985).",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-muhammad-rifat",
+          "canonical": "Muhammad Rif'at",
+          "variants": [
+            "Mohamed Refaat",
+            "Muhammad Rifat",
+            "Refaat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Egyptian reciter (1882–1950) whose voice opened Egyptian radio.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-noreen-muhammad-siddiq",
+          "canonical": "Noreen Muhammad Siddiq",
+          "variants": [
+            "Noreen Siddiq",
+            "Nourin Mohamed Siddig",
+            "Noreen"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Sudanese reciter (d. 2020) with a much-loved voice.",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-reciters-muhammad-al-tablawi",
+          "canonical": "Muhammad al-Tablawi",
+          "variants": [
+            "Tablawi",
+            "Al-Tablawi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Egyptian reciter (1934–2020).",
+          "source": {
+            "text": "Published recordings and biographies",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1016-mosque-parts",
+      "number": 5,
+      "prompt": "Name a part or feature of a mosque.",
+      "answers": [
+        {
+          "id": "d1016-mosque-parts-minaret",
+          "canonical": "Minaret",
+          "variants": [
+            "Minarets",
+            "Manara",
+            "Manarah",
+            "Midhanah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The tower from which the call to prayer is given.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-dome",
+          "canonical": "Dome",
+          "variants": [
+            "Domes",
+            "Qubba",
+            "Qubbah",
+            "Gumbad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The great rounded roof over many prayer halls.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-mihrab",
+          "canonical": "Mihrab",
+          "variants": [
+            "Mehrab",
+            "Mihraab"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The niche in the wall that shows the direction of the qiblah.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-minbar",
+          "canonical": "Minbar",
+          "variants": [
+            "Mimbar",
+            "Pulpit",
+            "Mimber"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The pulpit for the Friday sermon — the Prophet's ﷺ was three steps high.",
+          "source": {
+            "text": "Sahih al-Bukhari 918",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-prayer-hall",
+          "canonical": "Prayer hall",
+          "variants": [
+            "Musalla",
+            "Main hall",
+            "Prayer room"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The main covered space where the congregation prays.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-courtyard",
+          "canonical": "Courtyard",
+          "variants": [
+            "Sahn",
+            "Court"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The open court, or sahn, before the prayer hall.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-wudu-area",
+          "canonical": "Wudu area",
+          "variants": [
+            "Ablution area",
+            "Wudu fountain",
+            "Wudu khana",
+            "Fountain",
+            "Ablution fountain",
+            "Wudhu area"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Where worshippers wash before prayer.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-prayer-carpet",
+          "canonical": "Prayer carpet",
+          "variants": [
+            "Carpet",
+            "Prayer mat",
+            "Prayer rug",
+            "Sajjadah",
+            "Rugs",
+            "Musalla mat"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Carpets, often marked in rows, that cover the floor.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-qiblah-wall",
+          "canonical": "Qiblah wall",
+          "variants": [
+            "Qibla wall"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The wall facing Makkah, where the mihrab is set.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-arches",
+          "canonical": "Arches",
+          "variants": [
+            "Arch",
+            "Horseshoe arch",
+            "Arcade",
+            "Arcades"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Rows of arches, such as the horseshoe arches of Cordoba.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-calligraphy",
+          "canonical": "Calligraphy",
+          "variants": [
+            "Inscriptions",
+            "Arabic calligraphy"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Qur'anic verses written across walls and domes.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-womens-section",
+          "canonical": "Women's section",
+          "variants": [
+            "Women's area",
+            "Sisters section",
+            "Women's gallery",
+            "Ladies' section"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A space or gallery set aside for women.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-muqarnas",
+          "canonical": "Muqarnas",
+          "variants": [
+            "Honeycomb vault",
+            "Muqarnas vault"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Honeycomb-like vaulting in domes and niches.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-iwan",
+          "canonical": "Iwan",
+          "variants": [
+            "Ivan",
+            "Eyvan",
+            "Liwan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A vaulted hall walled on three sides and open on the fourth.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-mashrabiya",
+          "canonical": "Mashrabiya",
+          "variants": [
+            "Mashrabiyya",
+            "Lattice screen",
+            "Jali"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A carved wooden lattice screen.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-dikka",
+          "canonical": "Dikka",
+          "variants": [
+            "Dikkah",
+            "Dakka"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A raised platform from which a caller repeats the imam's words.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-mosque-parts-quran-stand",
+          "canonical": "Qur'an stand",
+          "variants": [
+            "Rehal",
+            "Rahle",
+            "Kursi",
+            "Lectern"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A folding wooden stand (rehal) to hold the Qur'an.",
+          "source": {
+            "text": "Standard histories of Islamic architecture",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1016-uncles-aunts",
+      "number": 6,
+      "prompt": "Name an uncle or aunt of Prophet Muhammad ﷺ.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Abu Bakr",
+            "Umar",
+            "Ali",
+            "Abdullah",
+            "Abd al-Muttalib",
+            "Abdul Muttalib"
+          ],
+          "message": "He wasn't one of the Prophet's ﷺ uncles. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1016-uncles-aunts-abu-talib",
+          "canonical": "Abu Talib",
+          "variants": [
+            "Abu Taalib",
+            "Abu Talib ibn Abd al-Muttalib"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Raised and protected the Prophet ﷺ; father of 'Ali.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-hamzah",
+          "canonical": "Hamzah",
+          "honorific": "RA",
+          "variants": [
+            "Hamza",
+            "Hamzah ibn Abd al-Muttalib",
+            "Hamza ibn Abdul Muttalib"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The Lion of Allah', martyred at Uhud.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-al-abbas",
+          "canonical": "Al-'Abbas",
+          "honorific": "RA",
+          "variants": [
+            "Abbas",
+            "Abbas ibn Abd al-Muttalib"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Accepted Islam and became the ancestor of the Abbasid caliphs.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-abu-lahab",
+          "canonical": "Abu Lahab",
+          "variants": [
+            "Abu Lahb",
+            "Abdul Uzza"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Opposed the Prophet ﷺ fiercely; Surah al-Masad is about him.",
+          "source": {
+            "text": "Qur'an 111:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-safiyyah",
+          "canonical": "Safiyyah",
+          "honorific": "RA",
+          "variants": [
+            "Safiyya",
+            "Safiya",
+            "Safiyyah bint Abd al-Muttalib"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Embraced Islam; mother of al-Zubayr ibn al-'Awwam.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-al-harith",
+          "canonical": "Al-Harith",
+          "variants": [
+            "Harith",
+            "Al-Haris",
+            "Harith ibn Abd al-Muttalib"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The eldest son of 'Abd al-Muttalib.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-atikah",
+          "canonical": "'Atikah",
+          "variants": [
+            "Atikah",
+            "Atika",
+            "Aatikah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Saw a dream foretelling disaster for Quraysh before Badr.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-al-zubayr",
+          "canonical": "Al-Zubayr",
+          "variants": [
+            "Zubayr ibn Abd al-Muttalib",
+            "Zubair ibn Abdul Muttalib"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An uncle with whom the young Prophet ﷺ is said to have travelled.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-arwa",
+          "canonical": "Arwa",
+          "variants": [
+            "Arwa bint Abd al-Muttalib"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An aunt who supported the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-umaymah",
+          "canonical": "Umaymah",
+          "variants": [
+            "Umayma",
+            "Umaimah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mother of Zaynab bint Jahsh and 'Abdullah ibn Jahsh.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-barrah",
+          "canonical": "Barrah",
+          "variants": [
+            "Barra",
+            "Barrah bint Abd al-Muttalib"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mother of Abu Salamah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-umm-hakim-al-bayda",
+          "canonical": "Umm Hakim al-Bayda",
+          "variants": [
+            "Umm Hakim",
+            "Al-Bayda",
+            "Al-Bayda'"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Grandmother of 'Uthman ibn 'Affan.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-dirar",
+          "canonical": "Dirar",
+          "variants": [
+            "Darar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A son of 'Abd al-Muttalib who died before Islam.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-al-muqawwim",
+          "canonical": "Al-Muqawwim",
+          "variants": [
+            "Muqawwim"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A son of 'Abd al-Muttalib.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-hajl",
+          "canonical": "Hajl",
+          "variants": [
+            "Al-Ghaydaq",
+            "Ghaydaq",
+            "Al-Mughira"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A son of 'Abd al-Muttalib, also called al-Ghaydaq.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-uncles-aunts-qutham",
+          "canonical": "Qutham",
+          "variants": [
+            "Qutham ibn Abd al-Muttalib"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A son of 'Abd al-Muttalib who died young.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra; Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}
