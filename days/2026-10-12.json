@@ -1,0 +1,2169 @@
+{
+  "date": "2026-10-12",
+  "questions": [
+    {
+      "id": "d1012-hajj-rituals",
+      "number": 1,
+      "prompt": "Name a ritual of Hajj or Umrah.",
+      "answers": [
+        {
+          "id": "d1012-hajj-rituals-tawaf",
+          "canonical": "Tawaf",
+          "variants": [
+            "Tawaaf",
+            "Circumambulation",
+            "Circling the Kaaba",
+            "Going around the Kaaba"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Walking seven times around the Ka'bah.",
+          "source": {
+            "text": "Qur'an 22:29",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-ihram",
+          "canonical": "Ihram",
+          "variants": [
+            "Ehram",
+            "Ihraam",
+            "Wearing ihram"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The sacred state pilgrims enter, with men wearing two plain white sheets.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Hajj; Sahih Muslim, Book of Hajj",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-sai",
+          "canonical": "Sa'i",
+          "variants": [
+            "Sai",
+            "Saee",
+            "Sa'y",
+            "Saey",
+            "Walking between Safa and Marwah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Walking seven times between the hills of Safa and Marwah, as Hajar did searching for water.",
+          "source": {
+            "text": "Qur'an 2:158",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-standing-at-arafah",
+          "canonical": "Standing at Arafah",
+          "variants": [
+            "Wuquf",
+            "Arafah",
+            "Arafat",
+            "Day of Arafah",
+            "Standing at Arafat",
+            "Wuquf at Arafah",
+            "Wuquf at Arafat"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The heart of Hajj: standing in prayer at Arafah on the 9th of Dhul-Hijjah. \"Hajj is Arafah.\"",
+          "source": {
+            "text": "Sunan al-Tirmidhi 889; Qur'an 2:198",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-stoning-the-jamarat",
+          "canonical": "Stoning the Jamarat",
+          "variants": [
+            "Rami",
+            "Ramy",
+            "Jamarat",
+            "Stoning the devil",
+            "Stoning the pillars",
+            "Throwing pebbles",
+            "Rami al-Jamarat",
+            "Stoning"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Throwing pebbles at the three pillars in Mina, recalling Ibrahim's rejection of Shaytan.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Hajj; Sahih Muslim, Book of Hajj",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-sacrifice",
+          "canonical": "Sacrifice",
+          "variants": [
+            "Animal sacrifice",
+            "Qurbani",
+            "Udhiyah",
+            "Udhiya",
+            "Hady",
+            "Hadi",
+            "Qurban"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Offering an animal (the hady) and sharing its meat.",
+          "source": {
+            "text": "Qur'an 22:36",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-shaving-the-head",
+          "canonical": "Shaving the head",
+          "variants": [
+            "Halq",
+            "Taqsir",
+            "Taqseer",
+            "Haircut",
+            "Cutting the hair",
+            "Shaving",
+            "Trimming the hair",
+            "Shaving or trimming"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Men shave or shorten their hair (women trim a little) to leave ihram.",
+          "source": {
+            "text": "Qur'an 48:27",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-night-at-muzdalifah",
+          "canonical": "Night at Muzdalifah",
+          "variants": [
+            "Muzdalifah",
+            "Muzdalifa",
+            "Staying at Muzdalifah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Spending the night under the open sky at Muzdalifah after Arafah.",
+          "source": {
+            "text": "Qur'an 2:198",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-talbiyah",
+          "canonical": "Talbiyah",
+          "variants": [
+            "Talbiya",
+            "Labbaik",
+            "Labbayk",
+            "Labbaik Allahumma Labbaik"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Calling out \"Labbayk Allahumma labbayk\" — \"Here I am, O Allah, here I am.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1549",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-days-in-mina",
+          "canonical": "Days in Mina",
+          "variants": [
+            "Mina",
+            "Staying in Mina",
+            "Nights in Mina"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Staying in the tent city of Mina during the days of Hajj.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Hajj; Sahih Muslim, Book of Hajj",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-tawaf-al-ifadah",
+          "canonical": "Tawaf al-Ifadah",
+          "variants": [
+            "Tawaf al-Ziyarah",
+            "Tawaf az-Ziyarah",
+            "Tawaf ul Ifadah",
+            "Ifadah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The essential tawaf of Hajj, made after Arafah.",
+          "source": {
+            "text": "Qur'an 22:29",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-drinking-zamzam",
+          "canonical": "Drinking Zamzam",
+          "variants": [
+            "Zamzam",
+            "Zam Zam",
+            "Drinking Zamzam water"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Drinking from the blessed well of Zamzam.",
+          "source": {
+            "text": "Sahih Muslim 2473",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-kissing-the-black-stone",
+          "canonical": "Kissing the Black Stone",
+          "variants": [
+            "Black Stone",
+            "Hajar al-Aswad",
+            "Touching the Black Stone",
+            "Istilam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Kissing, touching or pointing to the Black Stone at each circuit.",
+          "source": {
+            "text": "Sahih al-Bukhari 1597",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-praying-at-maqam-ibrahim",
+          "canonical": "Praying at Maqam Ibrahim",
+          "variants": [
+            "Maqam Ibrahim",
+            "Station of Ibrahim",
+            "Prayer at Maqam Ibrahim"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Two units of prayer behind the Station of Ibrahim after tawaf.",
+          "source": {
+            "text": "Qur'an 2:125",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-farewell-tawaf",
+          "canonical": "Farewell Tawaf",
+          "variants": [
+            "Tawaf al-Wada'",
+            "Tawaf al-Wada",
+            "Tawaful Wida",
+            "Tawaf al-Wida"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The last tawaf before leaving Makkah.",
+          "source": {
+            "text": "Sahih al-Bukhari 1755",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-tawaf-al-qudum",
+          "canonical": "Tawaf al-Qudum",
+          "variants": [
+            "Arrival tawaf",
+            "Tawaf of arrival",
+            "Tawaful Qudum"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The tawaf of arrival on first reaching Makkah.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Hajj; Sahih Muslim, Book of Hajj",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-raml",
+          "canonical": "Raml",
+          "variants": [
+            "Ramal"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Walking briskly in the first three circuits of the first tawaf (for men).",
+          "source": {
+            "text": "Sahih al-Bukhari 1602",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hajj-rituals-idtiba",
+          "canonical": "Idtiba'",
+          "variants": [
+            "Idtiba",
+            "Iztiba"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Uncovering the right shoulder during the first tawaf (for men).",
+          "source": {
+            "text": "Sunan Abi Dawud 1883",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1012-day-of-judgement",
+      "number": 2,
+      "prompt": "Name a name the Qur'an gives to the Day of Judgement.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Yawm",
+            "Yaum",
+            "Day",
+            "Yawm al"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Akhirah",
+            "Hereafter",
+            "Afterlife"
+          ],
+          "message": "That's the Hereafter in general — name the Day itself. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1012-day-of-judgement-yawm-al-qiyamah",
+          "canonical": "Yawm al-Qiyamah",
+          "variants": [
+            "Day of Resurrection",
+            "Qiyamah",
+            "Qiyamat",
+            "Yawmul Qiyamah",
+            "Yaum al-Qiyamah",
+            "Qayamat"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Day of Resurrection; Surah al-Qiyamah opens with an oath by it.",
+          "source": {
+            "text": "Qur'an 75:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-yawm-ad-din",
+          "canonical": "Yawm ad-Din",
+          "variants": [
+            "Day of Judgement",
+            "Day of Judgment",
+            "Yawmid Deen",
+            "Yaum ad-Din",
+            "Yawm al-Din",
+            "Day of Recompense"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Day of Recompense, named in al-Fatihah: \"Master of the Day of Judgement.\"",
+          "source": {
+            "text": "Qur'an 1:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-as-saah",
+          "canonical": "As-Sa'ah",
+          "variants": [
+            "The Hour",
+            "Saah",
+            "Sa'ah",
+            "Saa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Hour, whose time only Allah knows.",
+          "source": {
+            "text": "Qur'an 7:187",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-al-qariah",
+          "canonical": "Al-Qari'ah",
+          "variants": [
+            "Qariah",
+            "The Striking Calamity",
+            "The Calamity",
+            "Al-Qariah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Striking Calamity — the title of Surah 101.",
+          "source": {
+            "text": "Qur'an 101:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-al-haqqah",
+          "canonical": "Al-Haqqah",
+          "variants": [
+            "Haqqah",
+            "The Inevitable Reality",
+            "The Reality"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Inevitable Reality — the title of Surah 69.",
+          "source": {
+            "text": "Qur'an 69:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-al-waqiah",
+          "canonical": "Al-Waqi'ah",
+          "variants": [
+            "Waqiah",
+            "The Inevitable Event",
+            "The Event",
+            "Al-Waqiah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Inevitable Event — the title of Surah 56.",
+          "source": {
+            "text": "Qur'an 56:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-al-ghashiyah",
+          "canonical": "Al-Ghashiyah",
+          "variants": [
+            "Ghashiyah",
+            "The Overwhelming",
+            "The Overwhelming Event"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Overwhelming Event — the title of Surah 88.",
+          "source": {
+            "text": "Qur'an 88:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-yawm-al-hisab",
+          "canonical": "Yawm al-Hisab",
+          "variants": [
+            "Day of Reckoning",
+            "Day of Account",
+            "Yaum al-Hisab",
+            "Yawmul Hisab"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Day of Reckoning.",
+          "source": {
+            "text": "Qur'an 38:16; 40:27",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-yawm-al-fasl",
+          "canonical": "Yawm al-Fasl",
+          "variants": [
+            "Day of Sorting",
+            "Day of Decision",
+            "Day of Separation",
+            "Yaum al-Fasl"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Day of Sorting, when truth and falsehood are separated.",
+          "source": {
+            "text": "Qur'an 37:21; 77:13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-yawm-al-bath",
+          "canonical": "Yawm al-Ba'th",
+          "variants": [
+            "Yawm al-Bath",
+            "Day of Raising",
+            "Day of Rising",
+            "Yaum al-Baath"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Day of Raising the dead.",
+          "source": {
+            "text": "Qur'an 30:56",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-at-tammah-al-kubra",
+          "canonical": "At-Tammah al-Kubra",
+          "variants": [
+            "Tammah",
+            "The Great Catastrophe",
+            "The Great Calamity",
+            "At-Tammatul Kubra"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Great Overwhelming Catastrophe.",
+          "source": {
+            "text": "Qur'an 79:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-as-sakhkhah",
+          "canonical": "As-Sakhkhah",
+          "variants": [
+            "Sakhkhah",
+            "Sakhah",
+            "The Deafening Blast",
+            "The Deafening Cry"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Deafening Blast.",
+          "source": {
+            "text": "Qur'an 80:33",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-al-azifah",
+          "canonical": "Al-Azifah",
+          "variants": [
+            "Azifah",
+            "The Approaching Day",
+            "The Imminent"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Approaching Day, which has drawn near.",
+          "source": {
+            "text": "Qur'an 53:57; 40:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-yawm-at-taghabun",
+          "canonical": "Yawm at-Taghabun",
+          "variants": [
+            "Taghabun",
+            "Day of Mutual Loss",
+            "Day of Loss and Gain",
+            "Yaum at-Taghabun"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Day of Mutual Loss and Gain — the title of Surah 64.",
+          "source": {
+            "text": "Qur'an 64:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-yawm-al-jam",
+          "canonical": "Yawm al-Jam'",
+          "variants": [
+            "Day of Gathering",
+            "Day of Assembly",
+            "Yawm al-Jam",
+            "Yaum al-Jam"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Day of Gathering, when all people are assembled.",
+          "source": {
+            "text": "Qur'an 42:7; 64:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-yawm-al-khulud",
+          "canonical": "Yawm al-Khulud",
+          "variants": [
+            "Day of Eternity",
+            "Yaum al-Khulud"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Day of Eternity, when the people of Paradise enter it forever.",
+          "source": {
+            "text": "Qur'an 50:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-yawm-al-khuruj",
+          "canonical": "Yawm al-Khuruj",
+          "variants": [
+            "Day of Coming Out",
+            "Day of Emergence",
+            "Yaum al-Khuruj"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Day of Coming Out, when the dead come forth from their graves.",
+          "source": {
+            "text": "Qur'an 50:42",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-yawm-at-talaq",
+          "canonical": "Yawm at-Talaq",
+          "variants": [
+            "Day of Meeting",
+            "Yaum at-Talaq",
+            "Yawm al-Talaq"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Day of Meeting.",
+          "source": {
+            "text": "Qur'an 40:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-yawm-at-tanad",
+          "canonical": "Yawm at-Tanad",
+          "variants": [
+            "Day of Calling",
+            "Day of Mutual Calling",
+            "Yaum at-Tanad"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Day of Calling Out to one another.",
+          "source": {
+            "text": "Qur'an 40:32",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-yawm-al-hasrah",
+          "canonical": "Yawm al-Hasrah",
+          "variants": [
+            "Day of Regret",
+            "Day of Sorrow",
+            "Yaum al-Hasrah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Day of Regret.",
+          "source": {
+            "text": "Qur'an 19:39",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-day-of-judgement-yawm-al-waid",
+          "canonical": "Yawm al-Wa'id",
+          "variants": [
+            "Day of the Threat",
+            "Day of Warning",
+            "Yawm al-Waeed",
+            "Yaum al-Waid"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Day of the promised Warning, when the Trumpet is blown.",
+          "source": {
+            "text": "Qur'an 50:20",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1012-dhikr",
+      "number": 3,
+      "prompt": "Name a phrase of dhikr — words said in remembrance of Allah.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Assalamu alaykum",
+            "Salam",
+            "Salaam",
+            "Assalamualaikum",
+            "Wa alaykum assalam"
+          ],
+          "message": "That's a greeting rather than dhikr. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1012-dhikr-subhanallah",
+          "canonical": "SubhanAllah",
+          "variants": [
+            "Subhanallah",
+            "Subhan Allah",
+            "Glory be to Allah",
+            "Tasbih",
+            "Tasbeeh"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Glory be to Allah\" — one of the four words most beloved to Allah.",
+          "source": {
+            "text": "Sahih Muslim 2137",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-dhikr-alhamdulillah",
+          "canonical": "Alhamdulillah",
+          "variants": [
+            "Al-hamdu lillah",
+            "Alhamdulilah",
+            "Alhamdolillah",
+            "Praise be to Allah",
+            "Tahmid",
+            "Tahmeed"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"All praise is for Allah\" — the opening words of al-Fatihah.",
+          "source": {
+            "text": "Qur'an 1:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-dhikr-allahu-akbar",
+          "canonical": "Allahu Akbar",
+          "variants": [
+            "Takbir",
+            "Takbeer",
+            "Allah Akbar",
+            "Allahuakbar",
+            "Allah hu Akbar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Allah is the Greatest\" — the takbir.",
+          "source": {
+            "text": "Sahih Muslim 2137",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-dhikr-la-ilaha-illallah",
+          "canonical": "La ilaha illallah",
+          "variants": [
+            "Tahlil",
+            "Tahleel",
+            "La ilaha illa Allah",
+            "Laa ilaaha illallah",
+            "Lailahaillallah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"There is no god but Allah\" — called the best of remembrance.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3383",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-dhikr-astaghfirullah",
+          "canonical": "Astaghfirullah",
+          "variants": [
+            "Istighfar",
+            "Astagfirullah",
+            "Astaghfirallah",
+            "I seek forgiveness from Allah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"I seek Allah's forgiveness\" — the Prophet ﷺ said it more than seventy times a day.",
+          "source": {
+            "text": "Sahih al-Bukhari 6307",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-dhikr-ma-sha-allah",
+          "canonical": "Ma sha' Allah",
+          "variants": [
+            "Mashallah",
+            "Masha Allah",
+            "MashaAllah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"What Allah has willed\" — said on seeing something good.",
+          "source": {
+            "text": "Qur'an 18:39",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-dhikr-in-sha-allah",
+          "canonical": "In sha' Allah",
+          "variants": [
+            "Inshallah",
+            "Insha Allah",
+            "InshaAllah",
+            "Inshaallah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"If Allah wills\" — said about anything planned for the future.",
+          "source": {
+            "text": "Qur'an 18:23–24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-dhikr-bismillah",
+          "canonical": "Bismillah",
+          "variants": [
+            "Bismillahir Rahmanir Rahim",
+            "Basmalah",
+            "Basmala",
+            "Bismillah ar-Rahman ar-Rahim",
+            "In the name of Allah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"In the name of Allah\" — said before eating, starting a task, and opening the Qur'an.",
+          "source": {
+            "text": "Qur'an 1:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-dhikr-la-hawla-wa-la-quwwata-illa-billah",
+          "canonical": "La hawla wa la quwwata illa billah",
+          "variants": [
+            "Hawqalah",
+            "La hawla wala quwwata illa billah",
+            "La hawla",
+            "Lahawla wala quwwata"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"There is no power and no strength except with Allah\" — a treasure of Paradise.",
+          "source": {
+            "text": "Sahih al-Bukhari 6384",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-dhikr-inna-lillahi-wa-inna-ilayhi-rajiun",
+          "canonical": "Inna lillahi wa inna ilayhi raji'un",
+          "variants": [
+            "Inna lillah",
+            "Innalillahi wa inna ilaihi rajiun",
+            "Inna lillahi",
+            "Istirja"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"We belong to Allah and to Him we return\" — said at a loss or hardship.",
+          "source": {
+            "text": "Qur'an 2:156",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-dhikr-salawat-on-the-prophet",
+          "canonical": "Salawat on the Prophet",
+          "variants": [
+            "Salawat",
+            "Durood",
+            "Darood",
+            "Durud",
+            "Allahumma salli ala Muhammad",
+            "Salat ala an-Nabi",
+            "Sending salawat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sending blessings on the Prophet ﷺ, as Allah and His angels do.",
+          "source": {
+            "text": "Qur'an 33:56",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-dhikr-jazak-allahu-khayran",
+          "canonical": "Jazak Allahu khayran",
+          "variants": [
+            "JazakAllah",
+            "Jazakallah khair",
+            "Jazakallahu khairan",
+            "Jazakumullahu khairan",
+            "Jazak Allah khair"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"May Allah reward you with good\" — the best way to thank someone.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 2035",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-dhikr-audhu-billahi-min-ash-shaytan-ir-rajim",
+          "canonical": "A'udhu billahi min ash-shaytan ir-rajim",
+          "variants": [
+            "Audhubillah",
+            "Ta'awwudh",
+            "Taawwudh",
+            "A'udhu billah",
+            "Auzubillah",
+            "Audhu billahi minash shaitanir rajim"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Seeking refuge in Allah from Shaytan — said before reciting the Qur'an.",
+          "source": {
+            "text": "Qur'an 16:98",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-dhikr-subhanallahi-wa-bihamdihi",
+          "canonical": "SubhanAllahi wa bihamdihi",
+          "variants": [
+            "SubhanAllah wa bihamdihi",
+            "Subhanallahi wa bihamdih"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Glory and praise be to Allah\" — said a hundred times a day, sins are forgiven.",
+          "source": {
+            "text": "Sahih al-Bukhari 6405",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-dhikr-subhanallahil-azim",
+          "canonical": "SubhanAllahil Azim",
+          "variants": [
+            "SubhanAllahi al-Azim",
+            "Subhan Allah al-Azim",
+            "Subhanallahil adheem"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Glory be to Allah the Magnificent\" — one of two phrases light on the tongue and heavy on the Scales.",
+          "source": {
+            "text": "Sahih al-Bukhari 6406",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-dhikr-hasbunallahu-wa-nimal-wakil",
+          "canonical": "Hasbunallahu wa ni'mal wakil",
+          "variants": [
+            "Hasbunallah",
+            "Hasbiyallah",
+            "Hasbunallahu wa nimal wakeel",
+            "Hasbi Allah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Allah is sufficient for us, and the best Disposer of affairs.\"",
+          "source": {
+            "text": "Qur'an 3:173",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-dhikr-dua-of-yunus",
+          "canonical": "Dua of Yunus",
+          "variants": [
+            "La ilaha illa anta subhanaka inni kuntu minaz zalimin",
+            "La ilaha illa anta subhanaka",
+            "Dua of Yunus",
+            "Ayat al-Karimah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"There is no god but You, glory be to You; I have been among the wrongdoers\" — said by Yunus inside the whale.",
+          "source": {
+            "text": "Qur'an 21:87",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-dhikr-ya-hayyu-ya-qayyum",
+          "canonical": "Ya Hayyu ya Qayyum",
+          "variants": [
+            "Ya Hayy ya Qayyum",
+            "Ya Hayyu ya Qayyumu"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"O Ever-Living, O Sustainer\" — the Prophet ﷺ called on Allah with it in distress.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3524",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-dhikr-rabbana-atina-fid-dunya-hasanah",
+          "canonical": "Rabbana atina fid-dunya hasanah",
+          "variants": [
+            "Rabbana atina",
+            "Rabbana aatina fid dunya hasanah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Our Lord, give us good in this world and good in the Hereafter\" — a prayer the Prophet ﷺ made often.",
+          "source": {
+            "text": "Qur'an 2:201",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1012-hadith-compilers",
+      "number": 4,
+      "prompt": "Name a scholar who compiled a well-known collection of hadith.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Ibn",
+            "Imam",
+            "Abu"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1012-hadith-compilers-al-bukhari",
+          "canonical": "Al-Bukhari",
+          "variants": [
+            "Bukhari",
+            "Imam Bukhari",
+            "Imam al-Bukhari",
+            "Sahih Bukhari",
+            "Sahih al-Bukhari",
+            "Muhammad ibn Ismail al-Bukhari"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Muhammad ibn Isma'il al-Bukhari (d. 870), compiler of Sahih al-Bukhari, the most trusted hadith book.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-muslim",
+          "canonical": "Muslim",
+          "variants": [
+            "Imam Muslim",
+            "Sahih Muslim",
+            "Muslim ibn al-Hajjaj",
+            "Muslim bin Hajjaj"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Muslim ibn al-Hajjaj (d. 875), compiler of Sahih Muslim.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-abu-dawud",
+          "canonical": "Abu Dawud",
+          "variants": [
+            "Abu Dawood",
+            "Abu Daud",
+            "Abu Dawud as-Sijistani",
+            "Sunan Abi Dawud",
+            "Sunan Abu Dawud"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Compiler of the Sunan of Abu Dawud, focused on the hadith of law.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-al-tirmidhi",
+          "canonical": "Al-Tirmidhi",
+          "variants": [
+            "Tirmidhi",
+            "Tirmizi",
+            "At-Tirmidhi",
+            "Jami at-Tirmidhi",
+            "Sunan al-Tirmidhi",
+            "Imam Tirmidhi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Compiler of the Jami' al-Tirmidhi, which grades each hadith's strength.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-al-nasai",
+          "canonical": "Al-Nasa'i",
+          "variants": [
+            "Nasai",
+            "An-Nasai",
+            "Nisai",
+            "An-Nasa'i",
+            "Sunan an-Nasai",
+            "Imam Nasai"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Compiler of the Sunan al-Nasa'i, one of the six major collections.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-ibn-majah",
+          "canonical": "Ibn Majah",
+          "variants": [
+            "Ibn Maja",
+            "Sunan Ibn Majah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Compiler of the Sunan Ibn Majah, one of the six major collections.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-malik-ibn-anas",
+          "canonical": "Malik ibn Anas",
+          "variants": [
+            "Imam Malik",
+            "Malik",
+            "Muwatta",
+            "Al-Muwatta",
+            "Muwatta Malik"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Imam of Madinah, whose al-Muwatta' is one of the earliest hadith books.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-ahmad-ibn-hanbal",
+          "canonical": "Ahmad ibn Hanbal",
+          "variants": [
+            "Imam Ahmad",
+            "Ahmad",
+            "Musnad Ahmad",
+            "Ibn Hanbal"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Compiler of the Musnad, holding around 27,000 hadith.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-al-nawawi",
+          "canonical": "Al-Nawawi",
+          "variants": [
+            "Nawawi",
+            "Imam Nawawi",
+            "An-Nawawi",
+            "Riyad as-Salihin",
+            "Riyadh us Saliheen",
+            "Forty Hadith",
+            "40 Hadith"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Compiler of Riyad al-Salihin and the famous Forty Hadith.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-al-darimi",
+          "canonical": "Al-Darimi",
+          "variants": [
+            "Darimi",
+            "Ad-Darimi",
+            "Sunan ad-Darimi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Compiler of the Sunan al-Darimi.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-ibn-khuzaymah",
+          "canonical": "Ibn Khuzaymah",
+          "variants": [
+            "Ibn Khuzaima",
+            "Ibn Khuzaimah",
+            "Sahih Ibn Khuzaymah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Compiler of the Sahih Ibn Khuzaymah.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-ibn-hibban",
+          "canonical": "Ibn Hibban",
+          "variants": [
+            "Sahih Ibn Hibban",
+            "Ibn Hiban"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Compiler of the Sahih Ibn Hibban.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-al-hakim",
+          "canonical": "Al-Hakim",
+          "variants": [
+            "Hakim",
+            "Mustadrak",
+            "Al-Mustadrak",
+            "Al-Hakim an-Naysaburi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Al-Hakim al-Naysaburi, compiler of al-Mustadrak.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-al-bayhaqi",
+          "canonical": "Al-Bayhaqi",
+          "variants": [
+            "Bayhaqi",
+            "Baihaqi",
+            "Al-Baihaqi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Compiler of al-Sunan al-Kubra and many other works.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-al-daraqutni",
+          "canonical": "Al-Daraqutni",
+          "variants": [
+            "Daraqutni",
+            "Ad-Daraqutni"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Baghdad hadith master and compiler of a Sunan.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-al-tabarani",
+          "canonical": "Al-Tabarani",
+          "variants": [
+            "Tabarani",
+            "Tabrani",
+            "At-Tabarani"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Compiler of the three Mu'jam collections.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-abd-al-razzaq",
+          "canonical": "Abd al-Razzaq",
+          "variants": [
+            "Abdur Razzaq",
+            "Abdul Razzaq",
+            "Abd al-Razzaq al-Sanani"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'Abd al-Razzaq al-San'ani, compiler of an early Musannaf.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-ibn-abi-shaybah",
+          "canonical": "Ibn Abi Shaybah",
+          "variants": [
+            "Ibn Abi Shaiba",
+            "Ibn Abi Shaibah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Compiler of a large early Musannaf.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-al-tahawi",
+          "canonical": "Al-Tahawi",
+          "variants": [
+            "Tahawi",
+            "At-Tahawi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Hanafi scholar who compiled Sharh Ma'ani al-Athar.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-hadith-compilers-al-baghawi",
+          "canonical": "Al-Baghawi",
+          "variants": [
+            "Baghawi",
+            "Al-Baghawi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Compiler of Masabih al-Sunnah.",
+          "source": {
+            "text": "Standard works on hadith literature",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1012-muslim-countries",
+      "number": 5,
+      "prompt": "Name a country where most people are Muslim.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "India",
+            "China",
+            "Russia",
+            "United Kingdom",
+            "UK",
+            "England",
+            "USA",
+            "United States",
+            "America",
+            "France",
+            "Germany",
+            "Ethiopia",
+            "Philippines",
+            "Thailand",
+            "Sri Lanka"
+          ],
+          "message": "Many Muslims live there, but they aren't the majority. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1012-muslim-countries-indonesia",
+          "canonical": "Indonesia",
+          "variants": [],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Home to the largest Muslim population of any country — over 230 million.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-pakistan",
+          "canonical": "Pakistan",
+          "variants": [],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The second-largest Muslim population in the world.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-saudi-arabia",
+          "canonical": "Saudi Arabia",
+          "variants": [
+            "Saudi",
+            "KSA",
+            "Kingdom of Saudi Arabia"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Home to Makkah and Madinah, the two holiest cities in Islam.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-egypt",
+          "canonical": "Egypt",
+          "variants": [
+            "Misr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The most populous Arab country; home to al-Azhar.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-turkey",
+          "canonical": "Turkey",
+          "variants": [
+            "Türkiye",
+            "Turkiye"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Once the heart of the Ottoman Empire; Istanbul's mosques are famous worldwide.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-bangladesh",
+          "canonical": "Bangladesh",
+          "variants": [],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "One of the most populous Muslim-majority countries.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-iran",
+          "canonical": "Iran",
+          "variants": [
+            "Persia"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Mostly Shia Muslim; home to the mosques of Isfahan.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-morocco",
+          "canonical": "Morocco",
+          "variants": [
+            "Maroc"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Home to al-Qarawiyyin in Fez and the Hassan II Mosque.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-malaysia",
+          "canonical": "Malaysia",
+          "variants": [],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A Southeast Asian nation with a Muslim majority.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-iraq",
+          "canonical": "Iraq",
+          "variants": [],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Baghdad was the capital of the Abbasid caliphate.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-afghanistan",
+          "canonical": "Afghanistan",
+          "variants": [],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Almost all of its people are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-jordan",
+          "canonical": "Jordan",
+          "variants": [],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Bordering the Holy Land; most people are Sunni Muslims.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-united-arab-emirates",
+          "canonical": "United Arab Emirates",
+          "variants": [
+            "UAE",
+            "Emirates"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Home to the Sheikh Zayed Grand Mosque in Abu Dhabi.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-syria",
+          "canonical": "Syria",
+          "variants": [],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Damascus was the capital of the Umayyad caliphate.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-palestine",
+          "canonical": "Palestine",
+          "variants": [],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Home to al-Masjid al-Aqsa.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-algeria",
+          "canonical": "Algeria",
+          "variants": [],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Most of its people are Sunni Muslims.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-sudan",
+          "canonical": "Sudan",
+          "variants": [],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Most of its people are Sunni Muslims.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-tunisia",
+          "canonical": "Tunisia",
+          "variants": [],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Home to the Great Mosque of Kairouan.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-libya",
+          "canonical": "Libya",
+          "variants": [],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Almost all of its people are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-yemen",
+          "canonical": "Yemen",
+          "variants": [],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Its people embraced Islam during the Prophet's ﷺ lifetime.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-qatar",
+          "canonical": "Qatar",
+          "variants": [],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A Gulf state where most citizens are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-kuwait",
+          "canonical": "Kuwait",
+          "variants": [],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A Gulf state where most citizens are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-oman",
+          "canonical": "Oman",
+          "variants": [],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Most Omanis follow the Ibadi school.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-somalia",
+          "canonical": "Somalia",
+          "variants": [],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Almost all of its people are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-maldives",
+          "canonical": "Maldives",
+          "variants": [],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "An island nation where Islam is the state religion.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-bahrain",
+          "canonical": "Bahrain",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An island kingdom in the Gulf.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-senegal",
+          "canonical": "Senegal",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Over 90% of Senegalese are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-mali",
+          "canonical": "Mali",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Home to Timbuktu and the Great Mosque of Djenne.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-niger",
+          "canonical": "Niger",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The great majority of its people are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-mauritania",
+          "canonical": "Mauritania",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An Islamic republic in north-west Africa.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-uzbekistan",
+          "canonical": "Uzbekistan",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Home to Bukhara and Samarkand — Imam al-Bukhari was born in Bukhara.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-azerbaijan",
+          "canonical": "Azerbaijan",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Muslim-majority country in the Caucasus.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-albania",
+          "canonical": "Albania",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Muslim-majority country in Europe.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-kosovo",
+          "canonical": "Kosovo",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Muslim-majority country in Europe.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-tajikistan",
+          "canonical": "Tajikistan",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Muslim-majority country in Central Asia.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-turkmenistan",
+          "canonical": "Turkmenistan",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Muslim-majority country in Central Asia.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-kyrgyzstan",
+          "canonical": "Kyrgyzstan",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Muslim-majority country in Central Asia.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-kazakhstan",
+          "canonical": "Kazakhstan",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "About 70% of its people are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-brunei",
+          "canonical": "Brunei",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A small sultanate on the island of Borneo.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-gambia",
+          "canonical": "Gambia",
+          "variants": [
+            "The Gambia"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Over 90% of Gambians are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-guinea",
+          "canonical": "Guinea",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Most of its people are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-lebanon",
+          "canonical": "Lebanon",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Around two-thirds of its people are Muslim, both Sunni and Shia.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-djibouti",
+          "canonical": "Djibouti",
+          "variants": [],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A small Muslim-majority country on the Horn of Africa.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-comoros",
+          "canonical": "Comoros",
+          "variants": [],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An island nation in the Indian Ocean where almost all are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-burkina-faso",
+          "canonical": "Burkina Faso",
+          "variants": [],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Over 60% of its people are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-sierra-leone",
+          "canonical": "Sierra Leone",
+          "variants": [],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Around three-quarters of its people are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-chad",
+          "canonical": "Chad",
+          "variants": [],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A little over half of its people are Muslim.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-bosnia-and-herzegovina",
+          "canonical": "Bosnia and Herzegovina",
+          "variants": [
+            "Bosnia"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "About half of its people are Muslim — the largest religious group.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1012-muslim-countries-nigeria",
+          "canonical": "Nigeria",
+          "variants": [],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "About half of Nigerians are Muslim — tens of millions, mostly in the north.",
+          "source": {
+            "text": "Pew Research Center, The Global Religious Landscape",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1012-colours",
+      "number": 6,
+      "prompt": "Name a colour mentioned in the Qur'an.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Purple",
+            "Orange",
+            "Pink",
+            "Brown",
+            "Gold",
+            "Golden",
+            "Silver",
+            "Grey",
+            "Gray"
+          ],
+          "message": "That colour isn't mentioned in the Qur'an. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1012-colours-white",
+          "canonical": "White",
+          "variants": [
+            "Abyad",
+            "Bayda",
+            "Baida"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Fasting begins when the white thread of dawn becomes distinct from the black.",
+          "source": {
+            "text": "Qur'an 2:187",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-colours-black",
+          "canonical": "Black",
+          "variants": [
+            "Aswad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The black thread of night, in the verse on the timing of the fast.",
+          "source": {
+            "text": "Qur'an 2:187",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-colours-green",
+          "canonical": "Green",
+          "variants": [
+            "Khadir",
+            "Akhdar",
+            "Khudr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The people of Paradise wear green garments of fine silk.",
+          "source": {
+            "text": "Qur'an 18:31; 76:21",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-colours-yellow",
+          "canonical": "Yellow",
+          "variants": [
+            "Asfar",
+            "Safra",
+            "Safraa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The cow Bani Isra'il were told to sacrifice was a bright yellow.",
+          "source": {
+            "text": "Qur'an 2:69",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-colours-red",
+          "canonical": "Red",
+          "variants": [
+            "Ahmar",
+            "Humr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Mountains have streaks of white and red of varying shades, and some raven-black.",
+          "source": {
+            "text": "Qur'an 35:27",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1012-colours-blue",
+          "canonical": "Blue",
+          "variants": [
+            "Azraq",
+            "Zurq",
+            "Zurqa"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "On the Day of Judgement the wrongdoers are gathered zurqa — often translated blue-eyed or bluish-grey.",
+          "source": {
+            "text": "Qur'an 20:102",
+            "status": "quran-reference"
+          },
+          "note": "Some translators render zurqa as 'blind' or 'grey-eyed' instead of blue."
+        },
+        {
+          "id": "d1012-colours-dark-green",
+          "canonical": "Dark green",
+          "variants": [
+            "Mudhammatan",
+            "Deep green",
+            "Dark-green"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The two gardens of Paradise are mudhammatan — deep, dark green.",
+          "source": {
+            "text": "Qur'an 55:64",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
+}

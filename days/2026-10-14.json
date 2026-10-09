@@ -1,0 +1,1576 @@
+{
+  "date": "2026-10-14",
+  "questions": [
+    {
+      "id": "d1014-madhhabs",
+      "number": 1,
+      "prompt": "Name a school of Islamic law (madhhab) or its founding imam.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Imam"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1014-madhhabs-hanafi",
+          "canonical": "Hanafi",
+          "variants": [
+            "Hanafi school",
+            "Abu Hanifa",
+            "Abu Hanifah",
+            "Imam Abu Hanifa",
+            "Hanafite",
+            "Hanafiyya"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The school of Abu Hanifah (d. 767) of Kufa — the most widely followed.",
+          "source": {
+            "text": "Standard works on the history of Islamic law",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-madhhabs-shafii",
+          "canonical": "Shafi'i",
+          "variants": [
+            "Shafi",
+            "Shafii",
+            "Imam Shafi'i",
+            "Al-Shafi'i",
+            "Shafi school",
+            "Shafiite",
+            "Imam Shafi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The school of Muhammad ibn Idris al-Shafi'i (d. 820), who systematised the principles of law.",
+          "source": {
+            "text": "Standard works on the history of Islamic law",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-madhhabs-maliki",
+          "canonical": "Maliki",
+          "variants": [
+            "Maliki school",
+            "Malik ibn Anas",
+            "Imam Malik",
+            "Malikite"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The school of Malik ibn Anas (d. 795), the imam of Madinah.",
+          "source": {
+            "text": "Standard works on the history of Islamic law",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-madhhabs-hanbali",
+          "canonical": "Hanbali",
+          "variants": [
+            "Hanbali school",
+            "Ahmad ibn Hanbal",
+            "Imam Ahmad",
+            "Hanbalite",
+            "Ibn Hanbal"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The school of Ahmad ibn Hanbal (d. 855) of Baghdad.",
+          "source": {
+            "text": "Standard works on the history of Islamic law",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-madhhabs-jafari",
+          "canonical": "Ja'fari",
+          "variants": [
+            "Jafari",
+            "Ja'far al-Sadiq",
+            "Jafar as-Sadiq",
+            "Imam Jafar",
+            "Jafari school"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The main Shia school, named after Ja'far al-Sadiq (d. 765).",
+          "source": {
+            "text": "Standard works on the history of Islamic law",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-madhhabs-zahiri",
+          "canonical": "Zahiri",
+          "variants": [
+            "Zahiri school",
+            "Dawud al-Zahiri",
+            "Ibn Hazm",
+            "Zahirite"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The literalist school of Dawud al-Zahiri, later championed by Ibn Hazm.",
+          "source": {
+            "text": "Standard works on the history of Islamic law",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-madhhabs-ibadi",
+          "canonical": "Ibadi",
+          "variants": [
+            "Ibadi school",
+            "Ibadiyya",
+            "Ibadism"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The school followed by most Omanis.",
+          "source": {
+            "text": "Standard works on the history of Islamic law",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-madhhabs-zaydi",
+          "canonical": "Zaydi",
+          "variants": [
+            "Zaydi school",
+            "Zaidi",
+            "Zayd ibn Ali"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Shia school named after Zayd ibn 'Ali, followed in Yemen.",
+          "source": {
+            "text": "Standard works on the history of Islamic law",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-madhhabs-al-awzai",
+          "canonical": "Al-Awza'i",
+          "variants": [
+            "Awzai",
+            "Al-Awzai",
+            "Awza'i"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Imam of Syria (d. 774), whose school was followed in al-Andalus before the Maliki school.",
+          "source": {
+            "text": "Standard works on the history of Islamic law",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-madhhabs-sufyan-al-thawri",
+          "canonical": "Sufyan al-Thawri",
+          "variants": [
+            "Thawri",
+            "Al-Thawri",
+            "Sufyan ath-Thawri"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A great jurist of Kufa (d. 778) whose school did not survive.",
+          "source": {
+            "text": "Standard works on the history of Islamic law",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-madhhabs-al-layth-ibn-sad",
+          "canonical": "Al-Layth ibn Sa'd",
+          "variants": [
+            "Layth ibn Sad",
+            "Laith ibn Sad",
+            "Layth",
+            "Al-Layth"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The imam of Egypt (d. 791); al-Shafi'i rated him above Malik.",
+          "source": {
+            "text": "Standard works on the history of Islamic law",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-madhhabs-al-tabari",
+          "canonical": "Al-Tabari",
+          "variants": [
+            "Tabari",
+            "Jariri",
+            "Jariri school",
+            "Ibn Jarir al-Tabari"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The historian and exegete (d. 923), whose Jariri school did not survive.",
+          "source": {
+            "text": "Standard works on the history of Islamic law",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1014-paradise-names",
+      "number": 2,
+      "prompt": "Name a name the Qur'an gives to Paradise.",
+      "answers": [
+        {
+          "id": "d1014-paradise-names-jannah",
+          "canonical": "Jannah",
+          "variants": [
+            "Jannat",
+            "Paradise",
+            "The Garden",
+            "Garden",
+            "Janna"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The Garden' — the most common name for Paradise.",
+          "source": {
+            "text": "Qur'an 2:35; 2:82",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-paradise-names-firdaws",
+          "canonical": "Firdaws",
+          "variants": [
+            "Firdous",
+            "Firdaus",
+            "Jannat al-Firdaws",
+            "Jannatul Firdaus",
+            "Jannatul Firdaws"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The highest level of Paradise.",
+          "source": {
+            "text": "Qur'an 18:107; 23:11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-paradise-names-jannat-adn",
+          "canonical": "Jannat 'Adn",
+          "variants": [
+            "Adn",
+            "Eden",
+            "Jannatu Adn",
+            "Gardens of Eden",
+            "Jannat Adn"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Gardens of Eternal Residence ('Eden').",
+          "source": {
+            "text": "Qur'an 9:72; 98:8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-paradise-names-jannat-an-naim",
+          "canonical": "Jannat an-Na'im",
+          "variants": [
+            "Naim",
+            "Naeem",
+            "Gardens of Bliss",
+            "Jannatun Naeem",
+            "Jannat al-Naim"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Gardens of Bliss.",
+          "source": {
+            "text": "Qur'an 10:9; 56:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-paradise-names-jannat-al-mawa",
+          "canonical": "Jannat al-Ma'wa",
+          "variants": [
+            "Mawa",
+            "Garden of Refuge",
+            "Jannatul Mawa",
+            "Jannat al-Mawa"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Garden of Refuge, near the Lote Tree of the Utmost Boundary.",
+          "source": {
+            "text": "Qur'an 53:15; 32:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-paradise-names-dar-as-salam",
+          "canonical": "Dar as-Salam",
+          "variants": [
+            "Abode of Peace",
+            "Darussalam",
+            "Dar al-Salam",
+            "Dar us Salam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Abode of Peace, to which Allah invites.",
+          "source": {
+            "text": "Qur'an 10:25; 6:127",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-paradise-names-jannat-al-khuld",
+          "canonical": "Jannat al-Khuld",
+          "variants": [
+            "Garden of Eternity",
+            "Jannatul Khuld",
+            "Khuld"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Garden of Eternity, promised to the righteous.",
+          "source": {
+            "text": "Qur'an 25:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-paradise-names-dar-al-muqamah",
+          "canonical": "Dar al-Muqamah",
+          "variants": [
+            "Abode of Permanent Stay",
+            "Darul Muqamah",
+            "Home of Everlasting Stay"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Home of Everlasting Stay.",
+          "source": {
+            "text": "Qur'an 35:35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-paradise-names-maqad-sidq",
+          "canonical": "Maq'ad Sidq",
+          "variants": [
+            "Seat of Truth",
+            "Maqad Sidq",
+            "Seat of Honour"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Seat of Truth, in the presence of the All-Powerful King.",
+          "source": {
+            "text": "Qur'an 54:55",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1014-salah-parts",
+      "number": 3,
+      "prompt": "Name a part, position or saying of the salah (prayer).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Wudu",
+            "Wudhu",
+            "Ablution",
+            "Adhan",
+            "Azan",
+            "Iqamah"
+          ],
+          "message": "That comes before the prayer rather than being part of it. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1014-salah-parts-ruku",
+          "canonical": "Ruku'",
+          "variants": [
+            "Ruku",
+            "Rukoo",
+            "Rukuh",
+            "Bowing"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Bowing with the back straight and hands on the knees.",
+          "source": {
+            "text": "Qur'an 22:77",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-sujud",
+          "canonical": "Sujud",
+          "variants": [
+            "Sajdah",
+            "Sajda",
+            "Sujood",
+            "Prostration",
+            "Sajdah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Prostrating with forehead, nose, hands, knees and toes on the ground.",
+          "source": {
+            "text": "Qur'an 22:77",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-opening-takbir",
+          "canonical": "Opening takbir",
+          "variants": [
+            "Takbirat al-Ihram",
+            "Takbiratul Ihram",
+            "Takbir",
+            "Takbeer",
+            "Allahu Akbar",
+            "First takbir"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Saying \"Allahu Akbar\" to begin the prayer — takbirat al-ihram.",
+          "source": {
+            "text": "Sunan Abi Dawud 61",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-reciting-al-fatihah",
+          "canonical": "Reciting al-Fatihah",
+          "variants": [
+            "Fatihah",
+            "Al-Fatihah",
+            "Fatiha",
+            "Surah Fatiha",
+            "Recitation",
+            "Reciting Fatiha",
+            "Qira'ah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"There is no prayer for one who does not recite the Opening of the Book.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 756",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-qiyam",
+          "canonical": "Qiyam",
+          "variants": [
+            "Standing",
+            "Qiyaam",
+            "Standing up"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Standing upright in prayer.",
+          "source": {
+            "text": "Qur'an 2:238",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-tashahhud",
+          "canonical": "Tashahhud",
+          "variants": [
+            "Attahiyat",
+            "At-Tahiyyat",
+            "Tashahud",
+            "Tahiyyat",
+            "Sitting for tashahhud"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Sitting and reciting at-Tahiyyat.",
+          "source": {
+            "text": "Sahih al-Bukhari 831",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-taslim",
+          "canonical": "Taslim",
+          "variants": [
+            "Salam",
+            "Salaam",
+            "Tasleem",
+            "Ending salam",
+            "Turning the head"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Ending the prayer by turning to each side and saying \"as-salamu 'alaykum wa rahmatullah\".",
+          "source": {
+            "text": "Sahih Muslim 582",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-facing-the-qiblah",
+          "canonical": "Facing the Qiblah",
+          "variants": [
+            "Qiblah",
+            "Qibla",
+            "Facing Makkah",
+            "Facing the Kaaba"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Turning towards the Ka'bah — a condition of the prayer.",
+          "source": {
+            "text": "Qur'an 2:144",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-intention",
+          "canonical": "Intention",
+          "variants": [
+            "Niyyah",
+            "Niyah",
+            "Niyat",
+            "Niyyat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The niyyah, made in the heart before praying.",
+          "source": {
+            "text": "Sahih al-Bukhari 1",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-jalsah",
+          "canonical": "Jalsah",
+          "variants": [
+            "Jalsa",
+            "Sitting between the sujud",
+            "Sitting between sajdahs"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sitting briefly between the two prostrations.",
+          "source": {
+            "text": "Sahih al-Bukhari 757",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-itidal",
+          "canonical": "I'tidal",
+          "variants": [
+            "Itidal",
+            "Qawmah",
+            "Standing after ruku"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Standing up straight after rising from bowing.",
+          "source": {
+            "text": "Sahih al-Bukhari 757",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-salawat-ibrahimiyyah",
+          "canonical": "Salawat Ibrahimiyyah",
+          "variants": [
+            "Durood Ibrahim",
+            "Darood Ibrahim",
+            "Salawat Ibrahimiyya",
+            "Salat Ibrahimiyyah",
+            "Durood"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sending blessings on the Prophet ﷺ and on Ibrahim in the final sitting.",
+          "source": {
+            "text": "Sahih al-Bukhari 3370",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-qunut",
+          "canonical": "Qunut",
+          "variants": [
+            "Dua Qunut",
+            "Qunoot",
+            "Dua al-Qunut"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A supplication made while standing, in Witr or at times of hardship.",
+          "source": {
+            "text": "Sahih Muslim 677",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-opening-supplication",
+          "canonical": "Opening supplication",
+          "variants": [
+            "Istiftah",
+            "Dua al-Istiftah",
+            "Thana",
+            "Sana",
+            "Subhanakallahumma"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Du'a al-istiftah, such as \"Subhanakallahumma wa bihamdik\".",
+          "source": {
+            "text": "Sahih Muslim 399",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-tasbih-in-bowing",
+          "canonical": "Tasbih in bowing",
+          "variants": [
+            "Subhana Rabbiyal Azim",
+            "Subhana Rabbiyal Adheem",
+            "Subhana Rabbiyal Azeem"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Saying \"Subhana Rabbiyal 'Azim\" in ruku'.",
+          "source": {
+            "text": "Sahih Muslim 772",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-tasbih-in-prostration",
+          "canonical": "Tasbih in prostration",
+          "variants": [
+            "Subhana Rabbiyal Ala",
+            "Subhana Rabbiyal A'la"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Saying \"Subhana Rabbiyal A'la\" in sujud.",
+          "source": {
+            "text": "Sahih Muslim 772",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-sami-allahu-liman-hamidah",
+          "canonical": "Sami' Allahu liman hamidah",
+          "variants": [
+            "Samiallahu liman hamidah",
+            "Sami Allahu liman hamidah",
+            "Rabbana lakal hamd"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Said when rising from bowing: \"Allah hears whoever praises Him.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 789",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-taawwudh",
+          "canonical": "Ta'awwudh",
+          "variants": [
+            "Taawwudh",
+            "Audhubillah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Seeking refuge in Allah from Shaytan before reciting.",
+          "source": {
+            "text": "Qur'an 16:98",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-raising-the-hands",
+          "canonical": "Raising the hands",
+          "variants": [
+            "Raf' al-yadayn",
+            "Rafa yadain",
+            "Raful yadain",
+            "Raising hands"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Raising the hands with the takbir — raf' al-yadayn.",
+          "source": {
+            "text": "Sahih al-Bukhari 735",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-sitting-of-rest",
+          "canonical": "Sitting of rest",
+          "variants": [
+            "Jalsat al-Istirahah",
+            "Jalsat al-Istiraha",
+            "Jalsa istirahat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A brief sitting before standing up from the second prostration — jalsat al-istirahah.",
+          "source": {
+            "text": "Sahih al-Bukhari 823",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-salah-parts-prostration-of-forgetfulness",
+          "canonical": "Prostration of forgetfulness",
+          "variants": [
+            "Sujud as-Sahw",
+            "Sajdah Sahw",
+            "Sujood as-Sahw",
+            "Sajda sahw"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Two extra prostrations to make up for a mistake — sujud as-sahw.",
+          "source": {
+            "text": "Sahih al-Bukhari 1224",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1014-women-in-quran",
+      "number": 4,
+      "prompt": "Name a woman mentioned in the Qur'an, by name or by her story.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Hajar",
+            "Hagar",
+            "Khadijah",
+            "Khadija",
+            "Fatimah",
+            "Fatima"
+          ],
+          "message": "She isn't mentioned in the Qur'an. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1014-women-in-quran-maryam",
+          "canonical": "Maryam",
+          "variants": [
+            "Mary",
+            "Mariam",
+            "Marium",
+            "Maryam bint Imran"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The mother of 'Isa — the only woman named in the Qur'an, with a surah named after her.",
+          "source": {
+            "text": "Qur'an 19:16–34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-women-in-quran-wife-of-firawn",
+          "canonical": "Wife of Fir'awn",
+          "variants": [
+            "Asiyah",
+            "Asiya",
+            "Aasiya",
+            "Asiya bint Muzahim",
+            "Wife of Pharaoh",
+            "Pharaoh's wife"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She believed, and prayed for a house near Allah in Paradise; tradition names her Asiyah.",
+          "source": {
+            "text": "Qur'an 66:11",
+            "status": "quran-reference"
+          },
+          "note": "Her name comes from the Hadith, not the Qur'an."
+        },
+        {
+          "id": "d1014-women-in-quran-mother-of-musa",
+          "canonical": "Mother of Musa",
+          "variants": [
+            "Musa's mother",
+            "Mother of Moses",
+            "Yukabid",
+            "Jochebed"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Inspired to place her baby in a basket on the river.",
+          "source": {
+            "text": "Qur'an 28:7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-women-in-quran-queen-of-saba",
+          "canonical": "Queen of Saba'",
+          "variants": [
+            "Bilqis",
+            "Balqis",
+            "Bilqees",
+            "Queen of Sheba",
+            "Queen of Saba"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The queen who came to Sulayman and submitted to Allah; tradition names her Bilqis.",
+          "source": {
+            "text": "Qur'an 27:23–44",
+            "status": "quran-reference"
+          },
+          "note": "Her name comes from later tradition."
+        },
+        {
+          "id": "d1014-women-in-quran-hawwa",
+          "canonical": "Hawwa",
+          "variants": [
+            "Eve",
+            "Hawa",
+            "Wife of Adam",
+            "Adam's wife"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The wife of Adam, who lived with him in the Garden.",
+          "source": {
+            "text": "Qur'an 2:35; 7:19",
+            "status": "quran-reference"
+          },
+          "note": "The Qur'an calls her Adam's wife; the name Hawwa comes from the Hadith."
+        },
+        {
+          "id": "d1014-women-in-quran-wife-of-al-aziz",
+          "canonical": "Wife of al-'Aziz",
+          "variants": [
+            "Zulaikha",
+            "Zulaykha",
+            "Zuleikha",
+            "Wife of Aziz",
+            "Wife of the Aziz"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She tried to seduce Yusuf; tradition names her Zulaykha.",
+          "source": {
+            "text": "Qur'an 12:23–32",
+            "status": "quran-reference"
+          },
+          "note": "Her name comes from later tradition."
+        },
+        {
+          "id": "d1014-women-in-quran-sister-of-musa",
+          "canonical": "Sister of Musa",
+          "variants": [
+            "Musa's sister",
+            "Sister of Moses"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She followed the basket along the river and led Musa back to his mother.",
+          "source": {
+            "text": "Qur'an 28:11–12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-women-in-quran-wife-of-nuh",
+          "canonical": "Wife of Nuh",
+          "variants": [
+            "Noah's wife",
+            "Nuh's wife"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An example of disbelief despite being married to a prophet.",
+          "source": {
+            "text": "Qur'an 66:10",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-women-in-quran-wife-of-lut",
+          "canonical": "Wife of Lut",
+          "variants": [
+            "Lot's wife",
+            "Lut's wife"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She stayed behind with the wrongdoers and was destroyed with them.",
+          "source": {
+            "text": "Qur'an 66:10; 11:81",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-women-in-quran-wife-of-ibrahim",
+          "canonical": "Wife of Ibrahim",
+          "variants": [
+            "Sarah",
+            "Sara",
+            "Ibrahim's wife",
+            "Abraham's wife"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She laughed at the news that she would bear Ishaq in old age.",
+          "source": {
+            "text": "Qur'an 11:71–72",
+            "status": "quran-reference"
+          },
+          "note": "The Qur'an does not name her; she is Sarah."
+        },
+        {
+          "id": "d1014-women-in-quran-wife-of-imran",
+          "canonical": "Wife of 'Imran",
+          "variants": [
+            "Hannah",
+            "Hanna",
+            "Mother of Maryam",
+            "Wife of Imran"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The mother of Maryam, who dedicated her unborn child to Allah.",
+          "source": {
+            "text": "Qur'an 3:35–36",
+            "status": "quran-reference"
+          },
+          "note": "The name Hannah comes from later tradition."
+        },
+        {
+          "id": "d1014-women-in-quran-daughters-of-the-man-of-madyan",
+          "canonical": "Daughters of the man of Madyan",
+          "variants": [
+            "Daughters of Shu'ayb",
+            "Daughter of Shuayb",
+            "Safura",
+            "Zipporah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Two sisters watering their flock; Musa helped them and married one.",
+          "source": {
+            "text": "Qur'an 28:23–27",
+            "status": "quran-reference"
+          },
+          "note": "Many commentators identify their father as Shu'ayb; others differ."
+        },
+        {
+          "id": "d1014-women-in-quran-wife-of-abu-lahab",
+          "canonical": "Wife of Abu Lahab",
+          "variants": [
+            "Umm Jamil",
+            "Abu Lahab's wife"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"The carrier of firewood\", Umm Jamil.",
+          "source": {
+            "text": "Qur'an 111:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-women-in-quran-wife-of-zakariyya",
+          "canonical": "Wife of Zakariyya",
+          "variants": [
+            "Zakariyya's wife",
+            "Elizabeth",
+            "Ishba"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Barren for years, she was cured so she could bear Yahya.",
+          "source": {
+            "text": "Qur'an 21:90; 3:40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-women-in-quran-khawlah-bint-thalabah",
+          "canonical": "Khawlah bint Tha'labah",
+          "variants": [
+            "Khawlah",
+            "Khawla bint Thalabah",
+            "Al-Mujadilah",
+            "The woman who disputed"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The woman who argued her case with the Prophet ﷺ — Surah al-Mujadilah opens with her.",
+          "source": {
+            "text": "Qur'an 58:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-women-in-quran-aishah",
+          "canonical": "Aishah",
+          "honorific": "RA",
+          "variants": [
+            "Aisha",
+            "Ayesha",
+            "Aishah bint Abi Bakr"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The slander against her and her vindication are understood to be the subject of these verses.",
+          "source": {
+            "text": "Qur'an 24:11–20 (commonly understood to concern her)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-women-in-quran-zaynab-bint-jahsh",
+          "canonical": "Zaynab bint Jahsh",
+          "honorific": "RA",
+          "variants": [
+            "Zainab bint Jahsh"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Her marriage to the Prophet ﷺ is referred to, though she isn't named.",
+          "source": {
+            "text": "Qur'an 33:37",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1014-celestial",
+      "number": 5,
+      "prompt": "Name a heavenly body or object in the sky mentioned in the Qur'an.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn",
+            "Mercury",
+            "Neptune",
+            "Uranus",
+            "Pluto",
+            "Comet",
+            "Galaxy",
+            "Black hole"
+          ],
+          "message": "That one isn't named in the Qur'an. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1014-celestial-sun",
+          "canonical": "Sun",
+          "variants": [
+            "Shams",
+            "Ash-Shams"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah ash-Shams opens with an oath by the sun and its brightness.",
+          "source": {
+            "text": "Qur'an 91:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-celestial-moon",
+          "canonical": "Moon",
+          "variants": [
+            "Qamar",
+            "Al-Qamar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah al-Qamar tells of the moon being split.",
+          "source": {
+            "text": "Qur'an 54:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-celestial-stars",
+          "canonical": "Stars",
+          "variants": [
+            "Star",
+            "Najm",
+            "Nujum",
+            "An-Najm"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah an-Najm opens with an oath by the star.",
+          "source": {
+            "text": "Qur'an 53:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-celestial-earth",
+          "canonical": "Earth",
+          "variants": [
+            "Ard",
+            "Al-Ard",
+            "The Earth"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Made a resting place for people, with the sky as a canopy.",
+          "source": {
+            "text": "Qur'an 2:22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-celestial-seven-heavens",
+          "canonical": "Seven heavens",
+          "variants": [
+            "Heavens",
+            "Sky",
+            "Sama",
+            "Samaa",
+            "Seven skies",
+            "The sky"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Allah created seven heavens, one above another.",
+          "source": {
+            "text": "Qur'an 67:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-celestial-planets",
+          "canonical": "Planets",
+          "variants": [
+            "Planet",
+            "Kawakib",
+            "Kawkab"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Yusuf dreamt of eleven kawkab, and the planets will scatter on the Last Day.",
+          "source": {
+            "text": "Qur'an 12:4; 82:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-celestial-constellations",
+          "canonical": "Constellations",
+          "variants": [
+            "Buruj",
+            "Al-Buruj",
+            "Zodiac",
+            "Great stars"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah al-Buruj swears by the sky with its great constellations.",
+          "source": {
+            "text": "Qur'an 85:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-celestial-sirius",
+          "canonical": "Sirius",
+          "variants": [
+            "Ash-Shi'ra",
+            "Shira",
+            "Ash-Shira",
+            "Dog Star"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Named as ash-Shi'ra: \"He is the Lord of Sirius.\"",
+          "source": {
+            "text": "Qur'an 53:49",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-celestial-at-tariq",
+          "canonical": "At-Tariq",
+          "variants": [
+            "Tariq",
+            "Piercing star",
+            "Night star",
+            "Night-comer"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Night-Comer, the piercing star.",
+          "source": {
+            "text": "Qur'an 86:1–3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-celestial-shooting-stars",
+          "canonical": "Shooting stars",
+          "variants": [
+            "Meteors",
+            "Meteor",
+            "Shihab",
+            "Shooting star",
+            "Flames"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Flames that strike devils who try to eavesdrop on the heavens.",
+          "source": {
+            "text": "Qur'an 72:8–9; 67:5",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1014-wudu",
+      "number": 6,
+      "prompt": "Name something done when making wudu (ablution).",
+      "answers": [
+        {
+          "id": "d1014-wudu-washing-the-face",
+          "canonical": "Washing the face",
+          "variants": [
+            "Face",
+            "Washing face",
+            "Wash face"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "One of the four acts commanded in the verse of wudu.",
+          "source": {
+            "text": "Qur'an 5:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-wudu-washing-the-arms",
+          "canonical": "Washing the arms",
+          "variants": [
+            "Arms",
+            "Washing arms",
+            "Elbows",
+            "Washing the hands to the elbows",
+            "Washing arms to elbows"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Washing the arms up to and including the elbows.",
+          "source": {
+            "text": "Qur'an 5:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-wudu-wiping-the-head",
+          "canonical": "Wiping the head",
+          "variants": [
+            "Head",
+            "Masah",
+            "Masah of the head",
+            "Wiping head",
+            "Mash"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Passing wet hands over the head.",
+          "source": {
+            "text": "Qur'an 5:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-wudu-washing-the-feet",
+          "canonical": "Washing the feet",
+          "variants": [
+            "Feet",
+            "Washing feet",
+            "Ankles",
+            "Wash feet"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Washing the feet up to and including the ankles.",
+          "source": {
+            "text": "Qur'an 5:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-wudu-rinsing-the-mouth",
+          "canonical": "Rinsing the mouth",
+          "variants": [
+            "Mouth",
+            "Gargling",
+            "Madmadah",
+            "Rinse mouth",
+            "Rinsing mouth"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Swirling water around the mouth.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Wudu; Sahih Muslim, Book of Purification",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-rinsing-the-nose",
+          "canonical": "Rinsing the nose",
+          "variants": [
+            "Nose",
+            "Istinshaq",
+            "Istinthar",
+            "Sniffing water",
+            "Rinsing nose"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Breathing water into the nose and blowing it out.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Wudu; Sahih Muslim, Book of Purification",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-washing-the-hands",
+          "canonical": "Washing the hands",
+          "variants": [
+            "Hands",
+            "Washing hands",
+            "Wash hands"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Washing the hands up to the wrists at the start.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Wudu; Sahih Muslim, Book of Purification",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-intention",
+          "canonical": "Intention",
+          "variants": [
+            "Niyyah",
+            "Niyah",
+            "Niyat"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Making the intention in the heart to purify oneself for prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari 1",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-saying-bismillah",
+          "canonical": "Saying Bismillah",
+          "variants": [
+            "Bismillah",
+            "Basmalah",
+            "Basmala"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Beginning with the name of Allah.",
+          "source": {
+            "text": "Sunan Abi Dawud 101",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-wiping-the-ears",
+          "canonical": "Wiping the ears",
+          "variants": [
+            "Ears",
+            "Cleaning ears",
+            "Wiping ears"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Wiping inside and behind the ears with the same water as the head.",
+          "source": {
+            "text": "Sunan Abi Dawud 121",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-using-the-miswak",
+          "canonical": "Using the miswak",
+          "variants": [
+            "Miswak",
+            "Siwak",
+            "Toothstick",
+            "Brushing teeth",
+            "Brushing the teeth"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Cleaning the teeth with a tooth-stick.",
+          "source": {
+            "text": "Sahih al-Bukhari 887",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-three-times-each",
+          "canonical": "Three times each",
+          "variants": [
+            "Three times",
+            "Repeating three times",
+            "Washing three times"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Washing each part three times, as the Prophet ﷺ often did.",
+          "source": {
+            "text": "Sahih al-Bukhari 159",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-following-the-order",
+          "canonical": "Following the order",
+          "variants": [
+            "Tartib",
+            "Tarteeb",
+            "Order",
+            "In order"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Doing the parts in the order Allah mentions them — tartib.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Wudu; Sahih Muslim, Book of Purification",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-starting-with-the-right",
+          "canonical": "Starting with the right",
+          "variants": [
+            "Right side first",
+            "Starting with right",
+            "Tayamun",
+            "Right first"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Beginning with the right hand and foot.",
+          "source": {
+            "text": "Sahih al-Bukhari 168",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-running-fingers-through-the-beard",
+          "canonical": "Running fingers through the beard",
+          "variants": [
+            "Takhlil",
+            "Beard",
+            "Combing beard",
+            "Washing the beard"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Takhlil — passing wet fingers through a thick beard.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 31",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-dua-after-wudu",
+          "canonical": "Du'a after wudu",
+          "variants": [
+            "Dua after wudu",
+            "Shahadah after wudu",
+            "Testimony after wudu"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Saying the testimony of faith afterwards; the eight gates of Paradise are opened.",
+          "source": {
+            "text": "Sahih Muslim 234",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-wiping-over-the-socks",
+          "canonical": "Wiping over the socks",
+          "variants": [
+            "Masah on socks",
+            "Wiping socks",
+            "Khuffs",
+            "Wiping over khuff",
+            "Wiping over khuffs"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Wiping over leather socks (khuffs) instead of washing the feet, when allowed.",
+          "source": {
+            "text": "Sahih al-Bukhari 202",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-wudu-without-a-break",
+          "canonical": "Without a break",
+          "variants": [
+            "Muwalat",
+            "Continuity",
+            "No break"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Washing each part before the previous one dries — muwalat.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Wudu; Sahih Muslim, Book of Purification",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

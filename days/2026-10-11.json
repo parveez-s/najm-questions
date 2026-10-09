@@ -1,0 +1,1602 @@
+{
+  "date": "2026-10-11",
+  "questions": [
+    {
+      "id": "d1011-articles-of-faith",
+      "number": 1,
+      "prompt": "Name one of the six articles of faith (pillars of Iman).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Salah",
+            "Prayer",
+            "Zakat",
+            "Hajj",
+            "Fasting",
+            "Shahadah"
+          ],
+          "message": "That's one of the pillars of Islam, not of faith. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1011-articles-of-faith-belief-in-allah",
+          "canonical": "Belief in Allah",
+          "variants": [
+            "Allah",
+            "God",
+            "Tawhid",
+            "Tawheed",
+            "Belief in God",
+            "Oneness of Allah",
+            "Faith in Allah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Believing in Allah, the One God, with no partner — the foundation of every other belief.",
+          "source": {
+            "text": "Hadith of Jibril (Sahih Muslim 8); Qur'an 4:136",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-articles-of-faith-belief-in-the-messengers",
+          "canonical": "Belief in the messengers",
+          "variants": [
+            "Messengers",
+            "Prophets",
+            "Belief in prophets",
+            "Belief in the prophets",
+            "Rusul",
+            "Belief in messengers",
+            "Prophethood",
+            "Risalah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Believing in all of Allah's prophets and messengers, from Adam to Muhammad ﷺ.",
+          "source": {
+            "text": "Hadith of Jibril (Sahih Muslim 8); Qur'an 4:136",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-articles-of-faith-belief-in-the-angels",
+          "canonical": "Belief in the angels",
+          "variants": [
+            "Angels",
+            "Belief in angels",
+            "Malaikah",
+            "Mala'ikah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Believing in the angels, created from light, who obey Allah's every command.",
+          "source": {
+            "text": "Hadith of Jibril (Sahih Muslim 8); Qur'an 4:136",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-articles-of-faith-belief-in-the-last-day",
+          "canonical": "Belief in the Last Day",
+          "variants": [
+            "Last Day",
+            "Day of Judgement",
+            "Day of Judgment",
+            "Akhirah",
+            "Afterlife",
+            "Belief in the Day of Judgement",
+            "Belief in the afterlife",
+            "Yawm al-Qiyamah",
+            "Resurrection"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Believing in the Day of Judgement, when everyone will be raised and held to account.",
+          "source": {
+            "text": "Hadith of Jibril (Sahih Muslim 8); Qur'an 4:136",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-articles-of-faith-belief-in-the-books",
+          "canonical": "Belief in the books",
+          "variants": [
+            "Books",
+            "Holy books",
+            "Revealed books",
+            "Belief in books",
+            "Belief in the holy books",
+            "Kutub",
+            "Scriptures"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Believing in the books Allah revealed, including the Tawrah, Zabur, Injil and the Qur'an.",
+          "source": {
+            "text": "Hadith of Jibril (Sahih Muslim 8); Qur'an 4:136",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-articles-of-faith-belief-in-divine-decree",
+          "canonical": "Belief in divine decree",
+          "variants": [
+            "Qadar",
+            "Qadr",
+            "Divine decree",
+            "Predestination",
+            "Destiny",
+            "Fate",
+            "Al-Qadar",
+            "Belief in Qadr",
+            "Taqdeer",
+            "Taqdir",
+            "Belief in predestination"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Believing in al-Qadar: that Allah knows and has decreed everything, the good and the bad.",
+          "source": {
+            "text": "Hadith of Jibril (Sahih Muslim 8)",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1011-prayers",
+      "number": 2,
+      "prompt": "Name a prayer (salah) in Islam.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Sunnah",
+            "Nafl",
+            "Sunnah prayer"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1011-prayers-fajr",
+          "canonical": "Fajr",
+          "variants": [
+            "Fajar",
+            "Subh",
+            "Dawn prayer",
+            "Morning prayer",
+            "Salat al-Fajr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The dawn prayer; the Qur'an mentions the recitation at dawn.",
+          "source": {
+            "text": "Qur'an 24:58; 17:78",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1011-prayers-maghrib",
+          "canonical": "Maghrib",
+          "variants": [
+            "Magrib",
+            "Maghreb",
+            "Sunset prayer",
+            "Salat al-Maghrib"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The sunset prayer, prayed just after the sun goes down.",
+          "source": {
+            "text": "Sahih Muslim, Book of the Places of Prayer",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prayers-dhuhr",
+          "canonical": "Dhuhr",
+          "variants": [
+            "Zuhr",
+            "Zohar",
+            "Duhr",
+            "Thuhr",
+            "Noon prayer",
+            "Midday prayer",
+            "Salat al-Dhuhr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The midday prayer, after the sun passes its highest point.",
+          "source": {
+            "text": "Sahih Muslim, Book of the Places of Prayer",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prayers-asr",
+          "canonical": "Asr",
+          "variants": [
+            "Asar",
+            "Afternoon prayer",
+            "Salat al-Asr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The afternoon prayer; many scholars say it is the 'middle prayer' of 2:238.",
+          "source": {
+            "text": "Qur'an 2:238; Sahih al-Bukhari 2931",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prayers-isha",
+          "canonical": "Isha",
+          "variants": [
+            "Isha'",
+            "Esha",
+            "Ishaa",
+            "Night prayer",
+            "Salat al-Isha"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The night prayer; the Qur'an names it as salat al-'isha'.",
+          "source": {
+            "text": "Qur'an 24:58",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1011-prayers-jumuah",
+          "canonical": "Jumu'ah",
+          "variants": [
+            "Jummah",
+            "Juma",
+            "Jumah",
+            "Jumuah",
+            "Friday prayer",
+            "Salat al-Jumuah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Friday congregational prayer, with a sermon, in place of Dhuhr.",
+          "source": {
+            "text": "Qur'an 62:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1011-prayers-tarawih",
+          "canonical": "Tarawih",
+          "variants": [
+            "Taraweeh",
+            "Taravih",
+            "Tarawee"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Night prayers prayed in congregation during Ramadan.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Tarawih",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prayers-witr",
+          "canonical": "Witr",
+          "variants": [
+            "Witir",
+            "Wit"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "An odd-numbered prayer that closes the night's prayers.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Witr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prayers-tahajjud",
+          "canonical": "Tahajjud",
+          "variants": [
+            "Qiyam al-Layl",
+            "Qiyam ul Layl",
+            "Night vigil",
+            "Tahajud",
+            "Tahajjad"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Voluntary prayer in the last part of the night, after sleeping.",
+          "source": {
+            "text": "Qur'an 17:79",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1011-prayers-eid-prayer",
+          "canonical": "Eid prayer",
+          "variants": [
+            "Eid salah",
+            "Salat al-Eid",
+            "Eid namaz",
+            "Salatul Eid"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Prayed on the mornings of Eid al-Fitr and Eid al-Adha.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Two Eids",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prayers-janazah",
+          "canonical": "Janazah",
+          "variants": [
+            "Janaza",
+            "Funeral prayer",
+            "Salat al-Janazah",
+            "Janazah prayer"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The funeral prayer for a Muslim who has died.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Funerals",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prayers-duha",
+          "canonical": "Duha",
+          "variants": [
+            "Doha",
+            "Chasht",
+            "Salat al-Duha",
+            "Forenoon prayer"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Voluntary prayer in the late morning, after the sun has risen high.",
+          "source": {
+            "text": "Sahih Muslim 720",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prayers-istikharah",
+          "canonical": "Istikharah",
+          "variants": [
+            "Istikhara",
+            "Istikharah prayer",
+            "Salat al-Istikharah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The prayer for guidance before making a decision.",
+          "source": {
+            "text": "Sahih al-Bukhari 1162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prayers-tahiyyat-al-masjid",
+          "canonical": "Tahiyyat al-Masjid",
+          "variants": [
+            "Tahiyyatul Masjid",
+            "Greeting the mosque",
+            "Tahiyat al-Masjid"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Two units of prayer on entering a mosque, before sitting down.",
+          "source": {
+            "text": "Sahih al-Bukhari 444",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prayers-istisqa",
+          "canonical": "Istisqa'",
+          "variants": [
+            "Istisqa",
+            "Rain prayer",
+            "Salat al-Istisqa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The prayer asking Allah for rain.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Istisqa'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prayers-eclipse-prayer",
+          "canonical": "Eclipse prayer",
+          "variants": [
+            "Salat al-Kusuf",
+            "Kusuf",
+            "Khusuf",
+            "Salat al-Khusuf",
+            "Kusoof"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Prayed during an eclipse of the sun or moon.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Eclipses",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prayers-prayer-of-fear",
+          "canonical": "Prayer of fear",
+          "variants": [
+            "Salat al-Khawf",
+            "Khawf",
+            "Fear prayer"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A shortened form of congregational prayer in times of danger.",
+          "source": {
+            "text": "Qur'an 4:102",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1011-prayers-salat-al-tasbih",
+          "canonical": "Salat al-Tasbih",
+          "variants": [
+            "Salatul Tasbeeh",
+            "Tasbih prayer",
+            "Salat at-Tasbih"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A voluntary prayer with many repetitions of glorification.",
+          "source": {
+            "text": "Sunan Abi Dawud 1297",
+            "status": "needs-review"
+          },
+          "note": "Scholars differ on the authenticity of the hadith describing it."
+        },
+        {
+          "id": "d1011-prayers-ishraq",
+          "canonical": "Ishraq",
+          "variants": [
+            "Ishraaq",
+            "Sunrise prayer"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Prayed shortly after sunrise; many scholars count it as the early form of Duha.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 586",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1011-revealed-books",
+      "number": 3,
+      "prompt": "Name a book or scripture revealed by Allah, mentioned in the Qur'an.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Suhuf",
+            "Scrolls",
+            "Scriptures"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Bible",
+            "Hadith",
+            "Sunnah",
+            "Bukhari",
+            "Talmud",
+            "Vedas"
+          ],
+          "message": "That isn't one of the revealed books named in the Qur'an. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1011-revealed-books-quran",
+          "canonical": "Qur'an",
+          "variants": [
+            "Quran",
+            "Koran",
+            "Al-Quran",
+            "The Quran"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The final revelation, sent down to Muhammad ﷺ over 23 years.",
+          "source": {
+            "text": "Qur'an 2:185",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1011-revealed-books-tawrah",
+          "canonical": "Tawrah",
+          "variants": [
+            "Torah",
+            "Tawrat",
+            "Taurat",
+            "Tawraat",
+            "Torat"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Torah, revealed to Musa.",
+          "source": {
+            "text": "Qur'an 3:3; 5:44",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1011-revealed-books-injil",
+          "canonical": "Injil",
+          "variants": [
+            "Injeel",
+            "Gospel",
+            "Evangel",
+            "Injil of Isa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Gospel, revealed to 'Isa.",
+          "source": {
+            "text": "Qur'an 3:3; 5:46",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1011-revealed-books-zabur",
+          "canonical": "Zabur",
+          "variants": [
+            "Zaboor",
+            "Psalms",
+            "Zubur"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Psalms, given to Dawud.",
+          "source": {
+            "text": "Qur'an 4:163; 17:55",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1011-revealed-books-scrolls-of-ibrahim",
+          "canonical": "Scrolls of Ibrahim",
+          "variants": [
+            "Suhuf Ibrahim",
+            "Suhuf of Ibrahim",
+            "Scrolls of Abraham",
+            "Sahifa of Ibrahim",
+            "Pages of Ibrahim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The scriptures given to Ibrahim, mentioned at the end of Surah al-A'la.",
+          "source": {
+            "text": "Qur'an 87:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1011-revealed-books-scrolls-of-musa",
+          "canonical": "Scrolls of Musa",
+          "variants": [
+            "Suhuf Musa",
+            "Suhuf of Musa",
+            "Scrolls of Moses",
+            "Pages of Musa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Scriptures of Musa mentioned alongside the Scrolls of Ibrahim.",
+          "source": {
+            "text": "Qur'an 87:19; 53:36",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1011-prophets-children",
+      "number": 4,
+      "prompt": "Name a child of Prophet Muhammad ﷺ.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Hasan",
+            "Al-Hasan",
+            "Husayn",
+            "Hussain",
+            "Husain",
+            "Al-Husayn"
+          ],
+          "message": "He was the Prophet's ﷺ grandson. Try again!"
+        },
+        {
+          "inputs": [
+            "Ali",
+            "Zayd",
+            "Zaid"
+          ],
+          "message": "He was raised in the Prophet's ﷺ household but wasn't his child. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1011-prophets-children-fatimah",
+          "canonical": "Fatimah",
+          "honorific": "RA",
+          "variants": [
+            "Fatima",
+            "Fatimah az-Zahra",
+            "Fatima Zahra",
+            "Fatimah bint Muhammad",
+            "Fatima az-Zahra"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His youngest daughter, wife of 'Ali and mother of al-Hasan and al-Husayn.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prophets-children-zaynab",
+          "canonical": "Zaynab",
+          "honorific": "RA",
+          "variants": [
+            "Zainab",
+            "Zaynab bint Muhammad",
+            "Zainab bint Muhammad"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His eldest daughter, married to Abu al-'As ibn al-Rabi'.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prophets-children-ruqayyah",
+          "canonical": "Ruqayyah",
+          "honorific": "RA",
+          "variants": [
+            "Ruqaiya",
+            "Ruqaya",
+            "Ruqayya",
+            "Ruqaiyyah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His daughter, married to 'Uthman ibn 'Affan; she died during the Battle of Badr.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prophets-children-umm-kulthum",
+          "canonical": "Umm Kulthum",
+          "honorific": "RA",
+          "variants": [
+            "Umm Kalthum",
+            "Umme Kulsoom",
+            "Umm Kalsum",
+            "Ummu Kulthum"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His daughter who married 'Uthman after her sister Ruqayyah died.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prophets-children-ibrahim",
+          "canonical": "Ibrahim",
+          "variants": [
+            "Ibraheem",
+            "Ibrahim ibn Muhammad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His son by Mariyah, who died as an infant; the sun eclipsed on the day he died.",
+          "source": {
+            "text": "Sahih al-Bukhari 1043",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prophets-children-al-qasim",
+          "canonical": "Al-Qasim",
+          "variants": [
+            "Qasim",
+            "Qaasim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His first son, by Khadijah, who died young; the Prophet ﷺ was called Abu al-Qasim after him.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-prophets-children-abdullah",
+          "canonical": "Abdullah",
+          "variants": [
+            "Abdallah",
+            "Tayyib",
+            "At-Tayyib",
+            "Tahir",
+            "At-Tahir",
+            "Abdullah ibn Muhammad"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "His son by Khadijah, who died in infancy; also called at-Tayyib and at-Tahir.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1011-mosques",
+      "number": 5,
+      "prompt": "Name a famous mosque anywhere in the world.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Taj Mahal"
+          ],
+          "message": "The Taj Mahal is a tomb, not a mosque. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1011-mosques-masjid-al-haram",
+          "canonical": "Masjid al-Haram",
+          "variants": [
+            "Haram",
+            "Grand Mosque",
+            "Al-Masjid al-Haram",
+            "Holy Mosque",
+            "Haram Sharif",
+            "Grand Mosque of Makkah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Sacred Mosque in Makkah, around the Ka'bah — the largest mosque in the world.",
+          "source": {
+            "text": "Qur'an 2:144",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1011-mosques-masjid-an-nabawi",
+          "canonical": "Masjid an-Nabawi",
+          "variants": [
+            "Masjid Nabawi",
+            "Prophets Mosque",
+            "Prophet's Mosque",
+            "Masjid al-Nabawi",
+            "Nabawi",
+            "Masjid e Nabawi"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Prophet's ﷺ Mosque in Madinah, which he helped build.",
+          "source": {
+            "text": "Sahih al-Bukhari 1190",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-al-aqsa-mosque",
+          "canonical": "Al-Aqsa Mosque",
+          "variants": [
+            "Al-Aqsa",
+            "Aqsa",
+            "Masjid al-Aqsa",
+            "Masjid Aqsa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "In Jerusalem — the first qiblah and the destination of the Night Journey.",
+          "source": {
+            "text": "Qur'an 17:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1011-mosques-dome-of-the-rock",
+          "canonical": "Dome of the Rock",
+          "variants": [
+            "Qubbat as-Sakhrah",
+            "Qubbat al-Sakhra",
+            "Golden dome"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The golden-domed shrine built in 691 on the Haram compound in Jerusalem.",
+          "source": {
+            "text": "Histories of Jerusalem",
+            "status": "needs-review"
+          },
+          "note": "Strictly a shrine within the al-Aqsa compound rather than a mosque."
+        },
+        {
+          "id": "d1011-mosques-blue-mosque",
+          "canonical": "Blue Mosque",
+          "variants": [
+            "Sultan Ahmed Mosque",
+            "Sultanahmet Mosque",
+            "Sultan Ahmet Mosque"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Sultan Ahmed Mosque in Istanbul (1616), famous for its blue tiles and six minarets.",
+          "source": {
+            "text": "Ottoman architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-sheikh-zayed-grand-mosque",
+          "canonical": "Sheikh Zayed Grand Mosque",
+          "variants": [
+            "Sheikh Zayed Mosque",
+            "Shaikh Zayed Mosque",
+            "Zayed Grand Mosque"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "In Abu Dhabi, completed in 2007, with one of the world's largest carpets.",
+          "source": {
+            "text": "Sheikh Zayed Grand Mosque Centre",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-quba-mosque",
+          "canonical": "Quba Mosque",
+          "variants": [
+            "Masjid Quba",
+            "Quba",
+            "Masjid Qubaa"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The first mosque, built by the Prophet ﷺ on arriving at Madinah.",
+          "source": {
+            "text": "Qur'an 9:108 (commonly understood to concern it); Sahih al-Bukhari 1193",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-masjid-al-qiblatayn",
+          "canonical": "Masjid al-Qiblatayn",
+          "variants": [
+            "Qiblatain",
+            "Qiblatayn",
+            "Mosque of the Two Qiblas",
+            "Masjid Qiblatain"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The 'Mosque of the Two Qiblahs' in Madinah, linked to the change of qiblah to Makkah.",
+          "source": {
+            "text": "Qur'an 2:144 (the change of qiblah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-umayyad-mosque",
+          "canonical": "Umayyad Mosque",
+          "variants": [
+            "Great Mosque of Damascus",
+            "Umayyad Mosque of Damascus",
+            "Jami al-Umawi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Great Mosque of Damascus, completed in 715.",
+          "source": {
+            "text": "Histories of Damascus",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-al-azhar-mosque",
+          "canonical": "Al-Azhar Mosque",
+          "variants": [
+            "Al-Azhar",
+            "Azhar",
+            "Jami al-Azhar"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Founded in Cairo in 970; its university is one of the oldest centres of learning.",
+          "source": {
+            "text": "Histories of Cairo",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-hagia-sophia",
+          "canonical": "Hagia Sophia",
+          "variants": [
+            "Aya Sofya",
+            "Ayasofya",
+            "Hagia Sofia",
+            "Ayasofya Mosque"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The great domed building in Istanbul, a mosque from 1453 to 1934 and again since 2020.",
+          "source": {
+            "text": "Histories of Istanbul",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-faisal-mosque",
+          "canonical": "Faisal Mosque",
+          "variants": [
+            "Shah Faisal Mosque",
+            "Faisal Masjid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Islamabad's national mosque (1986), shaped like a desert tent.",
+          "source": {
+            "text": "Pakistani architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-badshahi-mosque",
+          "canonical": "Badshahi Mosque",
+          "variants": [
+            "Badshahi Masjid",
+            "Badshahi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Mughal mosque in Lahore, completed in 1673.",
+          "source": {
+            "text": "Mughal architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-jama-masjid",
+          "canonical": "Jama Masjid",
+          "variants": [
+            "Jama Masjid Delhi",
+            "Jama Masjid of Delhi",
+            "Jami Masjid Delhi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Delhi's great Friday mosque, built by Shah Jahan in 1656.",
+          "source": {
+            "text": "Mughal architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-hassan-ii-mosque",
+          "canonical": "Hassan II Mosque",
+          "variants": [
+            "Hassan 2 Mosque",
+            "Hassan II",
+            "Grande Mosquée Hassan II"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "In Casablanca, partly built over the Atlantic Ocean, with one of the tallest minarets in the world.",
+          "source": {
+            "text": "Moroccan architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-great-mosque-of-cordoba",
+          "canonical": "Great Mosque of Cordoba",
+          "variants": [
+            "Mezquita",
+            "Cordoba Mosque",
+            "Mosque of Cordoba",
+            "Mezquita of Cordoba"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Begun in 785 in Cordoba, Spain, famous for its forest of red-and-white arches.",
+          "source": {
+            "text": "Histories of al-Andalus",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-great-mosque-of-djenne",
+          "canonical": "Great Mosque of Djenne",
+          "variants": [
+            "Djenne Mosque",
+            "Great Mosque of Djenné",
+            "Djenne"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "In Mali — the largest mud-brick building in the world.",
+          "source": {
+            "text": "West African architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-al-qarawiyyin-mosque",
+          "canonical": "Al-Qarawiyyin Mosque",
+          "variants": [
+            "Qarawiyyin",
+            "Al-Qarawiyyin",
+            "Karaouine",
+            "Al-Karaouine"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "In Fez, founded in 859 by Fatima al-Fihri.",
+          "source": {
+            "text": "Histories of Fez",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-suleymaniye-mosque",
+          "canonical": "Suleymaniye Mosque",
+          "variants": [
+            "Süleymaniye",
+            "Suleymaniye",
+            "Suleymaniye Mosque Istanbul"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Built by the architect Mimar Sinan for Suleyman the Magnificent in Istanbul (1557).",
+          "source": {
+            "text": "Ottoman architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-great-mosque-of-kairouan",
+          "canonical": "Great Mosque of Kairouan",
+          "variants": [
+            "Kairouan Mosque",
+            "Mosque of Uqba",
+            "Uqba ibn Nafi Mosque"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Founded in 670 in Tunisia; one of the oldest mosques in North Africa.",
+          "source": {
+            "text": "Histories of Ifriqiya",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-mosque-of-ibn-tulun",
+          "canonical": "Mosque of Ibn Tulun",
+          "variants": [
+            "Ibn Tulun Mosque",
+            "Ibn Tulun"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Cairo's oldest mosque surviving in its original form (879), with a spiral minaret.",
+          "source": {
+            "text": "Histories of Cairo",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-djinguereber-mosque",
+          "canonical": "Djinguereber Mosque",
+          "variants": [
+            "Djingareyber",
+            "Djinguereber"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Timbuktu's great mud mosque, built in 1327 under Mansa Musa.",
+          "source": {
+            "text": "West African architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-istiqlal-mosque",
+          "canonical": "Istiqlal Mosque",
+          "variants": [
+            "Masjid Istiqlal",
+            "Istiqlal"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Jakarta's national mosque — the largest in Southeast Asia.",
+          "source": {
+            "text": "Indonesian architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-selimiye-mosque",
+          "canonical": "Selimiye Mosque",
+          "variants": [
+            "Selimiye",
+            "Selimiye Mosque Edirne"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Mimar Sinan's masterpiece in Edirne (1575).",
+          "source": {
+            "text": "Ottoman architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-mosques-shah-mosque",
+          "canonical": "Shah Mosque",
+          "variants": [
+            "Imam Mosque",
+            "Masjed-e Shah",
+            "Shah Mosque Isfahan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Imam Mosque of Isfahan, covered in blue Safavid tilework (1629).",
+          "source": {
+            "text": "Safavid architectural histories",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1011-scientists",
+      "number": 6,
+      "prompt": "Name a Muslim scientist, physician, mathematician or explorer from history.",
+      "answers": [
+        {
+          "id": "d1011-scientists-ibn-sina",
+          "canonical": "Ibn Sina",
+          "variants": [
+            "Avicenna",
+            "Ibn Seena",
+            "Ibn Sena"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Avicenna (d. 1037), whose Canon of Medicine was taught in Europe for centuries.",
+          "source": {
+            "text": "Standard histories of science",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-al-khwarizmi",
+          "canonical": "Al-Khwarizmi",
+          "variants": [
+            "Khwarizmi",
+            "Al-Khawarizmi",
+            "Khawarizmi",
+            "Alkhwarizmi"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "9th-century Baghdad mathematician; 'algebra' and 'algorithm' come from his book and his name.",
+          "source": {
+            "text": "Standard histories of science",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-ibn-al-haytham",
+          "canonical": "Ibn al-Haytham",
+          "variants": [
+            "Alhazen",
+            "Ibn Haytham",
+            "Ibn al-Haitham",
+            "Alhacen"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Alhazen (d. c. 1040), pioneer of optics and of testing ideas by experiment.",
+          "source": {
+            "text": "Standard histories of science",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-ibn-khaldun",
+          "canonical": "Ibn Khaldun",
+          "variants": [
+            "Ibn Khaldoon",
+            "Ibn Khaldūn"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The 14th-century historian whose Muqaddimah founded the study of society.",
+          "source": {
+            "text": "Ibn Khaldun, al-Muqaddimah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-ibn-battuta",
+          "canonical": "Ibn Battuta",
+          "variants": [
+            "Ibn Batuta",
+            "Ibn Batutah",
+            "Ibn Battutah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Travelled some 120,000 km across Africa and Asia in the 14th century.",
+          "source": {
+            "text": "Ibn Battuta, al-Rihla",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-al-razi",
+          "canonical": "Al-Razi",
+          "variants": [
+            "Rhazes",
+            "Razi",
+            "Abu Bakr al-Razi",
+            "Ar-Razi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Rhazes (d. 925), physician who first distinguished smallpox from measles.",
+          "source": {
+            "text": "Standard histories of science",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-al-biruni",
+          "canonical": "Al-Biruni",
+          "variants": [
+            "Biruni",
+            "Al-Beruni",
+            "Alberuni"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "11th-century scholar who estimated the earth's radius with remarkable accuracy.",
+          "source": {
+            "text": "Standard histories of science",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-ibn-rushd",
+          "canonical": "Ibn Rushd",
+          "variants": [
+            "Averroes",
+            "Ibn Rush"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Averroes (d. 1198) of Cordoba — judge, physician and philosopher.",
+          "source": {
+            "text": "Standard histories of philosophy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-al-farabi",
+          "canonical": "Al-Farabi",
+          "variants": [
+            "Farabi",
+            "Alpharabius"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "10th-century philosopher and music theorist, called 'the Second Teacher'.",
+          "source": {
+            "text": "Standard histories of philosophy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-al-kindi",
+          "canonical": "Al-Kindi",
+          "variants": [
+            "Kindi",
+            "Alkindus"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "9th-century 'philosopher of the Arabs', a pioneer of cryptanalysis.",
+          "source": {
+            "text": "Standard histories of science",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-al-zahrawi",
+          "canonical": "Al-Zahrawi",
+          "variants": [
+            "Albucasis",
+            "Zahrawi",
+            "Abulcasis"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Albucasis (d. 1013) of Cordoba, 'father of surgery', who described many surgical instruments.",
+          "source": {
+            "text": "Standard histories of medicine",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-jabir-ibn-hayyan",
+          "canonical": "Jabir ibn Hayyan",
+          "variants": [
+            "Geber",
+            "Jabir",
+            "Jaber ibn Hayyan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Geber, the 8th-century figure credited with founding chemistry.",
+          "source": {
+            "text": "Standard histories of science",
+            "status": "needs-review"
+          },
+          "note": "Historians debate how many works under his name he wrote himself."
+        },
+        {
+          "id": "d1011-scientists-al-idrisi",
+          "canonical": "Al-Idrisi",
+          "variants": [
+            "Idrisi",
+            "Al-Idrissi",
+            "Dreses"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Made a famous world map for King Roger II of Sicily in 1154.",
+          "source": {
+            "text": "Standard histories of geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-al-jazari",
+          "canonical": "Al-Jazari",
+          "variants": [
+            "Jazari",
+            "Ismail al-Jazari"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "12th-century engineer who designed water clocks and automata.",
+          "source": {
+            "text": "Al-Jazari, Book of Knowledge of Ingenious Mechanical Devices",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-omar-khayyam",
+          "canonical": "Omar Khayyam",
+          "variants": [
+            "Umar Khayyam",
+            "Omar Khayam",
+            "Khayyam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mathematician and astronomer who reformed the Persian calendar — also a famous poet.",
+          "source": {
+            "text": "Standard histories of mathematics",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-nasir-al-din-al-tusi",
+          "canonical": "Nasir al-Din al-Tusi",
+          "variants": [
+            "Al-Tusi",
+            "Tusi",
+            "Nasir ad-Din Tusi",
+            "Nasiruddin Tusi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "13th-century astronomer who built the Maragha observatory.",
+          "source": {
+            "text": "Standard histories of astronomy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-abbas-ibn-firnas",
+          "canonical": "Abbas ibn Firnas",
+          "variants": [
+            "Ibn Firnas",
+            "Abbas ibn Farnas"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "9th-century inventor of Cordoba, remembered for an early attempt at flight.",
+          "source": {
+            "text": "Al-Maqqari, Nafh al-Tib",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-ibn-al-nafis",
+          "canonical": "Ibn al-Nafis",
+          "variants": [
+            "Ibn Nafis",
+            "Ibn an-Nafis"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "13th-century physician who first described the blood's circulation through the lungs.",
+          "source": {
+            "text": "Standard histories of medicine",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-al-battani",
+          "canonical": "Al-Battani",
+          "variants": [
+            "Battani",
+            "Albategnius"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Albategnius (d. 929), astronomer who measured the solar year very precisely.",
+          "source": {
+            "text": "Standard histories of astronomy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-thabit-ibn-qurra",
+          "canonical": "Thabit ibn Qurra",
+          "variants": [
+            "Thabit ibn Qurrah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "9th-century mathematician and translator in Baghdad.",
+          "source": {
+            "text": "Standard histories of mathematics",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-ibn-al-bitar",
+          "canonical": "Ibn al-Bitar",
+          "variants": [
+            "Ibn Baitar",
+            "Ibn al-Baitar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "13th-century botanist who catalogued over 1,400 medicinal plants.",
+          "source": {
+            "text": "Standard histories of medicine",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-al-jahiz",
+          "canonical": "Al-Jahiz",
+          "variants": [
+            "Jahiz"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "9th-century writer of the Book of Animals.",
+          "source": {
+            "text": "Al-Jahiz, Kitab al-Hayawan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-abd-al-rahman-al-sufi",
+          "canonical": "Abd al-Rahman al-Sufi",
+          "variants": [
+            "Al-Sufi",
+            "Azophi",
+            "Abdul Rahman al-Sufi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "10th-century astronomer who recorded the Andromeda galaxy in his Book of Fixed Stars.",
+          "source": {
+            "text": "Standard histories of astronomy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-ulugh-beg",
+          "canonical": "Ulugh Beg",
+          "variants": [
+            "Ulugh Bek",
+            "Ulughbek"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "15th-century ruler-astronomer of Samarkand who built a great observatory.",
+          "source": {
+            "text": "Standard histories of astronomy",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-piri-reis",
+          "canonical": "Piri Reis",
+          "variants": [
+            "Piri Rais"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ottoman admiral whose 1513 world map shows part of the Americas.",
+          "source": {
+            "text": "Standard histories of cartography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1011-scientists-taqi-al-din",
+          "canonical": "Taqi al-Din",
+          "variants": [
+            "Taqi ad-Din",
+            "Taqiyuddin"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "16th-century Ottoman astronomer and engineer who built an observatory in Istanbul.",
+          "source": {
+            "text": "Standard histories of astronomy",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

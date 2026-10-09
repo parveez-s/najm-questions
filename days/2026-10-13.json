@@ -1,0 +1,2989 @@
+{
+  "date": "2026-10-13",
+  "questions": [
+    {
+      "id": "d1013-names-of-allah",
+      "number": 1,
+      "prompt": "Name one of the 99 Names of Allah.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Al",
+            "Ya"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Allah",
+            "God"
+          ],
+          "message": "Allah is His proper name — name one of His 99 Beautiful Names. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1013-names-of-allah-ar-rahman",
+          "canonical": "Ar-Rahman",
+          "variants": [
+            "Rahman",
+            "Rehman",
+            "Rahmaan",
+            "Al-Rahman"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Most Gracious.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-ar-rahim",
+          "canonical": "Ar-Rahim",
+          "variants": [
+            "Rahim",
+            "Raheem",
+            "Al-Rahim"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Most Merciful.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-malik",
+          "canonical": "Al-Malik",
+          "variants": [
+            "Malik",
+            "Maalik"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The King.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-quddus",
+          "canonical": "Al-Quddus",
+          "variants": [
+            "Quddus",
+            "Quddoos",
+            "Qudus"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Most Holy.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-as-salam",
+          "canonical": "As-Salam",
+          "variants": [
+            "Salam",
+            "Salaam",
+            "As-Salaam"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Source of Peace.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-mumin",
+          "canonical": "Al-Mu'min",
+          "variants": [
+            "Mumin",
+            "Momin",
+            "Mu'min"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Giver of Faith and Security.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-muhaymin",
+          "canonical": "Al-Muhaymin",
+          "variants": [
+            "Muhaymin",
+            "Muhaimin"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Guardian, the Overseer.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-aziz",
+          "canonical": "Al-'Aziz",
+          "variants": [
+            "Aziz",
+            "Azeez",
+            "Al-Aziz"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Almighty.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-jabbar",
+          "canonical": "Al-Jabbar",
+          "variants": [
+            "Jabbar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Compeller, who restores all things.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-mutakabbir",
+          "canonical": "Al-Mutakabbir",
+          "variants": [
+            "Mutakabbir"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Supreme in Greatness.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-khaliq",
+          "canonical": "Al-Khaliq",
+          "variants": [
+            "Khaliq",
+            "Khaaliq"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Creator.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-bari",
+          "canonical": "Al-Bari'",
+          "variants": [
+            "Bari",
+            "Baari"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Maker, who brings into being.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-musawwir",
+          "canonical": "Al-Musawwir",
+          "variants": [
+            "Musawwir",
+            "Musawir"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Fashioner of forms.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-ghaffar",
+          "canonical": "Al-Ghaffar",
+          "variants": [
+            "Ghaffar",
+            "Ghaffaar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Ever-Forgiving.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-qahhar",
+          "canonical": "Al-Qahhar",
+          "variants": [
+            "Qahhar",
+            "Qahaar"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The All-Subduing.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-wahhab",
+          "canonical": "Al-Wahhab",
+          "variants": [
+            "Wahhab",
+            "Wahaab"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Bestower.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-ar-razzaq",
+          "canonical": "Ar-Razzaq",
+          "variants": [
+            "Razzaq",
+            "Razaq",
+            "Al-Razzaq"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Provider.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-fattah",
+          "canonical": "Al-Fattah",
+          "variants": [
+            "Fattah",
+            "Fatah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Opener, the Judge.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-alim",
+          "canonical": "Al-'Alim",
+          "variants": [
+            "Alim",
+            "Aleem",
+            "Al-Aleem"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The All-Knowing.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-qabid",
+          "canonical": "Al-Qabid",
+          "variants": [
+            "Qabid",
+            "Qaabid",
+            "Qabidh"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Withholder.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-basit",
+          "canonical": "Al-Basit",
+          "variants": [
+            "Basit",
+            "Baasit"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Extender.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-khafid",
+          "canonical": "Al-Khafid",
+          "variants": [
+            "Khafid",
+            "Khaafid",
+            "Khafidh"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Abaser.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-ar-rafi",
+          "canonical": "Ar-Rafi'",
+          "variants": [
+            "Rafi",
+            "Raafi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Exalter.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-muizz",
+          "canonical": "Al-Mu'izz",
+          "variants": [
+            "Muizz",
+            "Muiz"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Giver of Honour.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-mudhill",
+          "canonical": "Al-Mudhill",
+          "variants": [
+            "Mudhill",
+            "Muzill"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Giver of Dishonour.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-as-sami",
+          "canonical": "As-Sami'",
+          "variants": [
+            "Sami",
+            "Samee",
+            "As-Samee"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The All-Hearing.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-basir",
+          "canonical": "Al-Basir",
+          "variants": [
+            "Basir",
+            "Baseer",
+            "Al-Baseer"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The All-Seeing.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-hakam",
+          "canonical": "Al-Hakam",
+          "variants": [
+            "Hakam"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Judge.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-adl",
+          "canonical": "Al-'Adl",
+          "variants": [
+            "Adl",
+            "Al-Adl"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Utterly Just.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-latif",
+          "canonical": "Al-Latif",
+          "variants": [
+            "Latif",
+            "Lateef",
+            "Al-Lateef"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Subtle, the Most Kind.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-khabir",
+          "canonical": "Al-Khabir",
+          "variants": [
+            "Khabir",
+            "Khabeer"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The All-Aware.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-halim",
+          "canonical": "Al-Halim",
+          "variants": [
+            "Halim",
+            "Haleem"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Forbearing.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-azim",
+          "canonical": "Al-'Azim",
+          "variants": [
+            "Azim",
+            "Azeem",
+            "Adheem",
+            "Al-Azeem"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Magnificent.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-ghafur",
+          "canonical": "Al-Ghafur",
+          "variants": [
+            "Ghafur",
+            "Ghafoor"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The All-Forgiving.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-ash-shakur",
+          "canonical": "Ash-Shakur",
+          "variants": [
+            "Shakur",
+            "Shakoor"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Most Appreciative.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-aliyy",
+          "canonical": "Al-'Aliyy",
+          "variants": [
+            "Aliyy",
+            "Ali",
+            "Al-Ali",
+            "Al-Aliyy"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Most High.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-kabir",
+          "canonical": "Al-Kabir",
+          "variants": [
+            "Kabir",
+            "Kabeer"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Most Great.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-hafiz",
+          "canonical": "Al-Hafiz",
+          "variants": [
+            "Hafiz",
+            "Hafeez",
+            "Hafidh",
+            "Al-Hafeez"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Preserver.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-muqit",
+          "canonical": "Al-Muqit",
+          "variants": [
+            "Muqit",
+            "Muqeet"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Sustainer, who nourishes.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-hasib",
+          "canonical": "Al-Hasib",
+          "variants": [
+            "Hasib",
+            "Haseeb"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Reckoner.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-jalil",
+          "canonical": "Al-Jalil",
+          "variants": [
+            "Jalil",
+            "Jaleel"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Majestic.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-karim",
+          "canonical": "Al-Karim",
+          "variants": [
+            "Karim",
+            "Kareem",
+            "Al-Kareem"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Most Generous.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-ar-raqib",
+          "canonical": "Ar-Raqib",
+          "variants": [
+            "Raqib",
+            "Raqeeb"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Watchful.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-mujib",
+          "canonical": "Al-Mujib",
+          "variants": [
+            "Mujib",
+            "Mujeeb"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Responder to prayer.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-wasi",
+          "canonical": "Al-Wasi'",
+          "variants": [
+            "Wasi",
+            "Waasi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The All-Encompassing.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-hakim",
+          "canonical": "Al-Hakim",
+          "variants": [
+            "Hakim",
+            "Hakeem",
+            "Al-Hakeem"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The All-Wise.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-wadud",
+          "canonical": "Al-Wadud",
+          "variants": [
+            "Wadud",
+            "Wadood"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Most Loving.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-majid",
+          "canonical": "Al-Majid",
+          "variants": [
+            "Majid",
+            "Majeed",
+            "Maajid",
+            "Al-Majeed",
+            "Al-Maajid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Glorious, the Most Noble (two of the Names are written this way in English: al-Majid and al-Majid).",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-baith",
+          "canonical": "Al-Ba'ith",
+          "variants": [
+            "Baith",
+            "Baaith"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Resurrector.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-ash-shahid",
+          "canonical": "Ash-Shahid",
+          "variants": [
+            "Shahid",
+            "Shaheed"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Witness.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-haqq",
+          "canonical": "Al-Haqq",
+          "variants": [
+            "Haqq",
+            "Haq",
+            "Al-Haq"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Truth.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-wakil",
+          "canonical": "Al-Wakil",
+          "variants": [
+            "Wakil",
+            "Wakeel"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Trustee, the Disposer of affairs.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-qawiyy",
+          "canonical": "Al-Qawiyy",
+          "variants": [
+            "Qawiyy",
+            "Qawi",
+            "Qawee"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The All-Strong.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-matin",
+          "canonical": "Al-Matin",
+          "variants": [
+            "Matin",
+            "Mateen"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Firm.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-waliyy",
+          "canonical": "Al-Waliyy",
+          "variants": [
+            "Waliyy",
+            "Waliy"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Protecting Friend.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-hamid",
+          "canonical": "Al-Hamid",
+          "variants": [
+            "Hamid",
+            "Hameed",
+            "Al-Hameed"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Praiseworthy.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-muhsi",
+          "canonical": "Al-Muhsi",
+          "variants": [
+            "Muhsi",
+            "Muhsee"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Counter of all things.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-mubdi",
+          "canonical": "Al-Mubdi'",
+          "variants": [
+            "Mubdi",
+            "Mubdee"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Originator.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-muid",
+          "canonical": "Al-Mu'id",
+          "variants": [
+            "Muid",
+            "Mueed"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Restorer.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-muhyi",
+          "canonical": "Al-Muhyi",
+          "variants": [
+            "Muhyi",
+            "Muhyee"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Giver of Life.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-mumit",
+          "canonical": "Al-Mumit",
+          "variants": [
+            "Mumit",
+            "Mumeet"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Bringer of Death.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-hayy",
+          "canonical": "Al-Hayy",
+          "variants": [
+            "Hayy",
+            "Hay",
+            "Hayyu"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Ever-Living.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-qayyum",
+          "canonical": "Al-Qayyum",
+          "variants": [
+            "Qayyum",
+            "Qayyoom",
+            "Qayum"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Self-Sustaining, Sustainer of all.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-wajid",
+          "canonical": "Al-Wajid",
+          "variants": [
+            "Wajid",
+            "Waajid"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Finder, who lacks nothing.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-wahid",
+          "canonical": "Al-Wahid",
+          "variants": [
+            "Wahid",
+            "Waahid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The One.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-ahad",
+          "canonical": "Al-Ahad",
+          "variants": [
+            "Ahad"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Unique, the Only One.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-as-samad",
+          "canonical": "As-Samad",
+          "variants": [
+            "Samad",
+            "Al-Samad"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Eternal Refuge.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-qadir",
+          "canonical": "Al-Qadir",
+          "variants": [
+            "Qadir",
+            "Qaadir"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The All-Powerful.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-muqtadir",
+          "canonical": "Al-Muqtadir",
+          "variants": [
+            "Muqtadir"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Determiner, the All-Capable.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-muqaddim",
+          "canonical": "Al-Muqaddim",
+          "variants": [
+            "Muqaddim"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Expediter, who brings forward.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-muakhkhir",
+          "canonical": "Al-Mu'akhkhir",
+          "variants": [
+            "Muakhkhir",
+            "Muakhir"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Delayer, who puts back.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-awwal",
+          "canonical": "Al-Awwal",
+          "variants": [
+            "Awwal",
+            "Awal"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The First.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-akhir",
+          "canonical": "Al-Akhir",
+          "variants": [
+            "Akhir",
+            "Aakhir"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Last.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-az-zahir",
+          "canonical": "Az-Zahir",
+          "variants": [
+            "Zahir",
+            "Dhahir",
+            "Az-Dhahir"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Manifest.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-batin",
+          "canonical": "Al-Batin",
+          "variants": [
+            "Batin",
+            "Baatin"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Hidden.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-wali",
+          "canonical": "Al-Wali",
+          "variants": [
+            "Wali",
+            "Waali",
+            "Al-Waali"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Governor, the Patron.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-mutaali",
+          "canonical": "Al-Muta'ali",
+          "variants": [
+            "Mutaali",
+            "Mutaal"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Most Exalted.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-barr",
+          "canonical": "Al-Barr",
+          "variants": [
+            "Barr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Source of All Goodness.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-at-tawwab",
+          "canonical": "At-Tawwab",
+          "variants": [
+            "Tawwab",
+            "Tawaab"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Accepter of Repentance.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-muntaqim",
+          "canonical": "Al-Muntaqim",
+          "variants": [
+            "Muntaqim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Avenger.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-afuww",
+          "canonical": "Al-'Afuww",
+          "variants": [
+            "Afuww",
+            "Afu",
+            "Afuw",
+            "Al-Afuw"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Pardoner.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-ar-rauf",
+          "canonical": "Ar-Ra'uf",
+          "variants": [
+            "Rauf",
+            "Raoof",
+            "Ra-oof"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Most Kind.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-malik-al-mulk",
+          "canonical": "Malik al-Mulk",
+          "variants": [
+            "Maalik ul Mulk",
+            "Malikul Mulk",
+            "Malik ul Mulk"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Owner of All Sovereignty.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-dhu-al-jalal-wa-al-ikram",
+          "canonical": "Dhu al-Jalal wa al-Ikram",
+          "variants": [
+            "Dhul Jalali wal Ikram",
+            "Zul Jalali wal Ikram",
+            "Dhul Jalal wal Ikram",
+            "Thul Jalali wal Ikram"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Lord of Majesty and Generosity.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-muqsit",
+          "canonical": "Al-Muqsit",
+          "variants": [
+            "Muqsit"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Equitable.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-jami",
+          "canonical": "Al-Jami'",
+          "variants": [
+            "Jami",
+            "Jaami"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Gatherer.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-ghaniyy",
+          "canonical": "Al-Ghaniyy",
+          "variants": [
+            "Ghaniyy",
+            "Ghani",
+            "Ghanee"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Self-Sufficient.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-mughni",
+          "canonical": "Al-Mughni",
+          "variants": [
+            "Mughni",
+            "Mughnee"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Enricher.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-mani",
+          "canonical": "Al-Mani'",
+          "variants": [
+            "Mani",
+            "Maani"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Preventer.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-ad-darr",
+          "canonical": "Ad-Darr",
+          "variants": [
+            "Darr",
+            "Dar",
+            "Ad-Dar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Distresser (who allows harm, for a wisdom).",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-an-nafi",
+          "canonical": "An-Nafi'",
+          "variants": [
+            "Nafi",
+            "Naafi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Benefactor.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-an-nur",
+          "canonical": "An-Nur",
+          "variants": [
+            "Nur",
+            "Noor",
+            "An-Noor"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Light.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-hadi",
+          "canonical": "Al-Hadi",
+          "variants": [
+            "Hadi",
+            "Haadi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Guide.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-badi",
+          "canonical": "Al-Badi'",
+          "variants": [
+            "Badi",
+            "Badee"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Incomparable Originator.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-baqi",
+          "canonical": "Al-Baqi",
+          "variants": [
+            "Baqi",
+            "Baaqi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Everlasting.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-al-warith",
+          "canonical": "Al-Warith",
+          "variants": [
+            "Warith",
+            "Waarith",
+            "Waris"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Inheritor of all.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-ar-rashid",
+          "canonical": "Ar-Rashid",
+          "variants": [
+            "Rashid",
+            "Rasheed"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Guide to the Right Path.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-names-of-allah-as-sabur",
+          "canonical": "As-Sabur",
+          "variants": [
+            "Sabur",
+            "Saboor"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Most Patient.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3507 (the list of the 99 Names)",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1013-peoples",
+      "number": 2,
+      "prompt": "Name a people, nation or group mentioned in the Qur'an.",
+      "answers": [
+        {
+          "id": "d1013-peoples-bani-israil",
+          "canonical": "Bani Isra'il",
+          "variants": [
+            "Children of Israel",
+            "Bani Israel",
+            "Banu Israel",
+            "Israelites",
+            "Banu Israil"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Children of Israel, descendants of Ya'qub — the people most mentioned in the Qur'an.",
+          "source": {
+            "text": "Qur'an 2:40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-ad",
+          "canonical": "'Ad",
+          "variants": [
+            "Aad",
+            "Ad",
+            "People of Hud"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The mighty people of Prophet Hud, destroyed by a furious wind.",
+          "source": {
+            "text": "Qur'an 7:65; 69:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-thamud",
+          "canonical": "Thamud",
+          "variants": [
+            "Thamood",
+            "Samood",
+            "People of Salih"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The people of Prophet Salih, who carved homes from mountains.",
+          "source": {
+            "text": "Qur'an 7:73",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-people-of-nuh",
+          "canonical": "People of Nuh",
+          "variants": [
+            "Qawm Nuh",
+            "People of Noah",
+            "Nation of Nuh"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Nuh called them for 950 years; they were drowned in the Flood.",
+          "source": {
+            "text": "Qur'an 7:59; 29:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-people-of-lut",
+          "canonical": "People of Lut",
+          "variants": [
+            "Qawm Lut",
+            "People of Lot",
+            "Sodom"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The people of Prophet Lut, destroyed for their crimes.",
+          "source": {
+            "text": "Qur'an 7:80",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-people-of-the-book",
+          "canonical": "People of the Book",
+          "variants": [
+            "Ahl al-Kitab",
+            "Ahlul Kitab",
+            "Ahl-e-Kitab"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Jews and Christians, given earlier scripture.",
+          "source": {
+            "text": "Qur'an 3:64",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-christians",
+          "canonical": "Christians",
+          "variants": [
+            "Nasara",
+            "Nasaara",
+            "Christian"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Called an-Nasara in the Qur'an.",
+          "source": {
+            "text": "Qur'an 2:62",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-jews",
+          "canonical": "Jews",
+          "variants": [
+            "Yahud",
+            "Yahood",
+            "Jewish people"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Called al-Yahud in the Qur'an.",
+          "source": {
+            "text": "Qur'an 2:113",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-quraysh",
+          "canonical": "Quraysh",
+          "variants": [
+            "Quraish",
+            "Koraysh",
+            "Qureysh"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Prophet's ﷺ own tribe in Makkah; Surah Quraysh is named after them.",
+          "source": {
+            "text": "Qur'an 106:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-romans",
+          "canonical": "Romans",
+          "variants": [
+            "Rum",
+            "Ar-Rum",
+            "Byzantines",
+            "The Romans"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah ar-Rum foretold the Romans' victory after their defeat.",
+          "source": {
+            "text": "Qur'an 30:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-companions-of-the-cave",
+          "canonical": "Companions of the Cave",
+          "variants": [
+            "Ashab al-Kahf",
+            "People of the Cave",
+            "Sleepers of the Cave",
+            "Seven Sleepers",
+            "Ashabul Kahf"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Young believers who slept in a cave for 309 years.",
+          "source": {
+            "text": "Qur'an 18:9–26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-yajuj-and-majuj",
+          "canonical": "Ya'juj and Ma'juj",
+          "variants": [
+            "Gog and Magog",
+            "Yajuj and Majuj",
+            "Yajooj Majooj",
+            "Yajuj Majuj"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Gog and Magog, held back by Dhul-Qarnayn's barrier.",
+          "source": {
+            "text": "Qur'an 18:94",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-people-of-madyan",
+          "canonical": "People of Madyan",
+          "variants": [
+            "Madyan",
+            "Midianites",
+            "People of Shuayb",
+            "People of Midian"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The people of Prophet Shu'ayb, who cheated in weights and measures.",
+          "source": {
+            "text": "Qur'an 7:85",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-people-of-firawn",
+          "canonical": "People of Fir'awn",
+          "variants": [
+            "Aal Fir'awn",
+            "Al Firawn",
+            "Pharaoh's people",
+            "Family of Pharaoh",
+            "Egyptians"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Pharaoh's people, drowned in the sea.",
+          "source": {
+            "text": "Qur'an 2:49–50",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-saba",
+          "canonical": "Saba'",
+          "variants": [
+            "Sabaeans",
+            "People of Sheba",
+            "People of Saba"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Sabaeans, whose rich gardens were destroyed by a flood.",
+          "source": {
+            "text": "Qur'an 34:15–16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-companions-of-the-elephant",
+          "canonical": "Companions of the Elephant",
+          "variants": [
+            "Ashab al-Fil",
+            "People of the Elephant",
+            "Abraha's army",
+            "Ashabul Fil"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Abraha's army, which marched on the Ka'bah and was destroyed by birds.",
+          "source": {
+            "text": "Qur'an 105:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-ansar",
+          "canonical": "Ansar",
+          "variants": [
+            "Helpers",
+            "Al-Ansar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Helpers — the Muslims of Madinah who welcomed the emigrants.",
+          "source": {
+            "text": "Qur'an 9:100",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-muhajirun",
+          "canonical": "Muhajirun",
+          "variants": [
+            "Emigrants",
+            "Muhajireen",
+            "Al-Muhajirun"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Emigrants who left Makkah for Allah's sake.",
+          "source": {
+            "text": "Qur'an 9:100",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-arab",
+          "canonical": "A'rab",
+          "variants": [
+            "Arab",
+            "Arabs",
+            "Bedouins",
+            "Bedouin",
+            "Desert Arabs",
+            "Arab Bedouins"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The desert Arabs, the Bedouin.",
+          "source": {
+            "text": "Qur'an 9:97; 49:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-companions-of-the-ditch",
+          "canonical": "Companions of the Ditch",
+          "variants": [
+            "Ashab al-Ukhdud",
+            "People of the Ditch",
+            "Ashabul Ukhdud"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Persecutors who burned believers in a fiery trench.",
+          "source": {
+            "text": "Qur'an 85:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-people-of-tubba",
+          "canonical": "People of Tubba'",
+          "variants": [
+            "Qawm Tubba",
+            "Tubba"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A Yemeni people named among nations that were destroyed.",
+          "source": {
+            "text": "Qur'an 44:37; 50:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-companions-of-ar-rass",
+          "canonical": "Companions of ar-Rass",
+          "variants": [
+            "Ashab ar-Rass",
+            "People of the Well",
+            "People of Rass"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A people who rejected their prophet; ar-Rass is often explained as a well.",
+          "source": {
+            "text": "Qur'an 25:38; 50:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-companions-of-the-thicket",
+          "canonical": "Companions of the Thicket",
+          "variants": [
+            "Ashab al-Aykah",
+            "People of the Wood",
+            "People of the Thicket",
+            "Ashabul Aykah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ashab al-Aykah, to whom Shu'ayb was also sent.",
+          "source": {
+            "text": "Qur'an 15:78; 26:176",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-sabbath-breakers",
+          "canonical": "Sabbath-breakers",
+          "variants": [
+            "Ashab as-Sabt",
+            "People of the Sabbath",
+            "Companions of the Sabbath"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Those who broke the Sabbath by fishing and were turned into apes.",
+          "source": {
+            "text": "Qur'an 7:163; 2:65",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-companions-of-the-garden",
+          "canonical": "Companions of the Garden",
+          "variants": [
+            "Ashab al-Jannah",
+            "Owners of the Garden",
+            "People of the Garden"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Owners of a garden who planned to deny the poor, and lost everything.",
+          "source": {
+            "text": "Qur'an 68:17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-sabians",
+          "canonical": "Sabians",
+          "variants": [
+            "Sabi'un",
+            "Sabieen",
+            "Sabeans"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named alongside Jews and Christians.",
+          "source": {
+            "text": "Qur'an 2:62",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-peoples-magians",
+          "canonical": "Magians",
+          "variants": [
+            "Majus",
+            "Zoroastrians",
+            "Majoos"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named in the Qur'an; usually understood as the Zoroastrians.",
+          "source": {
+            "text": "Qur'an 22:17",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1013-kaaba",
+      "number": 3,
+      "prompt": "Name something found at or around the Ka'bah in Makkah.",
+      "answers": [
+        {
+          "id": "d1013-kaaba-black-stone",
+          "canonical": "Black Stone",
+          "variants": [
+            "Hajar al-Aswad",
+            "Hajr-e-Aswad",
+            "Hajr al-Aswad",
+            "Hajarul Aswad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Set in the eastern corner of the Ka'bah; pilgrims begin each circuit there.",
+          "source": {
+            "text": "Sahih al-Bukhari 1597",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-kaaba-zamzam",
+          "canonical": "Zamzam",
+          "variants": [
+            "Zam Zam",
+            "Zamzam well",
+            "Well of Zamzam"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The blessed well that sprang up for Hajar and Isma'il.",
+          "source": {
+            "text": "Sahih al-Bukhari 3364",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-kaaba-maqam-ibrahim",
+          "canonical": "Maqam Ibrahim",
+          "variants": [
+            "Station of Ibrahim",
+            "Maqam-e-Ibrahim",
+            "Station of Abraham",
+            "Makam Ibrahim"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The stone Ibrahim stood on while building the Ka'bah.",
+          "source": {
+            "text": "Qur'an 2:125",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-kaaba-kiswah",
+          "canonical": "Kiswah",
+          "variants": [
+            "Kiswa",
+            "Kiswat",
+            "Ghilaf",
+            "Cover of the Kaaba"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The black cloth embroidered in gold that covers the Ka'bah, replaced every year.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; histories of the Masjid al-Haram",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-kaaba-hijr-ismail",
+          "canonical": "Hijr Isma'il",
+          "variants": [
+            "Hijr Ismail",
+            "Hatim",
+            "Hateem",
+            "Al-Hatim"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The semi-circular wall beside the Ka'bah; the area inside it is part of the House.",
+          "source": {
+            "text": "Sahih al-Bukhari 1584",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-kaaba-safa",
+          "canonical": "Safa",
+          "variants": [
+            "As-Safa",
+            "Mount Safa"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The hill where Sa'i begins, now inside the mosque.",
+          "source": {
+            "text": "Qur'an 2:158",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-kaaba-marwah",
+          "canonical": "Marwah",
+          "variants": [
+            "Marwa",
+            "Al-Marwah",
+            "Mount Marwah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The hill where Sa'i ends, now inside the mosque.",
+          "source": {
+            "text": "Qur'an 2:158",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-kaaba-door-of-the-kabah",
+          "canonical": "Door of the Ka'bah",
+          "variants": [
+            "Kaaba door",
+            "Bab al-Kaaba",
+            "Door of the Kaaba",
+            "Golden door"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The golden door set high in the Ka'bah's eastern wall.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; histories of the Masjid al-Haram",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-kaaba-multazam",
+          "canonical": "Multazam",
+          "variants": [
+            "Al-Multazam",
+            "Multazim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The wall between the Black Stone and the door, where people cling and make du'a.",
+          "source": {
+            "text": "Sunan Abi Dawud 1899",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-kaaba-yemeni-corner",
+          "canonical": "Yemeni Corner",
+          "variants": [
+            "Rukn al-Yamani",
+            "Rukn Yamani",
+            "Al-Rukn al-Yamani",
+            "Yemeni corner"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The south-western corner, which the Prophet ﷺ would touch.",
+          "source": {
+            "text": "Sahih al-Bukhari 1609",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-kaaba-mizab-ar-rahmah",
+          "canonical": "Mizab ar-Rahmah",
+          "variants": [
+            "Mizab",
+            "Mizaab",
+            "Golden waterspout",
+            "Waterspout",
+            "Spout of Mercy"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The golden waterspout on the roof that drains rain into the Hijr.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; histories of the Masjid al-Haram",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-kaaba-mataf",
+          "canonical": "Mataf",
+          "variants": [
+            "Mataaf",
+            "Tawaf area"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The open marble floor around the Ka'bah where tawaf is made.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; histories of the Masjid al-Haram",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-kaaba-clock-tower",
+          "canonical": "Clock Tower",
+          "variants": [
+            "Makkah Clock Tower",
+            "Abraj al-Bait",
+            "Royal Clock Tower",
+            "Mecca clock tower"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Makkah Royal Clock Tower beside the mosque, one of the world's tallest buildings.",
+          "source": {
+            "text": "Abraj Al-Bait project records",
+            "status": "needs-review"
+          },
+          "note": "It stands just outside the mosque."
+        },
+        {
+          "id": "d1013-kaaba-green-lights",
+          "canonical": "Green lights",
+          "variants": [
+            "Green markers",
+            "Green pillars",
+            "Green lines",
+            "Milayn al-Akhdarayn"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Green markers between Safa and Marwah, where men hasten their pace as Hajar ran.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; histories of the Masjid al-Haram",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-kaaba-shadharwan",
+          "canonical": "Shadharwan",
+          "variants": [
+            "Shazarwan",
+            "Shadirwan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The sloping marble base running around the foot of the Ka'bah.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; histories of the Masjid al-Haram",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-kaaba-bab-as-salam",
+          "canonical": "Bab as-Salam",
+          "variants": [
+            "Bab al-Salam",
+            "Gate of Peace"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Gate of Peace, a historic entrance to the mosque.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; histories of the Masjid al-Haram",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-kaaba-king-abdulaziz-gate",
+          "canonical": "King Abdulaziz Gate",
+          "variants": [
+            "Bab al-Malik Abdulaziz",
+            "King Abdul Aziz Gate"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "One of the main gates of the Masjid al-Haram.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah; histories of the Masjid al-Haram",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1013-dynasties",
+      "number": 4,
+      "prompt": "Name an Islamic empire, caliphate or dynasty.",
+      "answers": [
+        {
+          "id": "d1013-dynasties-ottoman-empire",
+          "canonical": "Ottoman Empire",
+          "variants": [
+            "Ottomans",
+            "Ottoman",
+            "Uthmani",
+            "Osmanli",
+            "Ottoman Caliphate"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Ruled from 1299 to 1922 from Bursa, Edirne and Istanbul.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-umayyad-caliphate",
+          "canonical": "Umayyad Caliphate",
+          "variants": [
+            "Umayyads",
+            "Umayyad",
+            "Banu Umayyah",
+            "Umawi",
+            "Umayyad Empire"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Ruled from Damascus (661–750), stretching from Spain to India.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-abbasid-caliphate",
+          "canonical": "Abbasid Caliphate",
+          "variants": [
+            "Abbasids",
+            "Abbasid",
+            "Banu Abbas",
+            "Abbasid Empire"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Ruled from Baghdad (750–1258) through a golden age of learning.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-rashidun-caliphate",
+          "canonical": "Rashidun Caliphate",
+          "variants": [
+            "Rashidun",
+            "Rightly Guided Caliphs",
+            "Khulafa ar-Rashidun",
+            "Rashidun Caliphs",
+            "Khulafa Rashidun"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The four Rightly Guided Caliphs, 632–661.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-mughal-empire",
+          "canonical": "Mughal Empire",
+          "variants": [
+            "Mughals",
+            "Mughal",
+            "Moghul",
+            "Mogul Empire"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Ruled much of South Asia (1526–1857) and built the Taj Mahal.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-fatimid-caliphate",
+          "canonical": "Fatimid Caliphate",
+          "variants": [
+            "Fatimids",
+            "Fatimid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Ruled North Africa and Egypt (909–1171) and founded Cairo.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-ayyubid-dynasty",
+          "canonical": "Ayyubid dynasty",
+          "variants": [
+            "Ayyubids",
+            "Ayyubid",
+            "Ayyubid Sultanate"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Founded by Salah al-Din, who retook Jerusalem in 1187.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-mamluk-sultanate",
+          "canonical": "Mamluk Sultanate",
+          "variants": [
+            "Mamluks",
+            "Mamluk",
+            "Mameluke",
+            "Mamluk dynasty"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Ruled Egypt and Syria (1250–1517) and stopped the Mongols at 'Ayn Jalut.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-seljuk-empire",
+          "canonical": "Seljuk Empire",
+          "variants": [
+            "Seljuks",
+            "Seljuq",
+            "Saljuq",
+            "Great Seljuk Empire",
+            "Seljuqs"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Turkic sultans who ruled much of the Middle East in the 11th–12th centuries.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-safavid-empire",
+          "canonical": "Safavid Empire",
+          "variants": [
+            "Safavids",
+            "Safavid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Ruled Iran (1501–1736) from Tabriz, Qazvin and Isfahan.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-caliphate-of-cordoba",
+          "canonical": "Caliphate of Cordoba",
+          "variants": [
+            "Emirate of Cordoba",
+            "Umayyads of Cordoba",
+            "Umayyads of al-Andalus",
+            "Cordoba Caliphate"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Umayyads of al-Andalus (756–1031), ruling Spain from Cordoba.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-almoravids",
+          "canonical": "Almoravids",
+          "variants": [
+            "Murabitun",
+            "Al-Murabitun",
+            "Almoravid"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Al-Murabitun, a Berber dynasty that ruled Morocco and al-Andalus (1040–1147).",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-almohads",
+          "canonical": "Almohads",
+          "variants": [
+            "Muwahhidun",
+            "Al-Muwahhidun",
+            "Almohad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Al-Muwahhidun, who ruled North Africa and al-Andalus (1121–1269).",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-nasrid-dynasty",
+          "canonical": "Nasrid dynasty",
+          "variants": [
+            "Nasrids",
+            "Nasrid",
+            "Emirate of Granada",
+            "Banu Nasr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The last Muslim rulers in Spain (1232–1492), builders of the Alhambra.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-delhi-sultanate",
+          "canonical": "Delhi Sultanate",
+          "variants": [
+            "Delhi Sultans"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Ruled northern India from Delhi (1206–1526).",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-timurid-empire",
+          "canonical": "Timurid Empire",
+          "variants": [
+            "Timurids",
+            "Timurid"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Founded by Timur; Samarkand flourished under his successors (1370–1507).",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-ghaznavid-empire",
+          "canonical": "Ghaznavid Empire",
+          "variants": [
+            "Ghaznavids",
+            "Ghaznavid"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Ruled from Ghazni (977–1186); best known for Mahmud of Ghazni.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-mali-empire",
+          "canonical": "Mali Empire",
+          "variants": [
+            "Empire of Mali"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "West African empire (c. 1235–1600) of Mansa Musa, famed for his Hajj.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-songhai-empire",
+          "canonical": "Songhai Empire",
+          "variants": [
+            "Songhay",
+            "Songhai"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "West African empire of Gao and Timbuktu (15th–16th centuries).",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-aghlabids",
+          "canonical": "Aghlabids",
+          "variants": [
+            "Aghlabid"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ruled Ifriqiya from Kairouan (800–909).",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-idrisids",
+          "canonical": "Idrisids",
+          "variants": [
+            "Idrisid",
+            "Idrisid dynasty"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The first Islamic dynasty of Morocco (788–974), founders of Fez.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-tulunids",
+          "canonical": "Tulunids",
+          "variants": [
+            "Tulunid"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ruled Egypt (868–905); Ahmad ibn Tulun built Cairo's great mosque.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-samanids",
+          "canonical": "Samanids",
+          "variants": [
+            "Samanid"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ruled from Bukhara (819–999), patrons of Persian learning.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-buyids",
+          "canonical": "Buyids",
+          "variants": [
+            "Buyid",
+            "Buwayhids",
+            "Buwayhid"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ruled Iraq and Iran in the 10th–11th centuries.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-sokoto-caliphate",
+          "canonical": "Sokoto Caliphate",
+          "variants": [
+            "Sokoto"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Founded by Usman dan Fodio in West Africa (1804–1903).",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-malacca-sultanate",
+          "canonical": "Malacca Sultanate",
+          "variants": [
+            "Sultanate of Malacca",
+            "Melaka Sultanate"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A Malay sultanate (c. 1400–1511) that spread Islam across Southeast Asia.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-dynasties-ilkhanate",
+          "canonical": "Ilkhanate",
+          "variants": [
+            "Ilkhanid",
+            "Ilkhanids"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A Mongol state in Iran whose rulers embraced Islam around 1295.",
+          "source": {
+            "text": "Encyclopaedia of Islam (2nd ed.); standard histories",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1013-metals-gems",
+      "number": 5,
+      "prompt": "Name a metal or precious stone mentioned in the Qur'an.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Diamond",
+            "Diamonds",
+            "Emerald",
+            "Platinum",
+            "Sapphire",
+            "Bronze",
+            "Lead",
+            "Tin"
+          ],
+          "message": "That one isn't mentioned in the Qur'an. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1013-metals-gems-gold",
+          "canonical": "Gold",
+          "variants": [
+            "Dhahab",
+            "Zahab"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The people of Paradise are adorned with bracelets of gold.",
+          "source": {
+            "text": "Qur'an 18:31; 3:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-metals-gems-silver",
+          "canonical": "Silver",
+          "variants": [
+            "Fiddah",
+            "Fizza",
+            "Fidda"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Vessels of silver are passed around in Paradise.",
+          "source": {
+            "text": "Qur'an 76:15; 3:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-metals-gems-iron",
+          "canonical": "Iron",
+          "variants": [
+            "Hadid",
+            "Hadeed"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah al-Hadid: Allah sent down iron, with great strength and benefits.",
+          "source": {
+            "text": "Qur'an 57:25",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-metals-gems-pearls",
+          "canonical": "Pearls",
+          "variants": [
+            "Pearl",
+            "Lu'lu'",
+            "Lulu",
+            "Lulu"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Pearls come from the two seas, and adorn the people of Paradise.",
+          "source": {
+            "text": "Qur'an 55:22; 22:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-metals-gems-coral",
+          "canonical": "Coral",
+          "variants": [
+            "Marjan",
+            "Corals"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Coral comes out of the two seas.",
+          "source": {
+            "text": "Qur'an 55:22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-metals-gems-rubies",
+          "canonical": "Rubies",
+          "variants": [
+            "Ruby",
+            "Yaqut",
+            "Yaqoot"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The maidens of Paradise are like rubies and coral.",
+          "source": {
+            "text": "Qur'an 55:58",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-metals-gems-copper",
+          "canonical": "Copper",
+          "variants": [
+            "Molten copper",
+            "Qitr",
+            "Brass",
+            "Nuhas"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Dhul-Qarnayn poured molten copper over his iron barrier.",
+          "source": {
+            "text": "Qur'an 18:96; 34:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-metals-gems-crystal",
+          "canonical": "Crystal",
+          "variants": [
+            "Glass",
+            "Qawarir"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Goblets of crystal-clear silver are passed around in Paradise.",
+          "source": {
+            "text": "Qur'an 76:15–16",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1013-arabic-days",
+      "number": 6,
+      "prompt": "Name a day of the week in Arabic.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Friday",
+            "Saturday",
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "message": "Give its Arabic name. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1013-arabic-days-al-jumuah",
+          "canonical": "Al-Jumu'ah",
+          "variants": [
+            "Jumuah",
+            "Jumah",
+            "Jummah",
+            "Juma",
+            "Yawm al-Jumuah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Friday — the day of congregation; Surah al-Jumu'ah is named after it.",
+          "source": {
+            "text": "Qur'an 62:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-arabic-days-as-sabt",
+          "canonical": "As-Sabt",
+          "variants": [
+            "Sabt",
+            "Yawm as-Sabt"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Saturday — the Sabbath of the Children of Israel.",
+          "source": {
+            "text": "Qur'an 7:163",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1013-arabic-days-al-ahad",
+          "canonical": "Al-Ahad",
+          "variants": [
+            "Ahad",
+            "Yawm al-Ahad"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sunday — from ahad, 'one', the first day.",
+          "source": {
+            "text": "Arabic lexicons",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-arabic-days-al-ithnayn",
+          "canonical": "Al-Ithnayn",
+          "variants": [
+            "Ithnayn",
+            "Ithnain",
+            "Isnain",
+            "Itnain",
+            "Ithnin",
+            "Yawm al-Ithnayn"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Monday — 'the second'; the Prophet ﷺ was born on a Monday and fasted on it.",
+          "source": {
+            "text": "Sahih Muslim 1162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-arabic-days-al-khamis",
+          "canonical": "Al-Khamis",
+          "variants": [
+            "Khamis",
+            "Khamees",
+            "Yawm al-Khamis"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Thursday — 'the fifth'; deeds are presented to Allah on Mondays and Thursdays.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 747",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-arabic-days-ath-thulatha",
+          "canonical": "Ath-Thulatha'",
+          "variants": [
+            "Thulatha",
+            "Thalatha",
+            "Thulathaa",
+            "Thulatha",
+            "Yawm ath-Thulatha"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Tuesday — 'the third'.",
+          "source": {
+            "text": "Arabic lexicons",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1013-arabic-days-al-arbia",
+          "canonical": "Al-Arbi'a'",
+          "variants": [
+            "Arbia",
+            "Arbaa",
+            "Arba'a",
+            "Arbiaa",
+            "Arbiaa",
+            "Yawm al-Arbia"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Wednesday — 'the fourth'.",
+          "source": {
+            "text": "Arabic lexicons",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

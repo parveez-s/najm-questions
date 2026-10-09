@@ -1,0 +1,4366 @@
+{
+  "date": "2026-10-09",
+  "questions": [
+    {
+      "id": "q1-prophets",
+      "number": 1,
+      "prompt": "Name a prophet explicitly mentioned in the Qur'an.",
+      "answers": [
+        {
+          "id": "prophet-adam",
+          "canonical": "Adam",
+          "honorific": "AS",
+          "variants": [
+            "Adam"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first human being and the first prophet. Allah taught him the names of all things.",
+          "source": {
+            "text": "Qur'an 2:31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-idris",
+          "canonical": "Idris",
+          "honorific": "AS",
+          "variants": [
+            "Idrees",
+            "Idriss",
+            "Enoch"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Described in the Qur'an as \"a man of truth and a prophet\" whom Allah raised to a high station.",
+          "source": {
+            "text": "Qur'an 19:56–57",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh",
+          "canonical": "Nuh",
+          "honorific": "AS",
+          "variants": [
+            "Nooh",
+            "Nuuh",
+            "Nouh",
+            "Noah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Called his people to Allah for 950 years before the great flood.",
+          "source": {
+            "text": "Qur'an 29:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-hud",
+          "canonical": "Hud",
+          "honorific": "AS",
+          "variants": [
+            "Hood",
+            "Houd"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sent to the ancient people of 'Ad, calling them to worship Allah alone.",
+          "source": {
+            "text": "Qur'an 11:50",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-salih",
+          "canonical": "Salih",
+          "honorific": "AS",
+          "variants": [
+            "Saleh",
+            "Saalih",
+            "Salah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sent to the people of Thamud, with a she-camel from Allah as a sign.",
+          "source": {
+            "text": "Qur'an 11:61–64",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim",
+          "canonical": "Ibrahim",
+          "honorific": "AS",
+          "variants": [
+            "Ebrahim",
+            "Ibraheem",
+            "Ibrahem",
+            "Abraham"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Called Khalil — the intimate friend of Allah. He raised the foundations of the Ka'bah with his son Ismail.",
+          "source": {
+            "text": "Qur'an 4:125; 2:127",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-lut",
+          "canonical": "Lut",
+          "honorific": "AS",
+          "variants": [
+            "Loot",
+            "Lout",
+            "Luth",
+            "Lot"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Believed in Ibrahim's message and warned his own people against their wrongdoing.",
+          "source": {
+            "text": "Qur'an 29:26; 7:80",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ismail",
+          "canonical": "Ismail",
+          "honorific": "AS",
+          "variants": [
+            "Ismaeel",
+            "Ismael",
+            "Ismaiel",
+            "Ismail",
+            "Ishmael"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Son of Ibrahim, praised in the Qur'an as \"true to his promise\". He helped build the Ka'bah.",
+          "source": {
+            "text": "Qur'an 19:54; 2:127",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ishaq",
+          "canonical": "Ishaq",
+          "honorific": "AS",
+          "variants": [
+            "Ishaaq",
+            "Is'haq",
+            "Isaac"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Son of Ibrahim, given as good tidings to Ibrahim and his wife in their old age.",
+          "source": {
+            "text": "Qur'an 11:71; 37:112",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yaqub",
+          "canonical": "Yaqub",
+          "honorific": "AS",
+          "variants": [
+            "Yaqoob",
+            "Yakub",
+            "Yaqoub",
+            "Yaaqub",
+            "Ya'qub",
+            "Jacob"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Son of Ishaq and father of Yusuf. On his deathbed he asked his sons whom they would worship after him.",
+          "source": {
+            "text": "Qur'an 2:133",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf",
+          "canonical": "Yusuf",
+          "honorific": "AS",
+          "variants": [
+            "Yousuf",
+            "Yousef",
+            "Yusef",
+            "Yoosuf",
+            "Joseph"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His story — from the bottom of a well to trusted office in Egypt — fills an entire surah.",
+          "source": {
+            "text": "Qur'an 12:4; 12:55",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ayyub",
+          "canonical": "Ayyub",
+          "honorific": "AS",
+          "variants": [
+            "Ayub",
+            "Ayoub",
+            "Ayyoub",
+            "Ayoob",
+            "Job"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Qur'an's great example of patience through illness and loss: \"Indeed, We found him patient.\"",
+          "source": {
+            "text": "Qur'an 21:83–84; 38:44",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-shuayb",
+          "canonical": "Shu'ayb",
+          "honorific": "AS",
+          "variants": [
+            "Shuayb",
+            "Shoaib",
+            "Shuaib",
+            "Shuaib",
+            "Shoayb",
+            "Shuaiyb"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Sent to the people of Madyan, urging them to give full and honest measure and weight.",
+          "source": {
+            "text": "Qur'an 11:84–85",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa",
+          "canonical": "Musa",
+          "honorific": "AS",
+          "variants": [
+            "Moosa",
+            "Mousa",
+            "Musa",
+            "Moses"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Allah spoke to him directly. He is the prophet named most often in the Qur'an.",
+          "source": {
+            "text": "Qur'an 4:164; 20:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-harun",
+          "canonical": "Harun",
+          "honorific": "AS",
+          "variants": [
+            "Haroon",
+            "Haroun",
+            "Harun",
+            "Aaron"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Brother of Musa, appointed to strengthen and support him in his mission.",
+          "source": {
+            "text": "Qur'an 20:29–32",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-dhul-kifl",
+          "canonical": "Dhul-Kifl",
+          "honorific": "AS",
+          "variants": [
+            "Dhulkifl",
+            "Zulkifl",
+            "Zul Kifl",
+            "Thul Kifl",
+            "Dhu al-Kifl",
+            "Dhul Kifl"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named among the patient and the righteous — the Qur'an tells us very little else about him.",
+          "source": {
+            "text": "Qur'an 21:85–86; 38:48",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-dawud",
+          "canonical": "Dawud",
+          "honorific": "AS",
+          "variants": [
+            "Dawood",
+            "Daud",
+            "Dawoud",
+            "Daood",
+            "David"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Given the Zabur (Psalms). The mountains and the birds joined him in glorifying Allah.",
+          "source": {
+            "text": "Qur'an 4:163; 34:10",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman",
+          "canonical": "Sulayman",
+          "honorific": "AS",
+          "variants": [
+            "Sulaiman",
+            "Suleiman",
+            "Sulaymaan",
+            "Suleman",
+            "Sulayman",
+            "Solomon"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Taught the speech of birds and given command over the wind and the jinn.",
+          "source": {
+            "text": "Qur'an 27:16; 34:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ilyas",
+          "canonical": "Ilyas",
+          "honorific": "AS",
+          "variants": [
+            "Ilyaas",
+            "Elyas",
+            "Elias",
+            "Ilias",
+            "Elijah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Called his people away from worshipping the idol Ba'l.",
+          "source": {
+            "text": "Qur'an 37:123–125",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-al-yasa",
+          "canonical": "Al-Yasa'",
+          "honorific": "AS",
+          "variants": [
+            "Alyasa",
+            "Al Yasa",
+            "Elyasa",
+            "Alyasaa",
+            "Yasa",
+            "Elisha"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Mentioned twice in the Qur'an, counted among the chosen and the best.",
+          "source": {
+            "text": "Qur'an 6:86; 38:48",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yunus",
+          "canonical": "Yunus",
+          "honorific": "AS",
+          "variants": [
+            "Younus",
+            "Yunis",
+            "Younes",
+            "Yunes",
+            "Jonah",
+            "Dhun-Nun",
+            "Dhul Nun",
+            "Zunnun"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Swallowed by a great fish, he called out: \"There is no deity except You; exalted are You.\"",
+          "source": {
+            "text": "Qur'an 21:87; 37:139–142",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-zakariyya",
+          "canonical": "Zakariyya",
+          "honorific": "AS",
+          "variants": [
+            "Zakariya",
+            "Zakaria",
+            "Zakariyah",
+            "Zakariyya",
+            "Zachariah",
+            "Zechariah",
+            "Zacharias"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Guardian of Maryam, who was granted a son, Yahya, in his old age.",
+          "source": {
+            "text": "Qur'an 3:37–39",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yahya",
+          "canonical": "Yahya",
+          "honorific": "AS",
+          "variants": [
+            "Yahyah",
+            "Yahia",
+            "Yehya",
+            "John",
+            "John the Baptist"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Son of Zakariyya — the Qur'an notes that no one before him had been given that name.",
+          "source": {
+            "text": "Qur'an 19:7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa",
+          "canonical": "Isa",
+          "honorific": "AS",
+          "variants": [
+            "Eesa",
+            "Essa",
+            "Issa",
+            "Esa",
+            "Isa",
+            "Jesus",
+            "Isa ibn Maryam",
+            "Jesus son of Mary"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Born miraculously to Maryam and given the Injil (Gospel).",
+          "source": {
+            "text": "Qur'an 19:30; 5:46",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-muhammad",
+          "canonical": "Muhammad",
+          "honorific": "ﷺ",
+          "variants": [
+            "Mohammad",
+            "Mohammed",
+            "Muhammed",
+            "Mohamed",
+            "Muhamad",
+            "Ahmad",
+            "Ahmed"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The final messenger — the Qur'an calls him the \"Seal of the Prophets\".",
+          "source": {
+            "text": "Qur'an 33:40; 48:29",
+            "status": "quran-reference"
+          }
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Luqman",
+            "Lukman",
+            "Loqman"
+          ],
+          "message": "Luqman is named in the Qur'an (Surah 31), but he is usually regarded as a wise man rather than a prophet. Try another name!"
+        },
+        {
+          "inputs": [
+            "Khidr",
+            "Khizr",
+            "Khadir",
+            "Al-Khidr"
+          ],
+          "message": "Al-Khidr is not named explicitly in the Qur'an. Try another prophet!"
+        },
+        {
+          "inputs": [
+            "Dhul-Qarnayn",
+            "Dhulqarnayn",
+            "Zulqarnain",
+            "Dhul Qarnain"
+          ],
+          "message": "Dhul-Qarnayn is named in Surah Al-Kahf, but scholars differ on whether he was a prophet. Try another name!"
+        },
+        {
+          "inputs": [
+            "Uzayr",
+            "Uzair",
+            "Ezra"
+          ],
+          "message": "'Uzayr is named once in the Qur'an (9:30), but whether he was a prophet is debated. Try another name!"
+        },
+        {
+          "inputs": [
+            "Maryam",
+            "Mariam",
+            "Mary"
+          ],
+          "message": "Maryam is the only woman named in the Qur'an — but she is not counted among the prophets. Try another name!"
+        }
+      ]
+    },
+    {
+      "id": "q2-surahs",
+      "number": 2,
+      "prompt": "Name a Surah of the Qur'an.",
+      "answers": [
+        {
+          "id": "surah-al-fatihah",
+          "canonical": "Al-Fatihah",
+          "variants": [
+            "Fatiha",
+            "Faatiha",
+            "Opening",
+            "Umm al-Kitab"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 1 of the Qur'an, with 7 verses. Its name means \"The Opening\". It is recited in every unit (rak'ah) of the prayer.",
+          "source": {
+            "text": "Qur'an Surah 1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-baqarah",
+          "canonical": "Al-Baqarah",
+          "variants": [
+            "Baqara",
+            "Bakara",
+            "The Cow"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 2 of the Qur'an, with 286 verses. Its name means \"The Cow\". The longest surah, containing Ayat al-Kursi (2:255).",
+          "source": {
+            "text": "Qur'an Surah 2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-aal-imran",
+          "canonical": "Aal-Imran",
+          "variants": [
+            "Imran",
+            "Al Imran",
+            "Ali Imran",
+            "Aali Imran",
+            "Family of Imran"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 3 of the Qur'an, with 200 verses. Its name means \"The Family of Imran\".",
+          "source": {
+            "text": "Qur'an Surah 3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-an-nisa",
+          "canonical": "An-Nisa",
+          "variants": [
+            "Nisa",
+            "Nisaa",
+            "The Women"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 4 of the Qur'an, with 176 verses. Its name means \"The Women\".",
+          "source": {
+            "text": "Qur'an Surah 4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-maidah",
+          "canonical": "Al-Ma'idah",
+          "variants": [
+            "Maidah",
+            "Maida",
+            "Maaida",
+            "The Table",
+            "Table Spread"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 5 of the Qur'an, with 120 verses. Its name means \"The Table Spread\".",
+          "source": {
+            "text": "Qur'an Surah 5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-anam",
+          "canonical": "Al-An'am",
+          "variants": [
+            "Anam",
+            "Anaam",
+            "The Cattle"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 6 of the Qur'an, with 165 verses. Its name means \"The Cattle\".",
+          "source": {
+            "text": "Qur'an Surah 6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-araf",
+          "canonical": "Al-A'raf",
+          "variants": [
+            "Araf",
+            "Aaraf",
+            "The Heights"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 7 of the Qur'an, with 206 verses. Its name means \"The Heights\".",
+          "source": {
+            "text": "Qur'an Surah 7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-anfal",
+          "canonical": "Al-Anfal",
+          "variants": [
+            "Anfal",
+            "Spoils of War"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 8 of the Qur'an, with 75 verses. Its name means \"The Spoils of War\".",
+          "source": {
+            "text": "Qur'an Surah 8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-at-tawbah",
+          "canonical": "At-Tawbah",
+          "variants": [
+            "Tawba",
+            "Taubah",
+            "Tauba",
+            "Tawbah",
+            "Repentance",
+            "Bara'ah",
+            "Baraah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 9 of the Qur'an, with 129 verses. Its name means \"The Repentance\". The only surah that does not begin with \"Bismillah\".",
+          "source": {
+            "text": "Qur'an Surah 9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-yunus",
+          "canonical": "Yunus",
+          "variants": [
+            "Younus",
+            "Yunis",
+            "Jonah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 10 of the Qur'an, with 109 verses. Its name means \"Jonah\".",
+          "source": {
+            "text": "Qur'an Surah 10",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-hud",
+          "canonical": "Hud",
+          "variants": [
+            "Hood",
+            "Houd"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 11 of the Qur'an, with 123 verses.",
+          "source": {
+            "text": "Qur'an Surah 11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-yusuf",
+          "canonical": "Yusuf",
+          "variants": [
+            "Yousuf",
+            "Yousef",
+            "Joseph"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 12 of the Qur'an, with 111 verses. Its name means \"Joseph\". It tells the story of Prophet Yusuf as one continuous narrative.",
+          "source": {
+            "text": "Qur'an Surah 12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ar-rad",
+          "canonical": "Ar-Ra'd",
+          "variants": [
+            "Rad",
+            "Raad",
+            "The Thunder",
+            "Thunder"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 13 of the Qur'an, with 43 verses. Its name means \"The Thunder\".",
+          "source": {
+            "text": "Qur'an Surah 13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ibrahim",
+          "canonical": "Ibrahim",
+          "variants": [
+            "Ebrahim",
+            "Ibraheem",
+            "Abraham"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 14 of the Qur'an, with 52 verses. Its name means \"Abraham\".",
+          "source": {
+            "text": "Qur'an Surah 14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-hijr",
+          "canonical": "Al-Hijr",
+          "variants": [
+            "Hijr",
+            "Rocky Tract"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 15 of the Qur'an, with 99 verses. Its name means \"The Rocky Tract\".",
+          "source": {
+            "text": "Qur'an Surah 15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-an-nahl",
+          "canonical": "An-Nahl",
+          "variants": [
+            "Nahl",
+            "The Bee",
+            "Bee"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 16 of the Qur'an, with 128 verses. Its name means \"The Bee\".",
+          "source": {
+            "text": "Qur'an Surah 16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-isra",
+          "canonical": "Al-Isra",
+          "variants": [
+            "Isra",
+            "Israa",
+            "Night Journey",
+            "Bani Isra'il",
+            "Bani Israil"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 17 of the Qur'an, with 111 verses. Its name means \"The Night Journey\". It opens with the Night Journey of the Prophet ﷺ.",
+          "source": {
+            "text": "Qur'an Surah 17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-kahf",
+          "canonical": "Al-Kahf",
+          "variants": [
+            "Kahf",
+            "Kahaf",
+            "The Cave"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 18 of the Qur'an, with 110 verses. Its name means \"The Cave\". It tells the stories of the People of the Cave, Musa's journey with a wise servant of Allah, and Dhul-Qarnayn.",
+          "source": {
+            "text": "Qur'an Surah 18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-maryam",
+          "canonical": "Maryam",
+          "variants": [
+            "Mariam",
+            "Mariyam",
+            "Mary"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 19 of the Qur'an, with 98 verses. Its name means \"Mary\". The only surah named after a woman — Maryam, mother of Isa.",
+          "source": {
+            "text": "Qur'an Surah 19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ta-ha",
+          "canonical": "Ta-Ha",
+          "variants": [
+            "Taha",
+            "Ta Ha",
+            "Twaha"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 20 of the Qur'an, with 135 verses. Its name is formed from two Arabic letters.",
+          "source": {
+            "text": "Qur'an Surah 20",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-anbiya",
+          "canonical": "Al-Anbiya",
+          "variants": [
+            "Anbiya",
+            "Anbiyaa",
+            "The Prophets"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 21 of the Qur'an, with 112 verses. Its name means \"The Prophets\".",
+          "source": {
+            "text": "Qur'an Surah 21",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-hajj",
+          "canonical": "Al-Hajj",
+          "variants": [
+            "Hajj",
+            "Haj",
+            "Pilgrimage"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 22 of the Qur'an, with 78 verses. Its name means \"The Pilgrimage\".",
+          "source": {
+            "text": "Qur'an Surah 22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-muminun",
+          "canonical": "Al-Mu'minun",
+          "variants": [
+            "Muminun",
+            "Muminoon",
+            "Mominoon",
+            "The Believers"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 23 of the Qur'an, with 118 verses. Its name means \"The Believers\".",
+          "source": {
+            "text": "Qur'an Surah 23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-an-nur",
+          "canonical": "An-Nur",
+          "variants": [
+            "Nur",
+            "Noor",
+            "The Light"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 24 of the Qur'an, with 64 verses. Its name means \"The Light\". It contains the famous Verse of Light (24:35).",
+          "source": {
+            "text": "Qur'an Surah 24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-furqan",
+          "canonical": "Al-Furqan",
+          "variants": [
+            "Furqan",
+            "Furqaan",
+            "The Criterion"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 25 of the Qur'an, with 77 verses. Its name means \"The Criterion\".",
+          "source": {
+            "text": "Qur'an Surah 25",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ash-shuara",
+          "canonical": "Ash-Shu'ara",
+          "variants": [
+            "Shuara",
+            "Shuaraa",
+            "Shoara",
+            "The Poets"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 26 of the Qur'an, with 227 verses. Its name means \"The Poets\".",
+          "source": {
+            "text": "Qur'an Surah 26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-an-naml",
+          "canonical": "An-Naml",
+          "variants": [
+            "Naml",
+            "The Ant",
+            "The Ants"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 27 of the Qur'an, with 93 verses. Its name means \"The Ant\". It contains \"Bismillah\" twice: at its start and in Sulayman's letter (27:30).",
+          "source": {
+            "text": "Qur'an Surah 27",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-qasas",
+          "canonical": "Al-Qasas",
+          "variants": [
+            "Qasas",
+            "Kasas",
+            "The Stories"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 28 of the Qur'an, with 88 verses. Its name means \"The Stories\".",
+          "source": {
+            "text": "Qur'an Surah 28",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-ankabut",
+          "canonical": "Al-'Ankabut",
+          "variants": [
+            "Ankabut",
+            "Ankaboot",
+            "The Spider"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 29 of the Qur'an, with 69 verses. Its name means \"The Spider\".",
+          "source": {
+            "text": "Qur'an Surah 29",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ar-rum",
+          "canonical": "Ar-Rum",
+          "variants": [
+            "Rum",
+            "Room",
+            "Roum",
+            "The Romans"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 30 of the Qur'an, with 60 verses. Its name means \"The Romans\". It foretold the Romans' victory after their defeat (30:2–4).",
+          "source": {
+            "text": "Qur'an Surah 30",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-luqman",
+          "canonical": "Luqman",
+          "variants": [
+            "Lukman",
+            "Loqman"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 31 of the Qur'an, with 34 verses. It contains Luqman's wise advice to his son.",
+          "source": {
+            "text": "Qur'an Surah 31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-as-sajdah",
+          "canonical": "As-Sajdah",
+          "variants": [
+            "Sajdah",
+            "Sajda",
+            "Sajdha",
+            "The Prostration"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 32 of the Qur'an, with 30 verses. Its name means \"The Prostration\".",
+          "source": {
+            "text": "Qur'an Surah 32",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-ahzab",
+          "canonical": "Al-Ahzab",
+          "variants": [
+            "Ahzab",
+            "Ahzaab",
+            "The Confederates",
+            "The Clans"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 33 of the Qur'an, with 73 verses. Its name means \"The Confederates\".",
+          "source": {
+            "text": "Qur'an Surah 33",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-saba",
+          "canonical": "Saba",
+          "variants": [
+            "Saba'",
+            "Sabaa",
+            "Sheba"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 34 of the Qur'an, with 54 verses. Its name means \"Sheba\".",
+          "source": {
+            "text": "Qur'an Surah 34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-fatir",
+          "canonical": "Fatir",
+          "variants": [
+            "Faatir",
+            "Fater",
+            "The Originator"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 35 of the Qur'an, with 45 verses. Its name means \"The Originator\".",
+          "source": {
+            "text": "Qur'an Surah 35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ya-sin",
+          "canonical": "Ya-Sin",
+          "variants": [
+            "Yasin",
+            "Yaseen",
+            "Yaaseen",
+            "Ya Seen"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 36 of the Qur'an, with 83 verses. Its name is formed from two Arabic letters, Ya and Sin.",
+          "source": {
+            "text": "Qur'an Surah 36",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-as-saffat",
+          "canonical": "As-Saffat",
+          "variants": [
+            "Saffat",
+            "Saaffat",
+            "Saffaat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 37 of the Qur'an, with 182 verses. Its name means \"Those Ranged in Ranks\".",
+          "source": {
+            "text": "Qur'an Surah 37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-sad",
+          "canonical": "Sad",
+          "variants": [
+            "Saad",
+            "Swad",
+            "Suad"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 38 of the Qur'an, with 88 verses. Its name is a single Arabic letter.",
+          "source": {
+            "text": "Qur'an Surah 38",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-az-zumar",
+          "canonical": "Az-Zumar",
+          "variants": [
+            "Zumar",
+            "The Groups",
+            "The Crowds"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 39 of the Qur'an, with 75 verses. Its name means \"The Groups\".",
+          "source": {
+            "text": "Qur'an Surah 39",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ghafir",
+          "canonical": "Ghafir",
+          "variants": [
+            "Ghaafir",
+            "Ghafer",
+            "The Forgiver",
+            "Al-Mu'min",
+            "Mumin"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 40 of the Qur'an, with 85 verses. Its name means \"The Forgiver\".",
+          "source": {
+            "text": "Qur'an Surah 40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-fussilat",
+          "canonical": "Fussilat",
+          "variants": [
+            "Fussilat",
+            "Fusilat",
+            "Ha Mim Sajdah",
+            "Explained in Detail"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 41 of the Qur'an, with 54 verses. Its name means \"Explained in Detail\".",
+          "source": {
+            "text": "Qur'an Surah 41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ash-shura",
+          "canonical": "Ash-Shura",
+          "variants": [
+            "Shura",
+            "Shoora",
+            "Consultation"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 42 of the Qur'an, with 53 verses. Its name means \"The Consultation\".",
+          "source": {
+            "text": "Qur'an Surah 42",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-az-zukhruf",
+          "canonical": "Az-Zukhruf",
+          "variants": [
+            "Zukhruf",
+            "Zukhraf",
+            "Ornaments of Gold",
+            "Gold Adornments"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 43 of the Qur'an, with 89 verses. Its name means \"The Ornaments of Gold\".",
+          "source": {
+            "text": "Qur'an Surah 43",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ad-dukhan",
+          "canonical": "Ad-Dukhan",
+          "variants": [
+            "Dukhan",
+            "Dukhaan",
+            "The Smoke"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 44 of the Qur'an, with 59 verses. Its name means \"The Smoke\". A fitting answer for a rocket game!",
+          "source": {
+            "text": "Qur'an Surah 44",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-jathiyah",
+          "canonical": "Al-Jathiyah",
+          "variants": [
+            "Jathiya",
+            "Jathiyah",
+            "Jaathiya",
+            "The Kneeling"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 45 of the Qur'an, with 37 verses. Its name means \"The Kneeling\".",
+          "source": {
+            "text": "Qur'an Surah 45",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-ahqaf",
+          "canonical": "Al-Ahqaf",
+          "variants": [
+            "Ahqaf",
+            "Ahqaaf",
+            "The Sand Dunes"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 46 of the Qur'an, with 35 verses. Its name means \"The Wind-Curved Sandhills\".",
+          "source": {
+            "text": "Qur'an Surah 46",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-muhammad",
+          "canonical": "Muhammad",
+          "variants": [
+            "Mohammad",
+            "Mohammed",
+            "Muhammed"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 47 of the Qur'an, with 38 verses.",
+          "source": {
+            "text": "Qur'an Surah 47",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-fath",
+          "canonical": "Al-Fath",
+          "variants": [
+            "Fath",
+            "Fatah",
+            "The Victory"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 48 of the Qur'an, with 29 verses. Its name means \"The Victory\". Revealed in connection with the Treaty of Hudaybiyyah.",
+          "source": {
+            "text": "Qur'an Surah 48",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-hujurat",
+          "canonical": "Al-Hujurat",
+          "variants": [
+            "Hujurat",
+            "Hujuraat",
+            "The Rooms",
+            "The Private Apartments"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 49 of the Qur'an, with 18 verses. Its name means \"The Rooms\".",
+          "source": {
+            "text": "Qur'an Surah 49",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-qaf",
+          "canonical": "Qaf",
+          "variants": [
+            "Qaaf",
+            "Kaf"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 50 of the Qur'an, with 45 verses. Its name is a single Arabic letter.",
+          "source": {
+            "text": "Qur'an Surah 50",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-adh-dhariyat",
+          "canonical": "Adh-Dhariyat",
+          "variants": [
+            "Dhariyat",
+            "Dhariyaat",
+            "Zariyat",
+            "Thariyat",
+            "Winnowing Winds"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 51 of the Qur'an, with 60 verses. Its name means \"The Winnowing Winds\".",
+          "source": {
+            "text": "Qur'an Surah 51",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-at-tur",
+          "canonical": "At-Tur",
+          "variants": [
+            "Tur",
+            "Toor",
+            "The Mount"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 52 of the Qur'an, with 49 verses. Its name means \"The Mount\".",
+          "source": {
+            "text": "Qur'an Surah 52",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-an-najm",
+          "canonical": "An-Najm",
+          "variants": [
+            "Najm",
+            "The Star"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 53 of the Qur'an, with 62 verses. Its name means \"The Star\".",
+          "source": {
+            "text": "Qur'an Surah 53",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-qamar",
+          "canonical": "Al-Qamar",
+          "variants": [
+            "Qamar",
+            "Kamar",
+            "The Moon"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 54 of the Qur'an, with 55 verses. Its name means \"The Moon\".",
+          "source": {
+            "text": "Qur'an Surah 54",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ar-rahman",
+          "canonical": "Ar-Rahman",
+          "variants": [
+            "Rahman",
+            "Rahmaan",
+            "Rehman",
+            "The Most Merciful"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 55 of the Qur'an, with 78 verses. Its name means \"The Most Merciful\". It repeatedly asks: \"Which of the favours of your Lord will you deny?\"",
+          "source": {
+            "text": "Qur'an Surah 55",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-waqiah",
+          "canonical": "Al-Waqi'ah",
+          "variants": [
+            "Waqiah",
+            "Waqia",
+            "Waqiya",
+            "Waaqiah",
+            "The Inevitable"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 56 of the Qur'an, with 96 verses. Its name means \"The Inevitable Event\".",
+          "source": {
+            "text": "Qur'an Surah 56",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-hadid",
+          "canonical": "Al-Hadid",
+          "variants": [
+            "Hadid",
+            "Hadeed",
+            "Iron",
+            "The Iron"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 57 of the Qur'an, with 29 verses. Its name means \"The Iron\". It mentions that Allah \"sent down iron\" (57:25).",
+          "source": {
+            "text": "Qur'an Surah 57",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-mujadilah",
+          "canonical": "Al-Mujadilah",
+          "variants": [
+            "Mujadila",
+            "Mujadalah",
+            "Mujaadila",
+            "The Pleading Woman"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 58 of the Qur'an, with 22 verses. Its name means \"The Pleading Woman\". It opens with a woman who brought her complaint to the Prophet ﷺ.",
+          "source": {
+            "text": "Qur'an Surah 58",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-hashr",
+          "canonical": "Al-Hashr",
+          "variants": [
+            "Hashr",
+            "Hashar",
+            "The Exile",
+            "The Gathering"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 59 of the Qur'an, with 24 verses. Its name means \"The Gathering\".",
+          "source": {
+            "text": "Qur'an Surah 59",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-mumtahanah",
+          "canonical": "Al-Mumtahanah",
+          "variants": [
+            "Mumtahanah",
+            "Mumtahina",
+            "Mumtahana",
+            "Mumtahinah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 60 of the Qur'an, with 13 verses. Its name means \"She Who Is Examined\".",
+          "source": {
+            "text": "Qur'an Surah 60",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-as-saff",
+          "canonical": "As-Saff",
+          "variants": [
+            "Saff",
+            "Saf",
+            "The Ranks"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 61 of the Qur'an, with 14 verses. Its name means \"The Ranks\".",
+          "source": {
+            "text": "Qur'an Surah 61",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-jumuah",
+          "canonical": "Al-Jumu'ah",
+          "variants": [
+            "Jumuah",
+            "Jumua",
+            "Jumma",
+            "Jummah",
+            "Juma",
+            "Friday"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 62 of the Qur'an, with 11 verses. Its name means \"Friday\". It instructs believers to hasten to the Friday prayer (62:9).",
+          "source": {
+            "text": "Qur'an Surah 62",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-munafiqun",
+          "canonical": "Al-Munafiqun",
+          "variants": [
+            "Munafiqun",
+            "Munafiqoon",
+            "Munafiqeen",
+            "The Hypocrites"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 63 of the Qur'an, with 11 verses. Its name means \"The Hypocrites\".",
+          "source": {
+            "text": "Qur'an Surah 63",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-at-taghabun",
+          "canonical": "At-Taghabun",
+          "variants": [
+            "Taghabun",
+            "Taghaabun",
+            "Mutual Disillusion"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 64 of the Qur'an, with 18 verses. Its name means \"Mutual Loss and Gain\".",
+          "source": {
+            "text": "Qur'an Surah 64",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-at-talaq",
+          "canonical": "At-Talaq",
+          "variants": [
+            "Talaq",
+            "Talaaq",
+            "Divorce"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 65 of the Qur'an, with 12 verses. Its name means \"Divorce\".",
+          "source": {
+            "text": "Qur'an Surah 65",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-at-tahrim",
+          "canonical": "At-Tahrim",
+          "variants": [
+            "Tahrim",
+            "Tahreem",
+            "The Prohibition"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 66 of the Qur'an, with 12 verses. Its name means \"The Prohibition\".",
+          "source": {
+            "text": "Qur'an Surah 66",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-mulk",
+          "canonical": "Al-Mulk",
+          "variants": [
+            "Mulk",
+            "The Sovereignty",
+            "The Dominion",
+            "Tabarak"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 67 of the Qur'an, with 30 verses. Its name means \"The Sovereignty\". It begins: \"Blessed is He in whose hand is dominion.\"",
+          "source": {
+            "text": "Qur'an Surah 67",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-qalam",
+          "canonical": "Al-Qalam",
+          "variants": [
+            "Qalam",
+            "Kalam",
+            "The Pen",
+            "Nun"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 68 of the Qur'an, with 52 verses. Its name means \"The Pen\".",
+          "source": {
+            "text": "Qur'an Surah 68",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-haqqah",
+          "canonical": "Al-Haqqah",
+          "variants": [
+            "Haqqah",
+            "Haqqa",
+            "Haaqqa",
+            "The Reality"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 69 of the Qur'an, with 52 verses. Its name means \"The Inevitable Reality\".",
+          "source": {
+            "text": "Qur'an Surah 69",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-maarij",
+          "canonical": "Al-Ma'arij",
+          "variants": [
+            "Maarij",
+            "Ma'aarij",
+            "Maarej",
+            "The Ascending Stairways"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 70 of the Qur'an, with 44 verses. Its name means \"The Ascending Stairways\".",
+          "source": {
+            "text": "Qur'an Surah 70",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-nuh",
+          "canonical": "Nuh",
+          "variants": [
+            "Nooh",
+            "Nouh",
+            "Noah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 71 of the Qur'an, with 28 verses. Its name means \"Noah\".",
+          "source": {
+            "text": "Qur'an Surah 71",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-jinn",
+          "canonical": "Al-Jinn",
+          "variants": [
+            "Jinn",
+            "Jin",
+            "The Jinn"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 72 of the Qur'an, with 28 verses. Its name means \"The Jinn\".",
+          "source": {
+            "text": "Qur'an Surah 72",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-muzzammil",
+          "canonical": "Al-Muzzammil",
+          "variants": [
+            "Muzzammil",
+            "Muzammil",
+            "Muzzamil",
+            "The Enwrapped"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 73 of the Qur'an, with 20 verses. Its name means \"The Enwrapped One\".",
+          "source": {
+            "text": "Qur'an Surah 73",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-muddaththir",
+          "canonical": "Al-Muddaththir",
+          "variants": [
+            "Muddaththir",
+            "Muddathir",
+            "Mudassir",
+            "Muddassir",
+            "The Cloaked"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 74 of the Qur'an, with 56 verses. Its name means \"The Cloaked One\".",
+          "source": {
+            "text": "Qur'an Surah 74",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-qiyamah",
+          "canonical": "Al-Qiyamah",
+          "variants": [
+            "Qiyamah",
+            "Qiyama",
+            "Qiyaamah",
+            "Resurrection"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 75 of the Qur'an, with 40 verses. Its name means \"The Resurrection\".",
+          "source": {
+            "text": "Qur'an Surah 75",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-insan",
+          "canonical": "Al-Insan",
+          "variants": [
+            "Insan",
+            "Insaan",
+            "Man",
+            "Ad-Dahr",
+            "Dahr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 76 of the Qur'an, with 31 verses. Its name means \"Man\".",
+          "source": {
+            "text": "Qur'an Surah 76",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-mursalat",
+          "canonical": "Al-Mursalat",
+          "variants": [
+            "Mursalat",
+            "Mursalaat",
+            "Those Sent Forth"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 77 of the Qur'an, with 50 verses. Its name means \"Those Sent Forth\".",
+          "source": {
+            "text": "Qur'an Surah 77",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-an-naba",
+          "canonical": "An-Naba",
+          "variants": [
+            "Naba",
+            "Nabaa",
+            "Naba'",
+            "The News",
+            "The Great News",
+            "Amma"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 78 of the Qur'an, with 40 verses. Its name means \"The Great News\".",
+          "source": {
+            "text": "Qur'an Surah 78",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-an-naziat",
+          "canonical": "An-Nazi'at",
+          "variants": [
+            "Naziat",
+            "Naziaat",
+            "Naaziat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 79 of the Qur'an, with 46 verses. Its name means \"Those Who Pull Out\".",
+          "source": {
+            "text": "Qur'an Surah 79",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-abasa",
+          "canonical": "'Abasa",
+          "variants": [
+            "Abasa",
+            "Abasa",
+            "He Frowned"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 80 of the Qur'an, with 42 verses. Its name means \"He Frowned\". It teaches that every sincere seeker of guidance deserves attention.",
+          "source": {
+            "text": "Qur'an Surah 80",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-at-takwir",
+          "canonical": "At-Takwir",
+          "variants": [
+            "Takwir",
+            "Takweer",
+            "The Folding Up",
+            "The Overthrowing"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 81 of the Qur'an, with 29 verses. Its name means \"The Folding Up\".",
+          "source": {
+            "text": "Qur'an Surah 81",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-infitar",
+          "canonical": "Al-Infitar",
+          "variants": [
+            "Infitar",
+            "Infitaar",
+            "The Cleaving"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 82 of the Qur'an, with 19 verses. Its name means \"The Cleaving\".",
+          "source": {
+            "text": "Qur'an Surah 82",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-mutaffifin",
+          "canonical": "Al-Mutaffifin",
+          "variants": [
+            "Mutaffifin",
+            "Mutaffifeen",
+            "Mutafifin",
+            "The Defrauders"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 83 of the Qur'an, with 36 verses. Its name means \"Those Who Give Short Measure\".",
+          "source": {
+            "text": "Qur'an Surah 83",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-inshiqaq",
+          "canonical": "Al-Inshiqaq",
+          "variants": [
+            "Inshiqaq",
+            "Inshiqaaq",
+            "The Splitting"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 84 of the Qur'an, with 25 verses. Its name means \"The Splitting Open\".",
+          "source": {
+            "text": "Qur'an Surah 84",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-buruj",
+          "canonical": "Al-Buruj",
+          "variants": [
+            "Buruj",
+            "Burooj",
+            "Constellations",
+            "The Mansions of the Stars"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 85 of the Qur'an, with 22 verses. Its name means \"The Constellations\". Its name suits a journey through the stars!",
+          "source": {
+            "text": "Qur'an Surah 85",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-at-tariq",
+          "canonical": "At-Tariq",
+          "variants": [
+            "Tariq",
+            "Taariq",
+            "Tarik",
+            "The Night Comer",
+            "The Morning Star"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 86 of the Qur'an, with 17 verses. Its name means \"The Night Comer\".",
+          "source": {
+            "text": "Qur'an Surah 86",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-ala",
+          "canonical": "Al-A'la",
+          "variants": [
+            "Ala",
+            "Aala",
+            "Alaa",
+            "The Most High"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 87 of the Qur'an, with 19 verses. Its name means \"The Most High\".",
+          "source": {
+            "text": "Qur'an Surah 87",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-ghashiyah",
+          "canonical": "Al-Ghashiyah",
+          "variants": [
+            "Ghashiyah",
+            "Ghashiya",
+            "Ghaashiya",
+            "The Overwhelming"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 88 of the Qur'an, with 26 verses. Its name means \"The Overwhelming\".",
+          "source": {
+            "text": "Qur'an Surah 88",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-fajr",
+          "canonical": "Al-Fajr",
+          "variants": [
+            "Fajr",
+            "Fajar",
+            "The Dawn"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 89 of the Qur'an, with 30 verses. Its name means \"The Dawn\".",
+          "source": {
+            "text": "Qur'an Surah 89",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-balad",
+          "canonical": "Al-Balad",
+          "variants": [
+            "Balad",
+            "The City"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 90 of the Qur'an, with 20 verses. Its name means \"The City\".",
+          "source": {
+            "text": "Qur'an Surah 90",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ash-shams",
+          "canonical": "Ash-Shams",
+          "variants": [
+            "Shams",
+            "The Sun"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 91 of the Qur'an, with 15 verses. Its name means \"The Sun\".",
+          "source": {
+            "text": "Qur'an Surah 91",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-layl",
+          "canonical": "Al-Layl",
+          "variants": [
+            "Layl",
+            "Lail",
+            "Lail",
+            "The Night"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 92 of the Qur'an, with 21 verses. Its name means \"The Night\".",
+          "source": {
+            "text": "Qur'an Surah 92",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ad-duha",
+          "canonical": "Ad-Duha",
+          "variants": [
+            "Duha",
+            "Dhuha",
+            "Zuha",
+            "The Morning"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 93 of the Qur'an, with 11 verses. Its name means \"The Morning Brightness\". It reassured the Prophet ﷺ: \"Your Lord has not forsaken you.\"",
+          "source": {
+            "text": "Qur'an Surah 93",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-ash-sharh",
+          "canonical": "Ash-Sharh",
+          "variants": [
+            "Sharh",
+            "Inshirah",
+            "Alam Nashrah",
+            "The Relief"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 94 of the Qur'an, with 8 verses. Its name means \"The Relief\". It promises: \"Indeed, with hardship comes ease.\" (94:6)",
+          "source": {
+            "text": "Qur'an Surah 94",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-at-tin",
+          "canonical": "At-Tin",
+          "variants": [
+            "Tin",
+            "Teen",
+            "The Fig"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 95 of the Qur'an, with 8 verses. Its name means \"The Fig\".",
+          "source": {
+            "text": "Qur'an Surah 95",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-alaq",
+          "canonical": "Al-'Alaq",
+          "variants": [
+            "Alaq",
+            "Alak",
+            "Iqra",
+            "The Clot"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 96 of the Qur'an, with 19 verses. Its name means \"The Clinging Clot\". Its opening verses were the first revelation received by the Prophet ﷺ.",
+          "source": {
+            "text": "Qur'an Surah 96",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-qadr",
+          "canonical": "Al-Qadr",
+          "variants": [
+            "Qadr",
+            "Qadar",
+            "Kadr",
+            "The Night of Power",
+            "The Decree"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 97 of the Qur'an, with 5 verses. Its name means \"The Night of Decree\". It describes Laylat al-Qadr, \"better than a thousand months\" (97:3).",
+          "source": {
+            "text": "Qur'an Surah 97",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-bayyinah",
+          "canonical": "Al-Bayyinah",
+          "variants": [
+            "Bayyinah",
+            "Bayyina",
+            "Bayinah",
+            "The Clear Evidence"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Surah 98 of the Qur'an, with 8 verses. Its name means \"The Clear Proof\".",
+          "source": {
+            "text": "Qur'an Surah 98",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-az-zalzalah",
+          "canonical": "Az-Zalzalah",
+          "variants": [
+            "Zalzalah",
+            "Zalzala",
+            "Zilzal",
+            "The Earthquake"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 99 of the Qur'an, with 8 verses. Its name means \"The Earthquake\".",
+          "source": {
+            "text": "Qur'an Surah 99",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-adiyat",
+          "canonical": "Al-'Adiyat",
+          "variants": [
+            "Adiyat",
+            "Aadiyat",
+            "Adiyaat",
+            "The Chargers",
+            "The Courser"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 100 of the Qur'an, with 11 verses. Its name means \"The Chargers\".",
+          "source": {
+            "text": "Qur'an Surah 100",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-qariah",
+          "canonical": "Al-Qari'ah",
+          "variants": [
+            "Qariah",
+            "Qaria",
+            "Qaariah",
+            "The Calamity"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 101 of the Qur'an, with 11 verses. Its name means \"The Striking Calamity\".",
+          "source": {
+            "text": "Qur'an Surah 101",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-at-takathur",
+          "canonical": "At-Takathur",
+          "variants": [
+            "Takathur",
+            "Takaathur",
+            "Takasur",
+            "Rivalry in Increase"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 102 of the Qur'an, with 8 verses. Its name means \"Competition for More\".",
+          "source": {
+            "text": "Qur'an Surah 102",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-asr",
+          "canonical": "Al-'Asr",
+          "variants": [
+            "Asr",
+            "Asar",
+            "Time",
+            "The Declining Day"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 103 of the Qur'an, with 3 verses. Its name means \"Time\". In three verses it sums up the path to success: faith, good deeds, and urging one another to truth and patience.",
+          "source": {
+            "text": "Qur'an Surah 103",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-humazah",
+          "canonical": "Al-Humazah",
+          "variants": [
+            "Humazah",
+            "Humaza",
+            "The Slanderer"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 104 of the Qur'an, with 9 verses. Its name means \"The Slanderer\".",
+          "source": {
+            "text": "Qur'an Surah 104",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-fil",
+          "canonical": "Al-Fil",
+          "variants": [
+            "Fil",
+            "Feel",
+            "The Elephant"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 105 of the Qur'an, with 5 verses. Its name means \"The Elephant\". It recalls the army of the elephant that marched on the Ka'bah.",
+          "source": {
+            "text": "Qur'an Surah 105",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-quraysh",
+          "canonical": "Quraysh",
+          "variants": [
+            "Quraish",
+            "Qureish",
+            "Kuraish"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 106 of the Qur'an, with 4 verses. It reminds the tribe of Quraysh of their winter and summer journeys.",
+          "source": {
+            "text": "Qur'an Surah 106",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-maun",
+          "canonical": "Al-Ma'un",
+          "variants": [
+            "Maun",
+            "Maaun",
+            "Maoon",
+            "Small Kindnesses"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 107 of the Qur'an, with 7 verses. Its name means \"Small Kindnesses\".",
+          "source": {
+            "text": "Qur'an Surah 107",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-kawthar",
+          "canonical": "Al-Kawthar",
+          "variants": [
+            "Kawthar",
+            "Kauthar",
+            "Kausar",
+            "Kawsar",
+            "Abundance"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 108 of the Qur'an, with 3 verses. Its name means \"Abundance\". The shortest surah in the Qur'an.",
+          "source": {
+            "text": "Qur'an Surah 108",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-kafirun",
+          "canonical": "Al-Kafirun",
+          "variants": [
+            "Kafirun",
+            "Kafiroon",
+            "Kaafiroon",
+            "Kafirun",
+            "The Disbelievers"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 109 of the Qur'an, with 6 verses. Its name means \"The Disbelievers\".",
+          "source": {
+            "text": "Qur'an Surah 109",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-an-nasr",
+          "canonical": "An-Nasr",
+          "variants": [
+            "Nasr",
+            "Nasar",
+            "Divine Help",
+            "The Victory of Allah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 110 of the Qur'an, with 3 verses. Its name means \"Divine Help\".",
+          "source": {
+            "text": "Qur'an Surah 110",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-masad",
+          "canonical": "Al-Masad",
+          "variants": [
+            "Masad",
+            "Lahab",
+            "Abu Lahab",
+            "Tabbat",
+            "Palm Fibre"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 111 of the Qur'an, with 5 verses. Its name means \"The Palm Fibre\". It names Abu Lahab, the Prophet's uncle and fierce opponent.",
+          "source": {
+            "text": "Qur'an Surah 111",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-ikhlas",
+          "canonical": "Al-Ikhlas",
+          "variants": [
+            "Ikhlas",
+            "Ikhlaas",
+            "Sincerity",
+            "Tawhid",
+            "Qul Huwallahu Ahad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 112 of the Qur'an, with 4 verses. Its name means \"Sincerity\". In four short verses it declares the absolute oneness of Allah.",
+          "source": {
+            "text": "Qur'an Surah 112",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-al-falaq",
+          "canonical": "Al-Falaq",
+          "variants": [
+            "Falaq",
+            "Falak",
+            "The Daybreak"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 113 of the Qur'an, with 5 verses. Its name means \"The Daybreak\". One of the two surahs of seeking refuge, together with An-Nas.",
+          "source": {
+            "text": "Qur'an Surah 113",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surah-an-nas",
+          "canonical": "An-Nas",
+          "variants": [
+            "Nas",
+            "Naas",
+            "Mankind",
+            "Humankind"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 114 of the Qur'an, with 6 verses. Its name means \"Mankind\". The final surah of the Qur'an, and one of the two surahs of seeking refuge.",
+          "source": {
+            "text": "Qur'an Surah 114",
+            "status": "quran-reference"
+          }
+        }
+      ],
+      "clarifications": []
+    },
+    {
+      "id": "q3-animals",
+      "number": 3,
+      "prompt": "Name an animal mentioned in the Qur'an.",
+      "answers": [
+        {
+          "id": "animal-cow",
+          "canonical": "Cow",
+          "variants": [
+            "Cows",
+            "Heifer",
+            "Baqarah",
+            "Baqara"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah Al-Baqarah takes its name from the cow Bani Isra'il were commanded to sacrifice.",
+          "source": {
+            "text": "Qur'an 2:67",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-camel",
+          "canonical": "Camel",
+          "variants": [
+            "Camels",
+            "She-camel",
+            "She camel",
+            "Naqah",
+            "Ibil"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Do they not look at the camels — how they are created?\" Prophet Salih's people were also given a she-camel as a sign.",
+          "source": {
+            "text": "Qur'an 88:17; 7:73",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-elephant",
+          "canonical": "Elephant",
+          "variants": [
+            "Elephants",
+            "Fil"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah Al-Fil recalls the army that brought an elephant to attack the Ka'bah.",
+          "source": {
+            "text": "Qur'an 105:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-ant",
+          "canonical": "Ant",
+          "variants": [
+            "Ants",
+            "Naml"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "An ant warned the others to take cover from Sulayman's army — and Sulayman smiled at her words.",
+          "source": {
+            "text": "Qur'an 27:18–19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-bee",
+          "canonical": "Bee",
+          "variants": [
+            "Bees",
+            "Honeybee",
+            "Honey bee",
+            "Nahl"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Allah inspired the bee to build its homes; from its belly comes a drink of varying colours, with healing for people.",
+          "source": {
+            "text": "Qur'an 16:68–69",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-spider",
+          "canonical": "Spider",
+          "variants": [
+            "Spiders",
+            "Ankabut"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The weakest of homes is the house of the spider — a parable for relying on anything besides Allah.",
+          "source": {
+            "text": "Qur'an 29:41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-dog",
+          "canonical": "Dog",
+          "variants": [
+            "Dogs",
+            "Puppy",
+            "Kalb"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The dog of the People of the Cave lay stretching its forelegs at the entrance.",
+          "source": {
+            "text": "Qur'an 18:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-birds",
+          "canonical": "Birds",
+          "variants": [
+            "Bird",
+            "Tayr",
+            "Ababil",
+            "Ababeel"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Do they not see the birds above them, spreading and folding their wings?\"",
+          "source": {
+            "text": "Qur'an 67:19; 105:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-horse",
+          "canonical": "Horse",
+          "variants": [
+            "Horses",
+            "Stallion",
+            "Steed",
+            "Khayl"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Horses, mules and donkeys were created for people to ride and as adornment.",
+          "source": {
+            "text": "Qur'an 16:8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-donkey",
+          "canonical": "Donkey",
+          "variants": [
+            "Donkeys",
+            "Ass",
+            "Himar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Mentioned among the animals created for riding, and in Luqman's advice about lowering one's voice.",
+          "source": {
+            "text": "Qur'an 16:8; 31:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-whale-great-fish",
+          "canonical": "Whale (Great Fish)",
+          "variants": [
+            "Whale",
+            "Whales",
+            "Fish",
+            "Big fish",
+            "Great fish",
+            "Hut"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Prophet Yunus was swallowed by a great fish before Allah saved him.",
+          "source": {
+            "text": "Qur'an 37:142",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-snake",
+          "canonical": "Snake",
+          "variants": [
+            "Snakes",
+            "Serpent",
+            "Serpents",
+            "Viper"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Musa's staff became a moving snake as a miracle from Allah.",
+          "source": {
+            "text": "Qur'an 20:20",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-wolf",
+          "canonical": "Wolf",
+          "variants": [
+            "Wolves"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Yusuf's brothers claimed that a wolf had eaten him.",
+          "source": {
+            "text": "Qur'an 12:13–17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-crow",
+          "canonical": "Crow",
+          "variants": [
+            "Crows",
+            "Raven",
+            "Ravens",
+            "Ghurab"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Allah sent a crow scratching the ground to show the son of Adam how to bury his brother.",
+          "source": {
+            "text": "Qur'an 5:31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-apes",
+          "canonical": "Apes",
+          "variants": [
+            "Ape",
+            "Monkey",
+            "Monkeys"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Those who broke the Sabbath were told: \"Be apes, despised.\"",
+          "source": {
+            "text": "Qur'an 2:65",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-cattle-livestock",
+          "canonical": "Cattle (Livestock)",
+          "variants": [
+            "Cattle",
+            "Livestock",
+            "Grazing livestock",
+            "Anam"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Grazing livestock were created for people — for warmth, benefits, and food.",
+          "source": {
+            "text": "Qur'an 16:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-frog",
+          "canonical": "Frog",
+          "variants": [
+            "Frogs"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Frogs were one of the signs sent upon Pharaoh's people, along with the flood, locusts and lice.",
+          "source": {
+            "text": "Qur'an 7:133",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-locust",
+          "canonical": "Locust",
+          "variants": [
+            "Locusts",
+            "Grasshopper",
+            "Grasshoppers"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Locusts were one of the signs sent upon Pharaoh's people.",
+          "source": {
+            "text": "Qur'an 7:133",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-pig",
+          "canonical": "Pig",
+          "variants": [
+            "Pigs",
+            "Swine",
+            "Hog",
+            "Pork",
+            "Khinzir"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The flesh of swine is named among the foods prohibited to eat.",
+          "source": {
+            "text": "Qur'an 2:173",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-sheep",
+          "canonical": "Sheep",
+          "variants": [
+            "Ewe",
+            "Ewes",
+            "Lamb"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Two litigants came to Dawud with a dispute about ewes — one had ninety-nine, the other just one.",
+          "source": {
+            "text": "Qur'an 38:23; 6:143",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-goat",
+          "canonical": "Goat",
+          "variants": [
+            "Goats"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Goats are named among the eight kinds of grazing livestock.",
+          "source": {
+            "text": "Qur'an 6:143",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-fly",
+          "canonical": "Fly",
+          "variants": [
+            "Flies",
+            "Housefly",
+            "Dhubab"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Those worshipped besides Allah could never create even a fly, even if they all gathered together.",
+          "source": {
+            "text": "Qur'an 22:73",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-calf",
+          "canonical": "Calf",
+          "variants": [
+            "Calves",
+            "Golden calf",
+            "Veal"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Ibrahim served a roasted calf to his guests; Bani Isra'il later worshipped a calf of gold.",
+          "source": {
+            "text": "Qur'an 11:69; 2:51",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-hoopoe",
+          "canonical": "Hoopoe",
+          "variants": [
+            "Hoopoes",
+            "Hudhud",
+            "Hud hud",
+            "Hoopoe bird"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Sulayman's hoopoe brought him news of the Queen of Sheba.",
+          "source": {
+            "text": "Qur'an 27:20–22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-mule",
+          "canonical": "Mule",
+          "variants": [
+            "Mules",
+            "Bighal"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mules are mentioned alongside horses and donkeys as created for riding.",
+          "source": {
+            "text": "Qur'an 16:8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-mosquito",
+          "canonical": "Mosquito",
+          "variants": [
+            "Mosquitoes",
+            "Mosquitos",
+            "Gnat",
+            "Gnats"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Allah is not shy to use the example of a mosquito, or what is even smaller.",
+          "source": {
+            "text": "Qur'an 2:26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-lion",
+          "canonical": "Lion",
+          "variants": [
+            "Lions",
+            "Qaswarah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Those who turn away from the reminder are compared to frightened donkeys fleeing from a lion.",
+          "source": {
+            "text": "Qur'an 74:50–51",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-lice",
+          "canonical": "Lice",
+          "variants": [
+            "Louse",
+            "Lices"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Lice were one of the signs sent upon Pharaoh's people.",
+          "source": {
+            "text": "Qur'an 7:133",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-quail",
+          "canonical": "Quail",
+          "variants": [
+            "Quails",
+            "Salwa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Bani Isra'il were given manna and quails as provision in the wilderness.",
+          "source": {
+            "text": "Qur'an 2:57",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-moth",
+          "canonical": "Moth",
+          "variants": [
+            "Moths",
+            "Butterfly",
+            "Butterflies",
+            "Farash"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "On the Day of Judgement people will be \"like moths, scattered about\".",
+          "source": {
+            "text": "Qur'an 101:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "animal-termite",
+          "canonical": "Termite",
+          "variants": [
+            "Termites",
+            "Woodworm"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A small creature of the earth ate away Sulayman's staff, revealing that he had died. It is commonly understood to be a termite.",
+          "source": {
+            "text": "Qur'an 34:14",
+            "status": "quran-reference"
+          },
+          "note": "The Qur'an says \"a creature of the earth\"; identifying it as a termite is an interpretation."
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Cat",
+            "Cats",
+            "Kitten"
+          ],
+          "message": "Cats are beloved in Islamic tradition, but they aren't named in the Qur'an. Try another animal!"
+        },
+        {
+          "inputs": [
+            "Chicken",
+            "Hen",
+            "Rooster"
+          ],
+          "message": "Chickens aren't named in the Qur'an. Try another animal!"
+        }
+      ]
+    },
+    {
+      "id": "q4-companions",
+      "number": 4,
+      "prompt": "Name a companion of Prophet Muhammad ﷺ.",
+      "answers": [
+        {
+          "id": "companion-abu-bakr-as-siddiq",
+          "canonical": "Abu Bakr as-Siddiq",
+          "honorific": "RA",
+          "variants": [
+            "Abu Bakr",
+            "Abubakr",
+            "Abu Bakar",
+            "Abu Baker",
+            "Abubakar",
+            "Siddiq",
+            "As-Siddiq",
+            "Abu Bakr Siddiq"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Prophet's closest friend and the first caliph. He accompanied the Prophet ﷺ during the Hijrah to Madinah.",
+          "source": {
+            "text": "Qur'an 9:40 (commonly understood to refer to him); Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-umar-ibn-al-khattab",
+          "canonical": "Umar ibn al-Khattab",
+          "honorific": "RA",
+          "variants": [
+            "Umar",
+            "Omar",
+            "Umar Farooq",
+            "Umar al-Faruq",
+            "Farooq",
+            "Umar bin Khattab",
+            "Omar ibn Khattab"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The second caliph, known as al-Faruq — the one who distinguishes truth from falsehood.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-uthman-ibn-affan",
+          "canonical": "Uthman ibn Affan",
+          "honorific": "RA",
+          "variants": [
+            "Uthman",
+            "Usman",
+            "Othman",
+            "Osman",
+            "Usman Ghani",
+            "Uthman bin Affan"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The third caliph, called Dhun-Nurayn (\"possessor of two lights\") because he married two of the Prophet's daughters. He had the Qur'an copied into a standard written edition.",
+          "source": {
+            "text": "Historical sources; Sahih al-Bukhari, Book of the Virtues of the Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-ali-ibn-abi-talib",
+          "canonical": "Ali ibn Abi Talib",
+          "honorific": "RA",
+          "variants": [
+            "Ali",
+            "Aly",
+            "Ali bin Abi Talib",
+            "Hazrat Ali",
+            "Ali Murtaza"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Cousin of the Prophet ﷺ, husband of Fatimah, and the fourth caliph. He was among the very first to accept Islam.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-bilal-ibn-rabah",
+          "canonical": "Bilal ibn Rabah",
+          "honorific": "RA",
+          "variants": [
+            "Bilal",
+            "Bilaal",
+            "Bilal Habashi",
+            "Bilal al-Habashi",
+            "Bilal bin Rabah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Freed from slavery after enduring torture for his faith, he became the first mu'adhdhin (caller to prayer) of Islam.",
+          "source": {
+            "text": "Historical sources; Sunan Abi Dawud, Book of Prayer",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-khalid-ibn-al-walid",
+          "canonical": "Khalid ibn al-Walid",
+          "honorific": "RA",
+          "variants": [
+            "Khalid",
+            "Khaled",
+            "Khalid bin Walid",
+            "Khalid Walid",
+            "Sayfullah",
+            "Saifullah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A brilliant military commander whom the Prophet ﷺ called \"Sayfullah\" — the Sword of Allah.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Military Expeditions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-hamzah-ibn-abd-al-muttalib",
+          "canonical": "Hamzah ibn Abd al-Muttalib",
+          "honorific": "RA",
+          "variants": [
+            "Hamza",
+            "Hamzah",
+            "Hamza bin Abdul Muttalib",
+            "Sayyid al-Shuhada"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Prophet's uncle, known as the \"Lion of Allah\". He was martyred at the Battle of Uhud.",
+          "source": {
+            "text": "Historical sources (Sirah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-abu-hurayrah",
+          "canonical": "Abu Hurayrah",
+          "honorific": "RA",
+          "variants": [
+            "Abu Hurairah",
+            "Abu Huraira",
+            "Abu Hurayra",
+            "Abuhuraira",
+            "Abu Horaira"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He narrated more hadith than any other companion. His nickname means \"father of the kitten\".",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Knowledge",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-salman-al-farsi",
+          "canonical": "Salman al-Farsi",
+          "honorific": "RA",
+          "variants": [
+            "Salman",
+            "Salman Farsi",
+            "Salman the Persian",
+            "Salman al-Farisi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A Persian seeker of truth who travelled far to find Islam. He suggested digging the trench at the Battle of the Trench.",
+          "source": {
+            "text": "Historical sources (Sirah); Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-zayd-ibn-harithah",
+          "canonical": "Zayd ibn Harithah",
+          "honorific": "RA",
+          "variants": [
+            "Zayd bin Harithah",
+            "Zaid bin Haritha",
+            "Zayd ibn Haritha",
+            "Zaid ibn Harithah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The only companion mentioned by name in the Qur'an. He was the freed slave and beloved adopted son of the Prophet ﷺ.",
+          "source": {
+            "text": "Qur'an 33:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "companion-abdullah-ibn-masud",
+          "canonical": "Abdullah ibn Mas'ud",
+          "honorific": "RA",
+          "variants": [
+            "Ibn Masud",
+            "Abdullah bin Masud",
+            "Ibn Mas'ud",
+            "Abdullah ibn Masood",
+            "Ibn Masood"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "One of the earliest Muslims and a master of the Qur'an; the Prophet ﷺ loved to hear him recite.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-abdullah-ibn-abbas",
+          "canonical": "Abdullah ibn Abbas",
+          "honorific": "RA",
+          "variants": [
+            "Ibn Abbas",
+            "Abdullah bin Abbas",
+            "Ibn Abbaas"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Prophet's young cousin who became a great scholar of Qur'anic interpretation (tafsir).",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Knowledge",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-abdullah-ibn-umar",
+          "canonical": "Abdullah ibn Umar",
+          "honorific": "RA",
+          "variants": [
+            "Ibn Umar",
+            "Abdullah bin Umar",
+            "Ibn Omar"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Son of Umar, famous for carefully following the practice of the Prophet ﷺ.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-anas-ibn-malik",
+          "canonical": "Anas ibn Malik",
+          "honorific": "RA",
+          "variants": [
+            "Anas",
+            "Anas bin Malik"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Served the Prophet ﷺ in Madinah for about ten years, from when he was a young boy.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Good Manners",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-abu-ubaydah-ibn-al-jarrah",
+          "canonical": "Abu Ubaydah ibn al-Jarrah",
+          "honorific": "RA",
+          "variants": [
+            "Abu Ubaydah",
+            "Abu Ubaidah",
+            "Abu Ubaida",
+            "Abu Ubayda"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Prophet ﷺ called him \"the trustworthy one of this Ummah\".",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-sad-ibn-abi-waqqas",
+          "canonical": "Sa'd ibn Abi Waqqas",
+          "honorific": "RA",
+          "variants": [
+            "Sad ibn Abi Waqqas",
+            "Saad bin Abi Waqqas",
+            "Sad bin Abi Waqas",
+            "Saad ibn Abi Waqqas"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One of the earliest Muslims and a renowned archer, among the ten promised Paradise.",
+          "source": {
+            "text": "Sunan al-Tirmidhi (hadith of the ten promised Paradise)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-abd-al-rahman-ibn-awf",
+          "canonical": "Abd al-Rahman ibn Awf",
+          "honorific": "RA",
+          "variants": [
+            "Abdur Rahman ibn Awf",
+            "Abdurrahman bin Auf",
+            "Abdul Rahman ibn Awf",
+            "Abdurrahman ibn Awf",
+            "Abd al-Rahman bin Awf"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A generous merchant who rebuilt his fortune in Madinah and spent it for the sake of Allah. Among the ten promised Paradise.",
+          "source": {
+            "text": "Sunan al-Tirmidhi (hadith of the ten promised Paradise)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-talhah-ibn-ubaydillah",
+          "canonical": "Talhah ibn Ubaydillah",
+          "honorific": "RA",
+          "variants": [
+            "Talha",
+            "Talhah",
+            "Talha bin Ubaidullah",
+            "Talha ibn Ubaydullah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He shielded the Prophet ﷺ with his own body at the Battle of Uhud.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Military Expeditions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-zubayr-ibn-al-awwam",
+          "canonical": "Zubayr ibn al-Awwam",
+          "honorific": "RA",
+          "variants": [
+            "Zubayr",
+            "Zubair",
+            "Zubair bin Awwam",
+            "Az-Zubayr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Prophet ﷺ described him as his hawari — his special helper and disciple.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-said-ibn-zayd",
+          "canonical": "Sa'id ibn Zayd",
+          "honorific": "RA",
+          "variants": [
+            "Said ibn Zayd",
+            "Saeed bin Zaid",
+            "Said bin Zaid",
+            "Saeed ibn Zayd"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An early Muslim and brother-in-law of Umar; one of the ten promised Paradise.",
+          "source": {
+            "text": "Sunan al-Tirmidhi (hadith of the ten promised Paradise)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-muadh-ibn-jabal",
+          "canonical": "Mu'adh ibn Jabal",
+          "honorific": "RA",
+          "variants": [
+            "Muadh",
+            "Muaz",
+            "Muadh bin Jabal",
+            "Muaz bin Jabal"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A young scholar sent by the Prophet ﷺ to teach and judge in Yemen.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Zakat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-musab-ibn-umayr",
+          "canonical": "Mus'ab ibn Umayr",
+          "honorific": "RA",
+          "variants": [
+            "Musab",
+            "Musab ibn Umair",
+            "Musab bin Umair",
+            "Mus'ab"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Islam's first envoy to Madinah. He carried the Muslim banner at Uhud and was martyred there.",
+          "source": {
+            "text": "Historical sources (Sirah); Sahih al-Bukhari, Book of Funerals",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-zayd-ibn-thabit",
+          "canonical": "Zayd ibn Thabit",
+          "honorific": "RA",
+          "variants": [
+            "Zayd bin Thabit",
+            "Zaid bin Thabit",
+            "Zaid ibn Thabit"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A scribe of revelation who led the compilation of the Qur'an into a single collection.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-ubayy-ibn-kab",
+          "canonical": "Ubayy ibn Ka'b",
+          "honorific": "RA",
+          "variants": [
+            "Ubayy",
+            "Ubay",
+            "Ubai bin Kaab",
+            "Ubayy ibn Kab"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Among the foremost reciters of the Qur'an in the Prophet's time.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-abu-dharr-al-ghifari",
+          "canonical": "Abu Dharr al-Ghifari",
+          "honorific": "RA",
+          "variants": [
+            "Abu Dharr",
+            "Abu Dhar",
+            "Abu Zar",
+            "Abuzar Ghifari",
+            "Abu Dhar Ghifari"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "An early convert from the tribe of Ghifar, remembered for his honesty and simple way of life.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-ammar-ibn-yasir",
+          "canonical": "Ammar ibn Yasir",
+          "honorific": "RA",
+          "variants": [
+            "Ammar",
+            "Ammar bin Yasir",
+            "Ammar ibn Yaser"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He and his parents, Yasir and Sumayyah, were persecuted in Makkah for their faith.",
+          "source": {
+            "text": "Historical sources (Sirah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-sumayyah-bint-khayyat",
+          "canonical": "Sumayyah bint Khayyat",
+          "honorific": "RA",
+          "variants": [
+            "Sumayyah",
+            "Sumaiya",
+            "Sumaya",
+            "Sumayya",
+            "Sumaiyah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Remembered as the first martyr in Islam, killed in Makkah for refusing to give up her faith.",
+          "source": {
+            "text": "Historical sources (Sirah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-abu-ayyub-al-ansari",
+          "canonical": "Abu Ayyub al-Ansari",
+          "honorific": "RA",
+          "variants": [
+            "Abu Ayyub",
+            "Abu Ayub",
+            "Abu Ayoub",
+            "Ayyub Ansari",
+            "Abu Ayyub Ansari"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He hosted the Prophet ﷺ in his home when the Prophet first arrived in Madinah.",
+          "source": {
+            "text": "Historical sources (Sirah); Sahih Muslim, Book of Drinks",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-sad-ibn-muadh",
+          "canonical": "Sa'd ibn Mu'adh",
+          "honorific": "RA",
+          "variants": [
+            "Sad ibn Muadh",
+            "Saad bin Muaz",
+            "Sad bin Muadh",
+            "Saad ibn Muadh"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A leader of the Ansar. The Prophet ﷺ said the Throne of the Most Merciful shook at his death.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Ansar",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-hudhayfah-ibn-al-yaman",
+          "canonical": "Hudhayfah ibn al-Yaman",
+          "honorific": "RA",
+          "variants": [
+            "Hudhayfah",
+            "Hudhaifa",
+            "Huzaifa",
+            "Hudhaifah",
+            "Huzaifah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Known as the keeper of the Prophet's secrets.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-hassan-ibn-thabit",
+          "canonical": "Hassan ibn Thabit",
+          "honorific": "RA",
+          "variants": [
+            "Hassan",
+            "Hassan bin Thabit",
+            "Hasan ibn Thabit"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The poet of the Prophet ﷺ, who defended Islam through his verses.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Beginning of Creation",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-jafar-ibn-abi-talib",
+          "canonical": "Ja'far ibn Abi Talib",
+          "honorific": "RA",
+          "variants": [
+            "Jafar",
+            "Jafar ibn Abi Talib",
+            "Jafar bin Abi Talib",
+            "Jafar al-Tayyar",
+            "Jafar Tayyar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He spoke on behalf of the Muslim emigrants before the Negus, the King of Abyssinia.",
+          "source": {
+            "text": "Historical sources (Sirah); Musnad Ahmad",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-usamah-ibn-zayd",
+          "canonical": "Usamah ibn Zayd",
+          "honorific": "RA",
+          "variants": [
+            "Usama",
+            "Usamah",
+            "Osama bin Zaid",
+            "Usama bin Zaid",
+            "Usamah bin Zayd"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Son of Zayd ibn Harithah, appointed by the Prophet ﷺ to lead an army while still young.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Military Expeditions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-asma-bint-abi-bakr",
+          "canonical": "Asma bint Abi Bakr",
+          "honorific": "RA",
+          "variants": [
+            "Asma",
+            "Asmaa",
+            "Asma bint Abu Bakr",
+            "Dhat an-Nitaqayn"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Called \"she of the two belts\" for carrying food to the Prophet ﷺ and her father during the Hijrah.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-nusaybah-bint-kab",
+          "canonical": "Nusaybah bint Ka'b",
+          "honorific": "RA",
+          "variants": [
+            "Nusaybah",
+            "Nusaiba",
+            "Nusayba",
+            "Umm Umarah",
+            "Umm Ammarah",
+            "Umm Umara"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Also known as Umm 'Umarah, she defended the Prophet ﷺ in battle at Uhud.",
+          "source": {
+            "text": "Historical sources (Sirah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-julaybib",
+          "canonical": "Julaybib",
+          "honorific": "RA",
+          "variants": [
+            "Julaibib",
+            "Julaybeeb",
+            "Julebib"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A humble companion with little status in society. After he was martyred, the Prophet ﷺ said: \"He is from me and I am from him.\"",
+          "source": {
+            "text": "Sahih Muslim, Book of the Merits of the Companions (hadith of Abu Barzah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-khabbab-ibn-al-aratt",
+          "canonical": "Khabbab ibn al-Aratt",
+          "honorific": "RA",
+          "variants": [
+            "Khabbab",
+            "Khabab",
+            "Khabbab bin Arat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An early Muslim and blacksmith who was tortured in Makkah for his faith.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Virtues",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-suhayb-ar-rumi",
+          "canonical": "Suhayb ar-Rumi",
+          "honorific": "RA",
+          "variants": [
+            "Suhayb",
+            "Suhaib",
+            "Suhaib Rumi",
+            "Suhayb the Roman"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Known as \"the Roman\", he gave up all his wealth in Makkah to emigrate to Madinah.",
+          "source": {
+            "text": "Historical sources (Sirah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-abu-musa-al-ashari",
+          "canonical": "Abu Musa al-Ash'ari",
+          "honorific": "RA",
+          "variants": [
+            "Abu Musa",
+            "Abu Moosa",
+            "Abu Musa Ashari"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Prophet ﷺ praised his beautiful recitation of the Qur'an.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "companion-fatimah-bint-muhammad",
+          "canonical": "Fatimah bint Muhammad",
+          "honorific": "RA",
+          "variants": [
+            "Fatimah",
+            "Fatima",
+            "Fatimah az-Zahra",
+            "Fatima Zahra"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Prophet's beloved daughter and wife of Ali. He called her \"a part of me\".",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        }
+      ],
+      "clarifications": [
+        {
+          "inputs": [
+            "Zayd",
+            "Zaid"
+          ],
+          "message": "Can you be more specific?"
+        },
+        {
+          "inputs": [
+            "Abdullah",
+            "Abdallah"
+          ],
+          "message": "Can you be more specific?"
+        },
+        {
+          "inputs": [
+            "Sad",
+            "Saad",
+            "Sa'd"
+          ],
+          "message": "Can you be more specific?"
+        },
+        {
+          "inputs": [
+            "Abu"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Khadijah",
+            "Khadija",
+            "Aisha",
+            "Ayesha",
+            "Aishah",
+            "Hafsa",
+            "Hafsah"
+          ],
+          "message": "She was a wife of the Prophet ﷺ — save her for Question 5! Try another companion."
+        },
+        {
+          "inputs": [
+            "Abu Talib"
+          ],
+          "message": "Abu Talib raised and protected the Prophet ﷺ, but he is not counted among the companions. Try another name!"
+        },
+        {
+          "inputs": [
+            "Abu Lahab",
+            "Abu Jahl"
+          ],
+          "message": "He was an opponent of Islam, not a companion. Try another name!"
+        }
+      ]
+    },
+    {
+      "id": "q5-wives",
+      "number": 5,
+      "prompt": "Name a wife of Prophet Muhammad ﷺ.",
+      "answers": [
+        {
+          "id": "wife-khadijah-bint-khuwaylid",
+          "canonical": "Khadijah bint Khuwaylid",
+          "honorific": "RA",
+          "variants": [
+            "Khadijah",
+            "Khadija",
+            "Khadeejah",
+            "Khadeeja",
+            "Khadijah al-Kubra",
+            "Khadija bint Khuwailid"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Prophet's first wife and the first person to believe in his message. She supported him with her wealth and wisdom.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Revelation; Book of the Virtues of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "wife-aishah-bint-abi-bakr",
+          "canonical": "Aishah bint Abi Bakr",
+          "honorific": "RA",
+          "variants": [
+            "Aishah",
+            "Aisha",
+            "Ayesha",
+            "Aysha",
+            "Ayisha",
+            "Aisha Siddiqa",
+            "Aishah bint Abu Bakr",
+            "A'ishah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Daughter of Abu Bakr and one of the greatest scholars of early Islam. Many companions learned from her.",
+          "source": {
+            "text": "Qur'an 24:11–20 (commonly understood to concern her); Sahih al-Bukhari",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "wife-hafsah-bint-umar",
+          "canonical": "Hafsah bint Umar",
+          "honorific": "RA",
+          "variants": [
+            "Hafsah",
+            "Hafsa",
+            "Hafsa bint Umar",
+            "Hafsah bint Omar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Daughter of Umar ibn al-Khattab. The written collection of the Qur'an was kept in her care.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Virtues of the Qur'an",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "wife-umm-salamah",
+          "canonical": "Umm Salamah",
+          "honorific": "RA",
+          "variants": [
+            "Umm Salama",
+            "Um Salama",
+            "Umm Salmah",
+            "Hind bint Abi Umayyah",
+            "Hind bint Abi Umayya"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Known for her wisdom — her advice helped the Muslims at the Treaty of Hudaybiyyah.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Conditions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "wife-sawdah-bint-zamah",
+          "canonical": "Sawdah bint Zam'ah",
+          "honorific": "RA",
+          "variants": [
+            "Sawdah",
+            "Sawda",
+            "Sauda",
+            "Saudah",
+            "Sawda bint Zamah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She married the Prophet ﷺ after the passing of Khadijah and was known for her kindness and good humour.",
+          "source": {
+            "text": "Historical sources (Sirah); Sahih al-Bukhari, Book of Marriage",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "wife-zaynab-bint-jahsh",
+          "canonical": "Zaynab bint Jahsh",
+          "honorific": "RA",
+          "variants": [
+            "Zaynab bint Jahsh",
+            "Zainab bint Jahsh",
+            "Zainab Jahsh",
+            "Zaynab Jahsh"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Known for her generous charity. Her marriage to the Prophet ﷺ is referred to in the Qur'an.",
+          "source": {
+            "text": "Qur'an 33:37 (refers to her marriage); Sahih Muslim, Book of the Merits of the Companions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "wife-safiyyah-bint-huyayy",
+          "canonical": "Safiyyah bint Huyayy",
+          "honorific": "RA",
+          "variants": [
+            "Safiyyah",
+            "Safiya",
+            "Safiyya",
+            "Safia",
+            "Safiyah",
+            "Safiyya bint Huyay"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "From the tribe of Banu Nadir; she married the Prophet ﷺ after the expedition to Khaybar.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Military Expeditions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "wife-maymunah-bint-al-harith",
+          "canonical": "Maymunah bint al-Harith",
+          "honorific": "RA",
+          "variants": [
+            "Maymunah",
+            "Maimuna",
+            "Maymuna",
+            "Maimoona",
+            "Maimunah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The last woman the Prophet ﷺ married; she was known for her piety.",
+          "source": {
+            "text": "Historical sources (Sirah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "wife-juwayriyah-bint-al-harith",
+          "canonical": "Juwayriyah bint al-Harith",
+          "honorific": "RA",
+          "variants": [
+            "Juwayriyah",
+            "Juwairiya",
+            "Juwayriya",
+            "Juwairiyah",
+            "Juwairia"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "From the tribe of Banu al-Mustaliq. After her marriage, many captives from her tribe were freed.",
+          "source": {
+            "text": "Sunan Abi Dawud, Book of Manumission",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "wife-umm-habibah",
+          "canonical": "Umm Habibah",
+          "honorific": "RA",
+          "variants": [
+            "Umm Habiba",
+            "Um Habiba",
+            "Ramlah bint Abi Sufyan",
+            "Ramla bint Abi Sufyan",
+            "Ramlah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Daughter of Abu Sufyan. She held firm to Islam as an emigrant in Abyssinia.",
+          "source": {
+            "text": "Historical sources (Sirah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "wife-mariyah-al-qibtiyyah",
+          "canonical": "Mariyah al-Qibtiyyah",
+          "honorific": "RA",
+          "variants": [
+            "Mariyah",
+            "Maria",
+            "Mariya",
+            "Maria al-Qibtiyya",
+            "Mariya Qibtiya",
+            "Maria the Copt"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "From Egypt, she was the mother of the Prophet's son Ibrahim, who died in infancy.",
+          "source": {
+            "text": "Historical sources (Sirah)",
+            "status": "needs-review"
+          },
+          "note": "Scholars differ on whether Mariyah was a wife or a concubine of the Prophet ﷺ; she is accepted here as a member of his household."
+        },
+        {
+          "id": "wife-zaynab-bint-khuzaymah",
+          "canonical": "Zaynab bint Khuzaymah",
+          "honorific": "RA",
+          "variants": [
+            "Zaynab bint Khuzaymah",
+            "Zainab bint Khuzaima",
+            "Zainab bint Khuzaymah",
+            "Umm al-Masakin",
+            "Ummul Masakin"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Called \"Umm al-Masakin\" — mother of the poor — for her care for those in need. She passed away only months after the marriage.",
+          "source": {
+            "text": "Historical sources (Sirah)",
+            "status": "needs-review"
+          }
+        }
+      ],
+      "clarifications": [
+        {
+          "inputs": [
+            "Zaynab",
+            "Zainab",
+            "Zaynab bint",
+            "Zainab bint"
+          ],
+          "message": "Can you be more specific?"
+        },
+        {
+          "inputs": [
+            "Umm",
+            "Um"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Fatimah",
+            "Fatima",
+            "Zainab bint Muhammad",
+            "Ruqayyah",
+            "Ruqaiya",
+            "Umm Kulthum"
+          ],
+          "message": "She was one of the Prophet's daughters, not a wife. Try again!"
+        },
+        {
+          "inputs": [
+            "Aminah",
+            "Amina",
+            "Aminah bint Wahb"
+          ],
+          "message": "Aminah was the Prophet's mother. Try again!"
+        },
+        {
+          "inputs": [
+            "Halimah",
+            "Halima"
+          ],
+          "message": "Halimah was the Prophet's wet-nurse. Try again!"
+        }
+      ]
+    },
+    {
+      "id": "q6-months",
+      "number": 6,
+      "prompt": "Name a month of the Islamic calendar.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Rabi",
+            "Rabi'",
+            "Rabee",
+            "Rabi ul",
+            "Rabiul",
+            "Rabi al"
+          ],
+          "message": "Can you be more specific?"
+        },
+        {
+          "inputs": [
+            "Jumada",
+            "Jumadi",
+            "Jamadi",
+            "Jumada al",
+            "Jumada ul"
+          ],
+          "message": "Can you be more specific?"
+        },
+        {
+          "inputs": [
+            "Dhul",
+            "Dhu",
+            "Zul",
+            "Zil",
+            "Dhu al",
+            "Thul"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+          ],
+          "message": "That's a month of the Gregorian calendar. Try a month of the Islamic (Hijri) calendar!"
+        },
+        {
+          "inputs": [
+            "Eid",
+            "Eid al-Fitr",
+            "Eid ul Fitr",
+            "Eid al-Adha",
+            "Eid ul Adha",
+            "Hajj",
+            "Ashura",
+            "Laylat al-Qadr"
+          ],
+          "message": "That's a special occasion, not a month. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "month-muharram",
+          "canonical": "Muharram",
+          "variants": [
+            "Muharam",
+            "Moharram",
+            "Muharrum",
+            "Al-Muharram",
+            "Muharram al-Haram"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The first month of the Islamic year and one of the four sacred months. Its 10th day, Ashura, is a recommended day of fasting.",
+          "source": {
+            "text": "Qur'an 9:36 (the four sacred months); Sahih Muslim, Book of Fasting",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "month-safar",
+          "canonical": "Safar",
+          "variants": [
+            "Saffar",
+            "Safar al-Muzaffar",
+            "Sefer"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The second month. The Prophet ﷺ rejected the pre-Islamic belief that Safar brought bad luck.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Medicine",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "month-rabi-al-awwal",
+          "canonical": "Rabi al-Awwal",
+          "variants": [
+            "Rabi' al-Awwal",
+            "Rabi ul Awwal",
+            "Rabiul Awwal",
+            "Rabiul Awal",
+            "Rabi al Awwal",
+            "Rabi al-Awal",
+            "Rabi 1",
+            "Rabee al-Awwal",
+            "Rabi ul Awal"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The third month. Most historians place the Prophet's ﷺ birth, his arrival in Madinah after the Hijrah, and his passing in this month.",
+          "source": {
+            "text": "Classical sirah works (e.g. Ibn Hisham)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "month-rabi-al-thani",
+          "canonical": "Rabi al-Thani",
+          "variants": [
+            "Rabi' al-Thani",
+            "Rabi al-Akhir",
+            "Rabi' al-Akhir",
+            "Rabi ul Akhir",
+            "Rabiul Akhir",
+            "Rabi us Sani",
+            "Rabi al-Sani",
+            "Rabi al Thani",
+            "Rabi 2",
+            "Rabee al-Thani",
+            "Rabi ul Thani"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The fourth month. Together with the month before it, its name refers to spring — 'Rabi' means spring.",
+          "source": {
+            "text": "Classical Arabic lexicons (e.g. Lisan al-Arab)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "month-jumada-al-ula",
+          "canonical": "Jumada al-Ula",
+          "variants": [
+            "Jumada al-Awwal",
+            "Jumada al-Oola",
+            "Jumadal Ula",
+            "Jumada al Ula",
+            "Jumada ul Ula",
+            "Jumada 1",
+            "Jumadi al-Awwal",
+            "Jumadi ul Awwal",
+            "Jamadi ul Awal",
+            "Jamadi al-Awwal",
+            "Jumada al-Uwla"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The fifth month. 'Jumada' is linked to the dry or freezing season in which the months were first named.",
+          "source": {
+            "text": "Classical Arabic lexicons (e.g. Lisan al-Arab)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "month-jumada-al-akhirah",
+          "canonical": "Jumada al-Akhirah",
+          "variants": [
+            "Jumada al-Thani",
+            "Jumada al-Thaniyah",
+            "Jumada al-Akhir",
+            "Jumada al Akhirah",
+            "Jumada ul Akhira",
+            "Jumada 2",
+            "Jumadi al-Thani",
+            "Jumadi ul Akhir",
+            "Jamadi ul Akhir",
+            "Jamadi us Sani",
+            "Jumada al-Akhira"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The sixth month, which closes the first half of the Islamic year.",
+          "source": {
+            "text": "Classical Arabic lexicons (e.g. Lisan al-Arab)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "month-rajab",
+          "canonical": "Rajab",
+          "variants": [
+            "Rajjab",
+            "Rajab al-Murajjab",
+            "Rajab al-Fard"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The seventh month and one of the four sacred months, in which fighting was forbidden.",
+          "source": {
+            "text": "Qur'an 9:36 (the four sacred months); Sahih al-Bukhari, Book of Tafsir",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "month-shaban",
+          "canonical": "Sha'ban",
+          "variants": [
+            "Shaban",
+            "Shaaban",
+            "Shabaan",
+            "Shabhan",
+            "Sha'aban",
+            "Shabaan al-Muazzam"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The eighth month, just before Ramadan. The Prophet ﷺ fasted more in Sha'ban than in any other month apart from Ramadan.",
+          "source": {
+            "text": "Sahih al-Bukhari and Sahih Muslim, Book of Fasting",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "month-ramadan",
+          "canonical": "Ramadan",
+          "variants": [
+            "Ramadhan",
+            "Ramazan",
+            "Ramzan",
+            "Ramadaan",
+            "Ramathan",
+            "Ramadan al-Mubarak",
+            "Ramadhaan"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The ninth month, the month of fasting, in which the Qur'an was first revealed.",
+          "source": {
+            "text": "Qur'an 2:185",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "month-shawwal",
+          "canonical": "Shawwal",
+          "variants": [
+            "Shawal",
+            "Shawaal",
+            "Shavval",
+            "Shawwaal"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The tenth month. It begins with Eid al-Fitr, and fasting six days of Shawwal after Ramadan is recommended.",
+          "source": {
+            "text": "Sahih Muslim, Book of Fasting",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "month-dhul-qadah",
+          "canonical": "Dhul-Qa'dah",
+          "variants": [
+            "Dhul Qadah",
+            "Dhul Qada",
+            "Dhul-Qadah",
+            "Dhu al-Qadah",
+            "Dhu al-Qa'dah",
+            "Zul Qadah",
+            "Zil Qad",
+            "Zilqad",
+            "Zulqada",
+            "Dhul Qaadah",
+            "Thul Qadah",
+            "Dhu l-Qada",
+            "Dhul Qidah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The eleventh month and one of the four sacred months. Its name relates to 'sitting' — people stayed back from fighting.",
+          "source": {
+            "text": "Qur'an 9:36 (the four sacred months); Sahih al-Bukhari, Book of Tafsir",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "month-dhul-hijjah",
+          "canonical": "Dhul-Hijjah",
+          "variants": [
+            "Dhul Hijjah",
+            "Dhul Hijja",
+            "Dhu al-Hijjah",
+            "Dhul-Hijja",
+            "Zul Hijjah",
+            "Zil Hajj",
+            "Zilhaj",
+            "Zulhijja",
+            "Dhul Hijah",
+            "Thul Hijjah",
+            "Dhu l-Hijja",
+            "Zul Hijja"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The twelfth month: the month of Hajj and Eid al-Adha. Its first ten days are among the best days of the year.",
+          "source": {
+            "text": "Qur'an 2:197; Sahih al-Bukhari, Book of the Two Eids",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

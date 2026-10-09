@@ -1,0 +1,1534 @@
+{
+  "date": "2026-10-15",
+  "questions": [
+    {
+      "id": "d1015-special-days",
+      "number": 1,
+      "prompt": "Name a special day, night or season in the Islamic year.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Eid"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1015-special-days-eid-al-fitr",
+          "canonical": "Eid al-Fitr",
+          "variants": [
+            "Eid ul Fitr",
+            "Eid-ul-Fitr",
+            "Eidul Fitr",
+            "Small Eid",
+            "Choti Eid",
+            "Ramadan Eid",
+            "Eid al Fitr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The festival on 1 Shawwal that ends the month of fasting.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Two Eids",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-special-days-eid-al-adha",
+          "canonical": "Eid al-Adha",
+          "variants": [
+            "Eid ul Adha",
+            "Eid-ul-Adha",
+            "Eidul Adha",
+            "Bakri Eid",
+            "Big Eid",
+            "Bakrid",
+            "Eid of Sacrifice",
+            "Qurbani Eid",
+            "Kurban Bayram"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The festival of sacrifice on 10 Dhul-Hijjah, during Hajj.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of the Two Eids",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-special-days-ramadan",
+          "canonical": "Ramadan",
+          "variants": [
+            "Ramadhan",
+            "Ramzan",
+            "Ramazan"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The month of fasting, in which the Qur'an was first revealed.",
+          "source": {
+            "text": "Qur'an 2:185",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-special-days-laylat-al-qadr",
+          "canonical": "Laylat al-Qadr",
+          "variants": [
+            "Night of Power",
+            "Night of Decree",
+            "Lailatul Qadr",
+            "Laylatul Qadr",
+            "Shab-e-Qadr",
+            "Qadr night"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Night of Decree, better than a thousand months, in the last ten nights of Ramadan.",
+          "source": {
+            "text": "Qur'an 97:1–5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-special-days-day-of-arafah",
+          "canonical": "Day of Arafah",
+          "variants": [
+            "Arafah",
+            "Arafat day",
+            "Yawm Arafah",
+            "Day of Arafat"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "9 Dhul-Hijjah; fasting it expiates the sins of two years for those not on Hajj.",
+          "source": {
+            "text": "Sahih Muslim 1162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-special-days-jumuah",
+          "canonical": "Jumu'ah",
+          "variants": [
+            "Friday",
+            "Jummah",
+            "Juma",
+            "Jumah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Friday — the best day on which the sun rises.",
+          "source": {
+            "text": "Sahih Muslim 854",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-special-days-ashura",
+          "canonical": "Ashura",
+          "variants": [
+            "Aashura",
+            "Day of Ashura",
+            "Ashoora"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "10 Muharram — the Prophet ﷺ fasted it, recalling Musa's rescue from Fir'awn.",
+          "source": {
+            "text": "Sahih Muslim 1162; Sahih al-Bukhari 2004",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-special-days-islamic-new-year",
+          "canonical": "Islamic New Year",
+          "variants": [
+            "Hijri New Year",
+            "New Year",
+            "Ras as-Sanah al-Hijriyyah",
+            "1st Muharram"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "1 Muharram, the start of the Hijri year.",
+          "source": {
+            "text": "Hijri calendar",
+            "status": "needs-review"
+          },
+          "note": "It marks the calendar rather than being a religious festival."
+        },
+        {
+          "id": "d1015-special-days-first-ten-days-of-dhul-hijjah",
+          "canonical": "First ten days of Dhul-Hijjah",
+          "variants": [
+            "Ten days of Dhul Hijjah",
+            "First 10 days of Dhul Hijjah",
+            "Ten days"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "No days are better for good deeds than these.",
+          "source": {
+            "text": "Sahih al-Bukhari 969",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-special-days-last-ten-nights-of-ramadan",
+          "canonical": "Last ten nights of Ramadan",
+          "variants": [
+            "Last ten nights",
+            "Last 10 nights",
+            "Last ten days of Ramadan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Prophet ﷺ strove hardest in worship then, and made i'tikaf.",
+          "source": {
+            "text": "Sahih al-Bukhari 2024",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-special-days-days-of-tashriq",
+          "canonical": "Days of Tashriq",
+          "variants": [
+            "Tashriq",
+            "Ayyam at-Tashriq",
+            "Ayyam al-Tashreeq"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "11–13 Dhul-Hijjah: days of eating, drinking and remembering Allah.",
+          "source": {
+            "text": "Sahih Muslim 1141",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-special-days-isra-and-miraj",
+          "canonical": "Isra' and Mi'raj",
+          "variants": [
+            "Isra and Miraj",
+            "Night Journey",
+            "Miraj",
+            "Shab-e-Miraj",
+            "Lailat al-Miraj",
+            "Al-Isra wal Mi'raj"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The night of the Prophet's ﷺ journey to Jerusalem and ascent through the heavens.",
+          "source": {
+            "text": "Qur'an 17:1",
+            "status": "quran-reference"
+          },
+          "note": "Its date (often given as 27 Rajab) comes from later tradition."
+        },
+        {
+          "id": "d1015-special-days-mid-shaban",
+          "canonical": "Mid-Sha'ban",
+          "variants": [
+            "Laylat al-Bara'ah",
+            "Laylat al-Baraah",
+            "Shab-e-Barat",
+            "Nisf Shaban",
+            "15th of Shaban",
+            "Shab e Barat"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The 15th night of Sha'ban.",
+          "source": {
+            "text": "Sunan Ibn Majah 1390",
+            "status": "needs-review"
+          },
+          "note": "Scholars differ over the reports about this night and how it is observed."
+        },
+        {
+          "id": "d1015-special-days-mawlid",
+          "canonical": "Mawlid",
+          "variants": [
+            "Mawlid an-Nabi",
+            "Milad",
+            "Eid Milad un Nabi",
+            "Mawlud",
+            "Milad un Nabi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The anniversary of the Prophet's ﷺ birth in Rabi' al-Awwal.",
+          "source": {
+            "text": "Classical histories",
+            "status": "needs-review"
+          },
+          "note": "Scholars differ on whether it should be celebrated."
+        },
+        {
+          "id": "d1015-special-days-white-days",
+          "canonical": "White Days",
+          "variants": [
+            "Ayyam al-Bid",
+            "Ayyam al-Beed",
+            "White days fasting"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The 13th, 14th and 15th of each lunar month, when fasting is recommended.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 761",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-special-days-mondays-and-thursdays",
+          "canonical": "Mondays and Thursdays",
+          "variants": [
+            "Monday and Thursday",
+            "Mondays",
+            "Thursdays"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Days the Prophet ﷺ liked to fast, when deeds are presented to Allah.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 747",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-special-days-day-of-tarwiyah",
+          "canonical": "Day of Tarwiyah",
+          "variants": [
+            "Tarwiyah",
+            "Yawm at-Tarwiyah",
+            "Tarwiya"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "8 Dhul-Hijjah, when pilgrims set out for Mina.",
+          "source": {
+            "text": "Sahih Muslim 1218",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1015-rivers-of-paradise",
+      "number": 2,
+      "prompt": "Name a river, spring or drink of Paradise mentioned in the Qur'an or Hadith.",
+      "answers": [
+        {
+          "id": "d1015-rivers-of-paradise-al-kawthar",
+          "canonical": "Al-Kawthar",
+          "variants": [
+            "Kawthar",
+            "Kausar",
+            "Kauthar",
+            "Kawsar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The river of abundance given to the Prophet ﷺ — Surah al-Kawthar is named after it.",
+          "source": {
+            "text": "Qur'an 108:1; Sahih al-Bukhari 4964",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-rivers-of-paradise-river-of-milk",
+          "canonical": "River of milk",
+          "variants": [
+            "Milk",
+            "Rivers of milk"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Rivers of milk whose taste never changes.",
+          "source": {
+            "text": "Qur'an 47:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-rivers-of-paradise-river-of-honey",
+          "canonical": "River of honey",
+          "variants": [
+            "Honey",
+            "Rivers of honey"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Rivers of purified honey.",
+          "source": {
+            "text": "Qur'an 47:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-rivers-of-paradise-river-of-water",
+          "canonical": "River of water",
+          "variants": [
+            "Water",
+            "Rivers of water",
+            "Pure water"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Rivers of water that never turns stale.",
+          "source": {
+            "text": "Qur'an 47:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-rivers-of-paradise-river-of-wine",
+          "canonical": "River of wine",
+          "variants": [
+            "Wine",
+            "Rivers of wine"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Rivers of a wine delicious to drink, which brings no headache or intoxication.",
+          "source": {
+            "text": "Qur'an 47:15; 37:47",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-rivers-of-paradise-salsabil",
+          "canonical": "Salsabil",
+          "variants": [
+            "Salsabeel"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A spring in Paradise called Salsabil.",
+          "source": {
+            "text": "Qur'an 76:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-rivers-of-paradise-tasnim",
+          "canonical": "Tasnim",
+          "variants": [
+            "Tasneem"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A spring from which those brought near to Allah drink.",
+          "source": {
+            "text": "Qur'an 83:27–28",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-rivers-of-paradise-kafur",
+          "canonical": "Kafur",
+          "variants": [
+            "Camphor",
+            "Kafoor"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A spring whose drink is mixed with camphor.",
+          "source": {
+            "text": "Qur'an 76:5–6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-rivers-of-paradise-the-pool",
+          "canonical": "The Pool",
+          "variants": [
+            "Hawd",
+            "Hawdh",
+            "Hauz",
+            "Hawd al-Kawthar",
+            "Pool"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Prophet's ﷺ Pool on the Day of Judgement, fed from al-Kawthar.",
+          "source": {
+            "text": "Sahih al-Bukhari 6579",
+            "status": "needs-review"
+          },
+          "note": "The Pool is on the Day of Judgement rather than inside Paradise."
+        },
+        {
+          "id": "d1015-rivers-of-paradise-sealed-nectar",
+          "canonical": "Sealed nectar",
+          "variants": [
+            "Rahiq",
+            "Rahiq Makhtum",
+            "Ar-Rahiq al-Makhtum",
+            "Pure sealed wine"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A pure drink, sealed with musk, given to the righteous.",
+          "source": {
+            "text": "Qur'an 83:25–26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-rivers-of-paradise-sayhan",
+          "canonical": "Sayhan",
+          "variants": [
+            "Saihan",
+            "Sayhoon"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named with the Jayhan, Euphrates and Nile as rivers from Paradise.",
+          "source": {
+            "text": "Sahih Muslim 2839",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-rivers-of-paradise-jayhan",
+          "canonical": "Jayhan",
+          "variants": [
+            "Jaihan",
+            "Jayhoon"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named with the Sayhan, Euphrates and Nile as rivers from Paradise.",
+          "source": {
+            "text": "Sahih Muslim 2839",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-rivers-of-paradise-euphrates",
+          "canonical": "Euphrates",
+          "variants": [
+            "Furat",
+            "Al-Furat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named among the rivers from Paradise.",
+          "source": {
+            "text": "Sahih Muslim 2839",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-rivers-of-paradise-nile",
+          "canonical": "Nile",
+          "variants": [
+            "Nil",
+            "River Nile"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named among the rivers from Paradise.",
+          "source": {
+            "text": "Sahih Muslim 2839",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1015-charity",
+      "number": 3,
+      "prompt": "Name a kind of charity or giving in Islam.",
+      "answers": [
+        {
+          "id": "d1015-charity-zakat",
+          "canonical": "Zakat",
+          "variants": [
+            "Zakah",
+            "Zakaat"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The obligatory yearly charity on wealth.",
+          "source": {
+            "text": "Qur'an 2:43",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-charity-sadaqah",
+          "canonical": "Sadaqah",
+          "variants": [
+            "Sadaqa",
+            "Sadqa",
+            "Charity",
+            "Sadaqat"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Voluntary charity, given at any time.",
+          "source": {
+            "text": "Qur'an 2:271",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-charity-zakat-al-fitr",
+          "canonical": "Zakat al-Fitr",
+          "variants": [
+            "Fitrana",
+            "Sadaqat al-Fitr",
+            "Zakatul Fitr",
+            "Fitra",
+            "Zakat ul Fitr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A small charity paid before the Eid al-Fitr prayer so the poor can celebrate too.",
+          "source": {
+            "text": "Sahih al-Bukhari 1503",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-charity-sadaqah-jariyah",
+          "canonical": "Sadaqah Jariyah",
+          "variants": [
+            "Sadaqa Jariya",
+            "Ongoing charity",
+            "Continuous charity",
+            "Sadqa e Jariya"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Ongoing charity whose reward continues after death.",
+          "source": {
+            "text": "Sahih Muslim 1631",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-charity-qurbani",
+          "canonical": "Qurbani",
+          "variants": [
+            "Udhiyah",
+            "Udhiya",
+            "Qurban",
+            "Sacrifice",
+            "Qurbani meat"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Eid al-Adha sacrifice, its meat shared with family, neighbours and the poor.",
+          "source": {
+            "text": "Qur'an 22:36",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-charity-waqf",
+          "canonical": "Waqf",
+          "variants": [
+            "Endowment",
+            "Awqaf"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "An endowment — property given so its income benefits others forever, as 'Umar did with his land.",
+          "source": {
+            "text": "Sahih al-Bukhari 2737",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-charity-fidyah",
+          "canonical": "Fidyah",
+          "variants": [
+            "Fidya"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Feeding a poor person for each fast that cannot be made up.",
+          "source": {
+            "text": "Qur'an 2:184",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-charity-kaffarah",
+          "canonical": "Kaffarah",
+          "variants": [
+            "Kaffara",
+            "Kafara",
+            "Expiation"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Expiation — such as feeding ten poor people — for a broken oath.",
+          "source": {
+            "text": "Qur'an 5:89",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-charity-qard-hasan",
+          "canonical": "Qard Hasan",
+          "variants": [
+            "Qard al-Hasan",
+            "Qardan Hasana",
+            "Goodly loan",
+            "Interest-free loan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A 'goodly loan' — lending without interest for Allah's sake.",
+          "source": {
+            "text": "Qur'an 2:245; 57:11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-charity-gifts",
+          "canonical": "Gifts",
+          "variants": [
+            "Hadiyyah",
+            "Hadiya",
+            "Gift",
+            "Hibah",
+            "Giving gifts"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Give gifts to one another and you will love one another.\"",
+          "source": {
+            "text": "Al-Bukhari, al-Adab al-Mufrad 594",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-charity-a-smile",
+          "canonical": "A smile",
+          "variants": [
+            "Smile",
+            "Smiling",
+            "Smiling at someone"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Your smile for your brother is charity.\"",
+          "source": {
+            "text": "Sunan al-Tirmidhi 1956",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-charity-a-good-word",
+          "canonical": "A good word",
+          "variants": [
+            "Good word",
+            "Kind word",
+            "Kind words",
+            "Kalimah tayyibah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"A good word is charity.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2989",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-charity-removing-harm-from-the-road",
+          "canonical": "Removing harm from the road",
+          "variants": [
+            "Removing harm",
+            "Removing something harmful from the road",
+            "Clearing the path"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Removing something harmful from the path is charity.",
+          "source": {
+            "text": "Sahih al-Bukhari 2989",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-charity-feeding-a-fasting-person",
+          "canonical": "Feeding a fasting person",
+          "variants": [
+            "Iftar",
+            "Giving iftar",
+            "Feeding iftar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Whoever gives iftar to a fasting person gets the same reward.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 807",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-charity-nadhr",
+          "canonical": "Nadhr",
+          "variants": [
+            "Nazr",
+            "Vow"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A vow to give or do good, which must be fulfilled.",
+          "source": {
+            "text": "Qur'an 76:7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-charity-ushr",
+          "canonical": "'Ushr",
+          "variants": [
+            "Ushr",
+            "Tithe"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A tenth (or twentieth) of crops given as zakat on produce.",
+          "source": {
+            "text": "Sahih al-Bukhari 1483",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-charity-khums",
+          "canonical": "Khums",
+          "variants": [
+            "One-fifth",
+            "Khumus"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A fifth, mentioned for spoils of war.",
+          "source": {
+            "text": "Qur'an 8:41",
+            "status": "quran-reference"
+          },
+          "note": "In Shia law khums is also paid on yearly surplus income."
+        }
+      ]
+    },
+    {
+      "id": "d1015-prophet-names",
+      "number": 4,
+      "prompt": "Name a name or title of Prophet Muhammad ﷺ.",
+      "answers": [
+        {
+          "id": "d1015-prophet-names-muhammad",
+          "canonical": "Muhammad",
+          "variants": [
+            "Mohammed",
+            "Mohammad",
+            "Muhammed",
+            "Mohamed"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The Praised One' — named four times in the Qur'an.",
+          "source": {
+            "text": "Qur'an 48:29",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-rasulullah",
+          "canonical": "Rasulullah",
+          "variants": [
+            "Rasul Allah",
+            "Messenger of Allah",
+            "Rasool Allah",
+            "Rasul",
+            "Rasool"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Messenger of Allah.",
+          "source": {
+            "text": "Qur'an 48:29",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-ahmad",
+          "canonical": "Ahmad",
+          "variants": [
+            "Ahmed"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The name 'Isa gave in his good news of a messenger to come.",
+          "source": {
+            "text": "Qur'an 61:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-al-amin",
+          "canonical": "Al-Amin",
+          "variants": [
+            "Amin",
+            "Ameen",
+            "The Trustworthy",
+            "As-Sadiq al-Amin"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Trustworthy' — what the Quraysh called him even before prophethood.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-seal-of-the-prophets",
+          "canonical": "Seal of the Prophets",
+          "variants": [
+            "Khatam an-Nabiyyin",
+            "Khatamun Nabiyyin",
+            "Last Prophet",
+            "Khatam al-Anbiya",
+            "Final prophet"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Khatam an-Nabiyyin — the last of the prophets.",
+          "source": {
+            "text": "Qur'an 33:40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-mercy-to-the-worlds",
+          "canonical": "Mercy to the worlds",
+          "variants": [
+            "Rahmatan lil-'Alamin",
+            "Rahmatul lil Alamin",
+            "Rahmat lil Alamin",
+            "Rahmatul Alamin"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Rahmatan lil-'alamin — sent as a mercy to all creation.",
+          "source": {
+            "text": "Qur'an 21:107",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-al-mustafa",
+          "canonical": "Al-Mustafa",
+          "variants": [
+            "Mustafa",
+            "The Chosen One",
+            "Mustapha"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Chosen One'.",
+          "source": {
+            "text": "Classical works on the Prophet's ﷺ names",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-abu-al-qasim",
+          "canonical": "Abu al-Qasim",
+          "variants": [
+            "Abul Qasim",
+            "Abu Qasim",
+            "Abul Kasim"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His kunyah, after his son al-Qasim.",
+          "source": {
+            "text": "Sahih al-Bukhari 3537",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-al-mahi",
+          "canonical": "Al-Mahi",
+          "variants": [
+            "Mahi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Eraser', through whom Allah erases disbelief.",
+          "source": {
+            "text": "Sahih al-Bukhari 3532",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-al-hashir",
+          "canonical": "Al-Hashir",
+          "variants": [
+            "Hashir"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Gatherer', at whose feet people will be gathered.",
+          "source": {
+            "text": "Sahih al-Bukhari 3532",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-al-aqib",
+          "canonical": "Al-'Aqib",
+          "variants": [
+            "Aqib",
+            "'Aqib"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Last', after whom there is no prophet.",
+          "source": {
+            "text": "Sahih al-Bukhari 3532",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-bashir",
+          "canonical": "Bashir",
+          "variants": [
+            "Basheer",
+            "Bearer of good news",
+            "Bearer of glad tidings"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A bearer of good news.",
+          "source": {
+            "text": "Qur'an 33:45",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-nadhir",
+          "canonical": "Nadhir",
+          "variants": [
+            "Nazir",
+            "Nadheer",
+            "Warner"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A warner.",
+          "source": {
+            "text": "Qur'an 33:45",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-siraj-munir",
+          "canonical": "Siraj Munir",
+          "variants": [
+            "Siraj al-Munir",
+            "Sirajan Munira",
+            "Shining lamp",
+            "Light-giving lamp"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A light-giving lamp.",
+          "source": {
+            "text": "Qur'an 33:46",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-shahid",
+          "canonical": "Shahid",
+          "variants": [
+            "Shaheed",
+            "Witness"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A witness over his nation.",
+          "source": {
+            "text": "Qur'an 33:45",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-prophet-of-mercy",
+          "canonical": "Prophet of Mercy",
+          "variants": [
+            "Nabi al-Rahmah",
+            "Nabiyy ar-Rahmah",
+            "Nabi ur Rahmah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Nabi al-Rahmah, one of the names he gave himself.",
+          "source": {
+            "text": "Sahih Muslim 2355",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-al-muzzammil",
+          "canonical": "Al-Muzzammil",
+          "variants": [
+            "Muzzammil",
+            "The Enwrapped One",
+            "Muzammil"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'The Enwrapped One', addressed at the start of Surah 73.",
+          "source": {
+            "text": "Qur'an 73:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-al-muddaththir",
+          "canonical": "Al-Muddaththir",
+          "variants": [
+            "Muddaththir",
+            "Muddassir",
+            "The Cloaked One",
+            "Mudathir"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'The Cloaked One', addressed at the start of Surah 74.",
+          "source": {
+            "text": "Qur'an 74:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-prophet-names-habibullah",
+          "canonical": "Habibullah",
+          "variants": [
+            "Habib Allah",
+            "Beloved of Allah",
+            "Habeebullah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'The Beloved of Allah', a popular title.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3616",
+            "status": "needs-review"
+          },
+          "note": "The hadith giving this title is considered weak by many scholars."
+        },
+        {
+          "id": "d1015-prophet-names-abdullah",
+          "canonical": "'Abdullah",
+          "variants": [
+            "Abdullah",
+            "Servant of Allah",
+            "Abd Allah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'The servant of Allah' — the Qur'an calls him so.",
+          "source": {
+            "text": "Qur'an 72:19",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1015-mountains",
+      "number": 5,
+      "prompt": "Name a mountain or hill from the Qur'an or the life of the Prophet ﷺ.",
+      "answers": [
+        {
+          "id": "d1015-mountains-mount-uhud",
+          "canonical": "Mount Uhud",
+          "variants": [
+            "Uhud",
+            "Jabal Uhud",
+            "Ohud"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"A mountain that loves us and we love it\" — site of the Battle of Uhud.",
+          "source": {
+            "text": "Sahih al-Bukhari 4083",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-mountains-mount-sinai",
+          "canonical": "Mount Sinai",
+          "variants": [
+            "Sinai",
+            "Tur",
+            "Mount Tur",
+            "Tur Sina",
+            "Jabal Musa",
+            "At-Tur"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Tur Sinin, where Allah spoke to Musa.",
+          "source": {
+            "text": "Qur'an 95:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-mountains-mount-arafat",
+          "canonical": "Mount Arafat",
+          "variants": [
+            "Arafat",
+            "Jabal ar-Rahmah",
+            "Mount of Mercy",
+            "Arafah",
+            "Jabal Rahmah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Jabal ar-Rahmah, the Mount of Mercy, on the plain of Arafah.",
+          "source": {
+            "text": "Qur'an 2:198 (Arafat)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-mountains-jabal-an-nur",
+          "canonical": "Jabal an-Nur",
+          "variants": [
+            "Cave Hira",
+            "Hira",
+            "Mount Hira",
+            "Mountain of Light",
+            "Jabal Nur",
+            "Ghar Hira"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The 'Mountain of Light', whose cave of Hira is where the first revelation came.",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-mountains-mount-thawr",
+          "canonical": "Mount Thawr",
+          "variants": [
+            "Thawr",
+            "Jabal Thawr",
+            "Cave Thawr",
+            "Ghar Thawr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Its cave sheltered the Prophet ﷺ and Abu Bakr on the Hijrah.",
+          "source": {
+            "text": "Qur'an 9:40 (the cave); Sahih al-Bukhari 3905",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-mountains-mount-judi",
+          "canonical": "Mount Judi",
+          "variants": [
+            "Judi",
+            "Al-Judi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Where Nuh's ark came to rest.",
+          "source": {
+            "text": "Qur'an 11:44",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-mountains-safa",
+          "canonical": "Safa",
+          "variants": [
+            "As-Safa",
+            "Mount Safa"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The hill where Sa'i begins.",
+          "source": {
+            "text": "Qur'an 2:158",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-mountains-marwah",
+          "canonical": "Marwah",
+          "variants": [
+            "Marwa",
+            "Al-Marwah",
+            "Mount Marwah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The hill where Sa'i ends.",
+          "source": {
+            "text": "Qur'an 2:158",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-mountains-archers-hill",
+          "canonical": "Archers' Hill",
+          "variants": [
+            "Jabal ar-Rumat",
+            "Jabal ar-Rumah",
+            "Hill of the archers",
+            "Archers hill",
+            "Jabal Rumat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The small hill at Uhud where the archers were posted.",
+          "source": {
+            "text": "Sahih al-Bukhari 3039",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-mountains-abu-qubays",
+          "canonical": "Abu Qubays",
+          "variants": [
+            "Jabal Abu Qubays",
+            "Abu Qubais"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The mountain overlooking the Sacred Mosque in Makkah.",
+          "source": {
+            "text": "Al-Azraqi, Akhbar Makkah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-mountains-mount-sal",
+          "canonical": "Mount Sal'",
+          "variants": [
+            "Sal",
+            "Sala",
+            "Jabal Sal",
+            "Jabal Sal'"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The mountain in Madinah near which the trench was dug.",
+          "source": {
+            "text": "Sirah of Ibn Hisham",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-mountains-mount-ayr",
+          "canonical": "Mount 'Ayr",
+          "variants": [
+            "Ayr",
+            "Jabal Ayr",
+            "Eer"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Marks a boundary of Madinah's sanctuary.",
+          "source": {
+            "text": "Sahih al-Bukhari 1870",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1015-grandchildren",
+      "number": 6,
+      "prompt": "Name a grandchild of Prophet Muhammad ﷺ.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Zaynab",
+            "Zainab",
+            "Umm Kulthum"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Ali",
+            "'Ali",
+            "Ali ibn Abi Talib"
+          ],
+          "message": "'Ali was the Prophet's ﷺ cousin and son-in-law. Try again!"
+        },
+        {
+          "inputs": [
+            "Fatimah",
+            "Fatima",
+            "Ruqayyah",
+            "Ibrahim",
+            "Qasim"
+          ],
+          "message": "That was one of his children. Try a grandchild!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1015-grandchildren-al-hasan",
+          "canonical": "Al-Hasan",
+          "honorific": "RA",
+          "variants": [
+            "Hasan",
+            "Hassan",
+            "Hasan ibn Ali",
+            "Imam Hasan"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Son of 'Ali and Fatimah — \"master of the youth of Paradise\".",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3768",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-grandchildren-al-husayn",
+          "canonical": "Al-Husayn",
+          "honorific": "RA",
+          "variants": [
+            "Husayn",
+            "Hussain",
+            "Husain",
+            "Hussein",
+            "Husayn ibn Ali",
+            "Imam Husayn"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Son of 'Ali and Fatimah, martyred at Karbala in 61 AH.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3768",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-grandchildren-zaynab-bint-ali",
+          "canonical": "Zaynab bint 'Ali",
+          "honorific": "RA",
+          "variants": [
+            "Zainab bint Ali",
+            "Zaynab bint Ali",
+            "Sayyida Zaynab",
+            "Sayyidah Zainab"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Daughter of 'Ali and Fatimah, who spoke out bravely after Karbala.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-grandchildren-umm-kulthum-bint-ali",
+          "canonical": "Umm Kulthum bint 'Ali",
+          "honorific": "RA",
+          "variants": [
+            "Umm Kulthum bint Ali"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Daughter of 'Ali and Fatimah, who married 'Umar ibn al-Khattab.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-grandchildren-umamah-bint-abi-al-as",
+          "canonical": "Umamah bint Abi al-'As",
+          "honorific": "RA",
+          "variants": [
+            "Umamah",
+            "Umama",
+            "Umamah bint Zaynab"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Daughter of Zaynab; the Prophet ﷺ carried her while praying.",
+          "source": {
+            "text": "Sahih al-Bukhari 516",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-grandchildren-ali-ibn-abi-al-as",
+          "canonical": "'Ali ibn Abi al-'As",
+          "variants": [
+            "Ali ibn Abil As",
+            "Ali ibn Abi al-As"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Son of Zaynab, who rode behind the Prophet ﷺ at the conquest of Makkah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-grandchildren-muhsin",
+          "canonical": "Muhsin",
+          "variants": [
+            "Muhsin ibn Ali",
+            "Mohsin"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A son of 'Ali and Fatimah who died very young.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          },
+          "note": "Reports about him differ."
+        },
+        {
+          "id": "d1015-grandchildren-abdullah-ibn-uthman",
+          "canonical": "'Abdullah ibn 'Uthman",
+          "variants": [
+            "Abdullah ibn Uthman"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Son of Ruqayyah and 'Uthman, who died as a child.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1616 @@
+{
+  "date": "2026-10-10",
+  "questions": [
+    {
+      "id": "d1010-pillars-of-islam",
+      "number": 1,
+      "prompt": "Name one of the Five Pillars of Islam.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Jihad",
+            "Iman",
+            "Wudu",
+            "Sadaqah",
+            "Charity",
+            "Quran",
+            "Faith"
+          ],
+          "message": "That isn't one of the five pillars. Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1010-pillars-of-islam-salah",
+          "canonical": "Salah",
+          "variants": [
+            "Salat",
+            "Salaah",
+            "Namaz",
+            "Prayer",
+            "Praying",
+            "Five daily prayers",
+            "Daily prayers"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Praying five times every day — the pillar the Prophet ﷺ called the first thing a person will be asked about.",
+          "source": {
+            "text": "Islam is built on five (Sahih al-Bukhari 8; Sahih Muslim 16)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-pillars-of-islam-sawm",
+          "canonical": "Sawm",
+          "variants": [
+            "Siyam",
+            "Fasting",
+            "Fast",
+            "Roza",
+            "Fasting in Ramadan"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Fasting from dawn to sunset throughout the month of Ramadan.",
+          "source": {
+            "text": "Islam is built on five (Sahih al-Bukhari 8; Sahih Muslim 16)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-pillars-of-islam-hajj",
+          "canonical": "Hajj",
+          "variants": [
+            "Pilgrimage",
+            "Hajj pilgrimage",
+            "Haj"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The pilgrimage to Makkah, due once in a lifetime from everyone able to make it.",
+          "source": {
+            "text": "Islam is built on five (Sahih al-Bukhari 8; Sahih Muslim 16)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-pillars-of-islam-zakat",
+          "canonical": "Zakat",
+          "variants": [
+            "Zakah",
+            "Zakaat",
+            "Alms",
+            "Almsgiving",
+            "Obligatory charity"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The obligatory yearly charity — usually 2.5% of savings above a minimum (the nisab) — given to those in need.",
+          "source": {
+            "text": "Islam is built on five (Sahih al-Bukhari 8; Sahih Muslim 16)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-pillars-of-islam-shahadah",
+          "canonical": "Shahadah",
+          "variants": [
+            "Shahada",
+            "Testimony of faith",
+            "Declaration of faith",
+            "Kalimah",
+            "Kalima",
+            "Shahadatayn",
+            "Testimony"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The declaration of faith: there is no god but Allah, and Muhammad ﷺ is His Messenger.",
+          "source": {
+            "text": "Islam is built on five (Sahih al-Bukhari 8; Sahih Muslim 16)",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1010-angels",
+      "number": 2,
+      "prompt": "Name an angel mentioned in the Qur'an or Hadith.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Iblis",
+            "Shaytan",
+            "Satan",
+            "Lucifer",
+            "Shaitan"
+          ],
+          "message": "Iblis was one of the jinn, not an angel (Qur'an 18:50). Try again!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1010-angels-jibril",
+          "canonical": "Jibril",
+          "variants": [
+            "Jibreel",
+            "Jibrail",
+            "Jibra'il",
+            "Gabriel",
+            "Jibraeel"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The angel who brought Allah's revelation to the prophets, including the Qur'an to Muhammad ﷺ.",
+          "source": {
+            "text": "Qur'an 2:97",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-angels-mikail",
+          "canonical": "Mika'il",
+          "variants": [
+            "Mikail",
+            "Mikaeel",
+            "Mikael",
+            "Michael",
+            "Mikal",
+            "Meekaeel"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Named alongside Jibril in the Qur'an; tradition links him to rain and provision.",
+          "source": {
+            "text": "Qur'an 2:98",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-angels-angel-of-death",
+          "canonical": "Angel of Death",
+          "variants": [
+            "Malak al-Mawt",
+            "Malakul Mawt",
+            "Malak ul Maut",
+            "Azrael",
+            "Azrail",
+            "Izrail",
+            "Izra'il",
+            "Azraeel"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Takes the souls of people at their appointed time.",
+          "source": {
+            "text": "Qur'an 32:11",
+            "status": "quran-reference"
+          },
+          "note": "The Qur'an calls him the Angel of Death; the name 'Izra'il comes from later tradition."
+        },
+        {
+          "id": "d1010-angels-israfil",
+          "canonical": "Israfil",
+          "variants": [
+            "Israfeel",
+            "Israfel",
+            "Israafeel",
+            "Esrafil"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Will blow the Trumpet that begins the Day of Resurrection.",
+          "source": {
+            "text": "Hadith reports, e.g. Sunan al-Tirmidhi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-angels-malik",
+          "canonical": "Malik",
+          "variants": [
+            "Maalik"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The angel who guards Hell; the people of the Fire call out to him.",
+          "source": {
+            "text": "Qur'an 43:77",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-angels-kiraman-katibin",
+          "canonical": "Kiraman Katibin",
+          "variants": [
+            "Kiraman Katibeen",
+            "Kiraaman Kaatibeen",
+            "Kiramal Katibin",
+            "Recording angels",
+            "Noble scribes",
+            "Noble recorders"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The noble scribes who record every person's deeds.",
+          "source": {
+            "text": "Qur'an 82:10–12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-angels-ridwan",
+          "canonical": "Ridwan",
+          "variants": [
+            "Rizwan",
+            "Ridhwan",
+            "Radwan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "In tradition, the angel who keeps the gates of Paradise.",
+          "source": {
+            "text": "Hadith and tafsir tradition",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-angels-munkar",
+          "canonical": "Munkar",
+          "variants": [
+            "Munkir"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "With Nakir, questions each person in the grave.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 1071",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-angels-nakir",
+          "canonical": "Nakir",
+          "variants": [
+            "Nakeer"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "With Munkar, questions each person in the grave.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 1071",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-angels-bearers-of-the-throne",
+          "canonical": "Bearers of the Throne",
+          "variants": [
+            "Hamalat al-'Arsh",
+            "Hamalat al-Arsh",
+            "Hamalatul Arsh",
+            "Throne bearers",
+            "Throne-bearers"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Angels who carry the Throne of Allah and pray for forgiveness for the believers.",
+          "source": {
+            "text": "Qur'an 40:7; 69:17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-angels-harut",
+          "canonical": "Harut",
+          "variants": [
+            "Haroot",
+            "Haarut"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "One of two angels sent to Babylon as a test for its people.",
+          "source": {
+            "text": "Qur'an 2:102",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-angels-marut",
+          "canonical": "Marut",
+          "variants": [
+            "Maroot",
+            "Maarut"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "One of two angels sent to Babylon as a test for its people.",
+          "source": {
+            "text": "Qur'an 2:102",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-angels-raqib",
+          "canonical": "Raqib",
+          "variants": [
+            "Raqeeb"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named in the Qur'an as the watcher beside every person who speaks.",
+          "source": {
+            "text": "Qur'an 50:18",
+            "status": "quran-reference"
+          },
+          "note": "Many scholars read Raqib and 'Atid as descriptions (watchful, ready) of the recording angels rather than personal names."
+        },
+        {
+          "id": "d1010-angels-atid",
+          "canonical": "'Atid",
+          "variants": [
+            "Atid",
+            "Ateed",
+            "'Ateed"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named in the Qur'an alongside Raqib, ready to record every word.",
+          "source": {
+            "text": "Qur'an 50:18",
+            "status": "quran-reference"
+          },
+          "note": "Many scholars read Raqib and 'Atid as descriptions of the recording angels rather than personal names."
+        }
+      ]
+    },
+    {
+      "id": "d1010-plants",
+      "number": 3,
+      "prompt": "Name a fruit or plant mentioned in the Qur'an.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Apple",
+            "Apples",
+            "Mango",
+            "Orange",
+            "Strawberry",
+            "Watermelon",
+            "Rose",
+            "Cherry",
+            "Lemon",
+            "Peach"
+          ],
+          "message": "That one isn't mentioned in the Qur'an. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1010-plants-date-palm",
+          "canonical": "Date palm",
+          "variants": [
+            "Date",
+            "Dates",
+            "Palm",
+            "Palm tree",
+            "Nakhl",
+            "Nakhla",
+            "Tamr",
+            "Khajoor",
+            "Date tree"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Maryam was told to shake the trunk of a date palm, and fresh dates fell for her.",
+          "source": {
+            "text": "Qur'an 19:25",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-olive",
+          "canonical": "Olive",
+          "variants": [
+            "Olives",
+            "Zaytun",
+            "Zaitoon",
+            "Zaytoon",
+            "Olive tree"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Allah swears by the fig and the olive at the start of Surah at-Tin.",
+          "source": {
+            "text": "Qur'an 95:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-fig",
+          "canonical": "Fig",
+          "variants": [
+            "Figs",
+            "Teen",
+            "Tin",
+            "Fig tree"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah at-Tin is named after the fig.",
+          "source": {
+            "text": "Qur'an 95:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-grape",
+          "canonical": "Grape",
+          "variants": [
+            "Grapes",
+            "Inab",
+            "Vine",
+            "Grapevine",
+            "Grape vine"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Listed among the gardens Allah brings out of the earth.",
+          "source": {
+            "text": "Qur'an 6:99",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-pomegranate",
+          "canonical": "Pomegranate",
+          "variants": [
+            "Pomegranates",
+            "Rumman",
+            "Ruman"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Mentioned among Allah's gifts on earth and in the gardens of Paradise.",
+          "source": {
+            "text": "Qur'an 6:99; 55:68",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-lote-tree",
+          "canonical": "Lote tree",
+          "variants": [
+            "Sidr",
+            "Lote",
+            "Lotus tree",
+            "Jujube",
+            "Sidrat al-Muntaha",
+            "Lote-tree",
+            "Nabk"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Sidrat al-Muntaha, the Lote Tree of the Utmost Boundary, was seen on the Night Journey.",
+          "source": {
+            "text": "Qur'an 53:14; 56:28",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-zaqqum",
+          "canonical": "Zaqqum",
+          "variants": [
+            "Zaqqoom",
+            "Zakkum",
+            "Zaqqum tree"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The bitter tree that grows at the bottom of Hell.",
+          "source": {
+            "text": "Qur'an 37:62; 44:43",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-banana",
+          "canonical": "Banana",
+          "variants": [
+            "Bananas",
+            "Talh",
+            "Banana tree",
+            "Mauz"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Talh, layered\" is among the delights of Paradise; many translate talh as banana.",
+          "source": {
+            "text": "Qur'an 56:29",
+            "status": "quran-reference"
+          },
+          "note": "Some scholars understand talh as a kind of acacia rather than banana."
+        },
+        {
+          "id": "d1010-plants-mustard-seed",
+          "canonical": "Mustard seed",
+          "variants": [
+            "Mustard",
+            "Khardal",
+            "Mustard seeds"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Even a deed the weight of a mustard seed will be brought forward on the Day of Judgement.",
+          "source": {
+            "text": "Qur'an 21:47; 31:16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-onion",
+          "canonical": "Onion",
+          "variants": [
+            "Onions",
+            "Basal"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "One of the foods the Children of Israel asked for instead of manna and quails.",
+          "source": {
+            "text": "Qur'an 2:61",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-lentils",
+          "canonical": "Lentils",
+          "variants": [
+            "Lentil",
+            "Adas",
+            "Daal",
+            "Dal"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "One of the foods the Children of Israel asked for instead of manna and quails.",
+          "source": {
+            "text": "Qur'an 2:61",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-garlic",
+          "canonical": "Garlic",
+          "variants": [
+            "Fum",
+            "Thum",
+            "Thoom"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "One of the foods the Children of Israel asked for; the word fum is usually translated garlic.",
+          "source": {
+            "text": "Qur'an 2:61",
+            "status": "quran-reference"
+          },
+          "note": "Some early scholars understood fum as wheat or grain."
+        },
+        {
+          "id": "d1010-plants-grain",
+          "canonical": "Grain",
+          "variants": [
+            "Wheat",
+            "Corn",
+            "Ear of grain",
+            "Ear of corn",
+            "Sunbulah",
+            "Habbah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Charity is likened to a grain that grows seven ears, each holding a hundred grains.",
+          "source": {
+            "text": "Qur'an 2:261",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-fragrant-plant",
+          "canonical": "Fragrant plant",
+          "variants": [
+            "Rayhan",
+            "Raihan",
+            "Basil",
+            "Sweet basil"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Rayhan — fragrant plants, often understood as basil — is among the blessings of the earth and of Paradise.",
+          "source": {
+            "text": "Qur'an 55:12; 56:89",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-ginger",
+          "canonical": "Ginger",
+          "variants": [
+            "Zanjabil",
+            "Zanjabeel"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The drink of Paradise is mixed with zanjabil, ginger.",
+          "source": {
+            "text": "Qur'an 76:17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-gourd",
+          "canonical": "Gourd",
+          "variants": [
+            "Yaqtin",
+            "Yaqteen",
+            "Pumpkin",
+            "Squash",
+            "Gourd plant"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Allah grew a gourd plant to shade Yunus after he was cast ashore.",
+          "source": {
+            "text": "Qur'an 37:146",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-cucumber",
+          "canonical": "Cucumber",
+          "variants": [
+            "Cucumbers",
+            "Qiththa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "One of the foods the Children of Israel asked for instead of manna and quails.",
+          "source": {
+            "text": "Qur'an 2:61",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-tamarisk",
+          "canonical": "Tamarisk",
+          "variants": [
+            "Athl",
+            "Tamarisk tree"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The ruined gardens of Saba' were left with bitter fruit, tamarisks and a few lote trees.",
+          "source": {
+            "text": "Qur'an 34:16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-plants-bitter-fruit",
+          "canonical": "Bitter fruit",
+          "variants": [
+            "Khamt"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Khamt — bitter fruit — grew in Saba's gardens after the flood.",
+          "source": {
+            "text": "Qur'an 34:16",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1010-battles",
+      "number": 4,
+      "prompt": "Name a battle or expedition from the lifetime of the Prophet ﷺ.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Banu",
+            "Bani"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Hudaybiyyah",
+            "Hudaibiya",
+            "Treaty of Hudaybiyyah",
+            "Hudaybiya"
+          ],
+          "message": "Al-Hudaybiyyah was a treaty, not a battle. Try another!"
+        },
+        {
+          "inputs": [
+            "Yarmouk",
+            "Yarmuk",
+            "Qadisiyyah",
+            "Qadisiya",
+            "Hattin",
+            "Ain Jalut",
+            "Manzikert"
+          ],
+          "message": "That battle came after the Prophet's ﷺ lifetime. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1010-battles-badr",
+          "canonical": "Badr",
+          "variants": [
+            "Battle of Badr",
+            "Ghazwat Badr",
+            "Ghazwa Badr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first major battle (2 AH), won by about 313 Muslims against a much larger Makkan army.",
+          "source": {
+            "text": "Qur'an 3:123",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-battles-uhud",
+          "canonical": "Uhud",
+          "variants": [
+            "Battle of Uhud",
+            "Ohud",
+            "Ghazwat Uhud"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Fought (3 AH) at the foot of Mount Uhud near Madinah; Hamzah was martyred there.",
+          "source": {
+            "text": "Qur'an 3:121–175 (commonly understood to concern it)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-battles-battle-of-the-trench",
+          "canonical": "Battle of the Trench",
+          "variants": [
+            "Khandaq",
+            "Trench",
+            "Battle of Khandaq",
+            "Ahzab",
+            "Battle of Ahzab",
+            "Confederates",
+            "Battle of the Confederates",
+            "Ghazwat al-Khandaq"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "In 5 AH the Muslims dug a trench to defend Madinah from the Confederates — Salman al-Farsi's idea.",
+          "source": {
+            "text": "Qur'an 33:9–27",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-battles-khaybar",
+          "canonical": "Khaybar",
+          "variants": [
+            "Battle of Khaybar",
+            "Khaibar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The fortified oasis north of Madinah, taken in 7 AH.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Military Expeditions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-battles-conquest-of-makkah",
+          "canonical": "Conquest of Makkah",
+          "variants": [
+            "Fath Makkah",
+            "Fathu Makkah",
+            "Fath al-Makkah",
+            "Conquest of Mecca",
+            "Opening of Makkah",
+            "Fath Mecca"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "In 8 AH the Prophet ﷺ entered Makkah almost without fighting and forgave its people.",
+          "source": {
+            "text": "Qur'an 110; Sahih al-Bukhari, Book of Military Expeditions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-battles-hunayn",
+          "canonical": "Hunayn",
+          "variants": [
+            "Hunain",
+            "Battle of Hunayn",
+            "Battle of Hunain"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Fought soon after the conquest of Makkah (8 AH); the Qur'an recalls how numbers alone did not help.",
+          "source": {
+            "text": "Qur'an 9:25",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-battles-tabuk",
+          "canonical": "Tabuk",
+          "variants": [
+            "Tabook",
+            "Expedition of Tabuk",
+            "Battle of Tabuk",
+            "Ghazwat Tabuk"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The long march north in 9 AH, in great heat, against the Byzantines; no battle took place.",
+          "source": {
+            "text": "Qur'an 9:38–118 (commonly understood to concern it)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-battles-mutah",
+          "canonical": "Mu'tah",
+          "variants": [
+            "Mutah",
+            "Muta",
+            "Battle of Mutah",
+            "Mootah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Fought against the Byzantines in 8 AH; Zayd, Ja'far and Ibn Rawahah were martyred and Khalid led the army home.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Military Expeditions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-battles-banu-qurayzah",
+          "canonical": "Banu Qurayzah",
+          "variants": [
+            "Bani Qurayzah",
+            "Banu Qurayza",
+            "Bani Qurayza",
+            "Qurayzah",
+            "Qurayza"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The siege after the Battle of the Trench (5 AH).",
+          "source": {
+            "text": "Qur'an 33:26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-battles-banu-nadir",
+          "canonical": "Banu Nadir",
+          "variants": [
+            "Bani Nadir",
+            "Banu an-Nadir",
+            "Bani an-Nadir",
+            "Nadir"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The tribe expelled from Madinah in 4 AH, described in Surah al-Hashr.",
+          "source": {
+            "text": "Qur'an 59:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-battles-siege-of-taif",
+          "canonical": "Siege of Ta'if",
+          "variants": [
+            "Taif",
+            "Ta'if",
+            "Battle of Taif",
+            "Siege of Taif"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "After Hunayn (8 AH) the Muslims besieged Ta'if; its people embraced Islam the following year.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Military Expeditions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-battles-banu-qaynuqa",
+          "canonical": "Banu Qaynuqa",
+          "variants": [
+            "Bani Qaynuqa",
+            "Qaynuqa",
+            "Banu Qainuqa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The first of the tribes of Madinah to be besieged, in 2 AH.",
+          "source": {
+            "text": "Sirah of Ibn Hisham",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-battles-banu-al-mustaliq",
+          "canonical": "Banu al-Mustaliq",
+          "variants": [
+            "Bani Mustaliq",
+            "Banu Mustaliq",
+            "Mustaliq",
+            "Muraysi",
+            "Al-Muraysi'"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An expedition (5 or 6 AH) also called al-Muraysi'; Juwayriyah bint al-Harith married the Prophet ﷺ after it.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Military Expeditions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-battles-dhat-al-riqa",
+          "canonical": "Dhat al-Riqa'",
+          "variants": [
+            "Dhat ar-Riqa",
+            "Dhatur Riqa",
+            "Dhat al-Riqa",
+            "That ar-Riqa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An expedition to Najd where the prayer of fear was prayed; its name refers to rags wrapped around sore feet.",
+          "source": {
+            "text": "Sahih al-Bukhari, Book of Military Expeditions",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-battles-hamra-al-asad",
+          "canonical": "Hamra al-Asad",
+          "variants": [
+            "Hamra' al-Asad",
+            "Hamraa al-Asad"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The day after Uhud, the wounded Muslims marched out to Hamra' al-Asad to show they were not broken.",
+          "source": {
+            "text": "Qur'an 3:172 (commonly understood to concern it)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-battles-dumat-al-jandal",
+          "canonical": "Dumat al-Jandal",
+          "variants": [
+            "Dumatul Jandal",
+            "Dumah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An expedition to the far north in 5 AH, the furthest the Prophet ﷺ had gone so far.",
+          "source": {
+            "text": "Sirah of Ibn Hisham",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1010-places",
+      "number": 5,
+      "prompt": "Name a place mentioned in the Qur'an.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Jerusalem",
+            "Quds",
+            "Al-Quds",
+            "Damascus",
+            "Baghdad",
+            "Karbala",
+            "Istanbul",
+            "Cairo",
+            "Jeddah"
+          ],
+          "message": "That place isn't named in the Qur'an. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1010-places-makkah",
+          "canonical": "Makkah",
+          "variants": [
+            "Mecca",
+            "Makka",
+            "Bakkah",
+            "Bakka",
+            "Umm al-Qura",
+            "Makkah al-Mukarramah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Named in the Qur'an as Makkah and as Bakkah, the site of the first House of worship.",
+          "source": {
+            "text": "Qur'an 48:24; 3:96",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-madinah",
+          "canonical": "Madinah",
+          "variants": [
+            "Medina",
+            "Madina",
+            "Medinah",
+            "Yathrib",
+            "Madinah al-Munawwarah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Called Yathrib before the Hijrah and al-Madinah after it.",
+          "source": {
+            "text": "Qur'an 9:101; 33:13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-egypt",
+          "canonical": "Egypt",
+          "variants": [
+            "Misr",
+            "Masr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Misr — the land of Yusuf, Musa and Fir'awn.",
+          "source": {
+            "text": "Qur'an 12:21; 10:87",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-masjid-al-aqsa",
+          "canonical": "Masjid al-Aqsa",
+          "variants": [
+            "Aqsa",
+            "Al-Aqsa",
+            "Masjid Aqsa",
+            "Al-Masjid al-Aqsa",
+            "Baitul Maqdis",
+            "Bayt al-Maqdis"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Farthest Mosque, the destination of the Night Journey.",
+          "source": {
+            "text": "Qur'an 17:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-kabah",
+          "canonical": "Ka'bah",
+          "variants": [
+            "Kaaba",
+            "Kabah",
+            "Kaba",
+            "Kaabah",
+            "The Sacred House",
+            "Baitullah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Sacred House in Makkah, made a place of standing for mankind.",
+          "source": {
+            "text": "Qur'an 5:97",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-badr",
+          "canonical": "Badr",
+          "variants": [],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Allah helped the believers at Badr when they were few.",
+          "source": {
+            "text": "Qur'an 3:123",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-babylon",
+          "canonical": "Babylon",
+          "variants": [
+            "Babil",
+            "Babel"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Where the two angels Harut and Marut were sent.",
+          "source": {
+            "text": "Qur'an 2:102",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-madyan",
+          "canonical": "Madyan",
+          "variants": [
+            "Midian",
+            "Madian"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The land of Prophet Shu'ayb, where Musa found refuge.",
+          "source": {
+            "text": "Qur'an 7:85; 28:22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-mount-sinai",
+          "canonical": "Mount Sinai",
+          "variants": [
+            "Sinai",
+            "Tur",
+            "Toor",
+            "Tur Sina",
+            "Sinin",
+            "Mount Tur",
+            "At-Tur"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Tur Sinin, the mountain where Allah spoke to Musa.",
+          "source": {
+            "text": "Qur'an 95:2; 52:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-safa",
+          "canonical": "Safa",
+          "variants": [
+            "As-Safa",
+            "Mount Safa"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One of the two hills between which pilgrims walk — among the symbols of Allah.",
+          "source": {
+            "text": "Qur'an 2:158",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-marwah",
+          "canonical": "Marwah",
+          "variants": [
+            "Marwa",
+            "Al-Marwah",
+            "Mount Marwah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One of the two hills between which pilgrims walk — among the symbols of Allah.",
+          "source": {
+            "text": "Qur'an 2:158",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-arafat",
+          "canonical": "Arafat",
+          "variants": [
+            "Arafah",
+            "Arafaat",
+            "Mount Arafat"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Pilgrims pour down from Arafat on the Day of Hajj.",
+          "source": {
+            "text": "Qur'an 2:198",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-saba",
+          "canonical": "Saba'",
+          "variants": [
+            "Sheba",
+            "Saba"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The kingdom of Sheba, whose queen visited Sulayman.",
+          "source": {
+            "text": "Qur'an 27:22; 34:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-al-hijr",
+          "canonical": "Al-Hijr",
+          "variants": [
+            "Hijr",
+            "Mada'in Salih",
+            "Madain Salih",
+            "Hegra"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The rock-hewn home of Thamud, Salih's people.",
+          "source": {
+            "text": "Qur'an 15:80",
+            "status": "quran-reference"
+          },
+          "note": "The site is known today as al-Hijr or Mada'in Salih."
+        },
+        {
+          "id": "d1010-places-hunayn",
+          "canonical": "Hunayn",
+          "variants": [
+            "Hunain"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The valley of the battle after the conquest of Makkah.",
+          "source": {
+            "text": "Qur'an 9:25",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-mount-judi",
+          "canonical": "Mount Judi",
+          "variants": [
+            "Judi",
+            "Al-Judi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The mountain where Nuh's ark came to rest.",
+          "source": {
+            "text": "Qur'an 11:44",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-iram",
+          "canonical": "Iram",
+          "variants": [
+            "Iram of the pillars",
+            "Iram dhat al-Imad"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Iram of the pillars\", the city of 'Ad.",
+          "source": {
+            "text": "Qur'an 89:7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-al-ahqaf",
+          "canonical": "Al-Ahqaf",
+          "variants": [
+            "Ahqaf"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The sand dunes where the people of 'Ad lived.",
+          "source": {
+            "text": "Qur'an 46:21",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-al-mashar-al-haram",
+          "canonical": "Al-Mash'ar al-Haram",
+          "variants": [
+            "Mashar al-Haram",
+            "Mash'ar al-Haram",
+            "Muzdalifah",
+            "Muzdalifa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The sacred landmark at Muzdalifah where pilgrims remember Allah.",
+          "source": {
+            "text": "Qur'an 2:198",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1010-places-tuwa",
+          "canonical": "Tuwa",
+          "variants": [
+            "Tuwaa",
+            "Valley of Tuwa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The sacred valley where Musa was told to remove his sandals.",
+          "source": {
+            "text": "Qur'an 20:12; 79:16",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1010-muslim-women",
+      "number": 6,
+      "prompt": "Name a famous Muslim woman from history who lived after the time of the Prophet ﷺ.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Fatima",
+            "Fatimah"
+          ],
+          "message": "Can you be more specific?"
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Aishah",
+            "Aisha",
+            "Khadijah",
+            "Khadija",
+            "Fatimah bint Muhammad",
+            "Fatima az-Zahra",
+            "Fatima Zahra",
+            "Maryam",
+            "Asiyah",
+            "Sumayyah"
+          ],
+          "message": "She lived in the time of the Prophet ﷺ or before. Try someone from later history!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1010-muslim-women-rabia-al-adawiyya",
+          "canonical": "Rabi'a al-'Adawiyya",
+          "variants": [
+            "Rabia Basri",
+            "Rabia al-Adawiyya",
+            "Rabia of Basra",
+            "Rabiah al-Adawiyyah",
+            "Rabi'ah al-Basri",
+            "Rabia al Basri"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "An 8th-century saint of Basra, famed for her devotion and love of Allah.",
+          "source": {
+            "text": "Classical biographies (e.g. Ibn al-Jawzi, Sifat al-Safwah)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-muslim-women-fatima-al-fihri",
+          "canonical": "Fatima al-Fihri",
+          "variants": [
+            "Fatimah al-Fihri",
+            "Fatima al-Fihriya",
+            "Fatima al Fihriyya"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Founded al-Qarawiyyin in Fez in 859, often described as the oldest existing university.",
+          "source": {
+            "text": "Histories of Fez (e.g. Ibn Abi Zar', Rawd al-Qirtas)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-muslim-women-zubaidah-bint-jafar",
+          "canonical": "Zubaidah bint Ja'far",
+          "variants": [
+            "Zubaidah",
+            "Zubayda",
+            "Zubaida",
+            "Zubaydah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Wife of Harun al-Rashid, who funded wells and a road for pilgrims from Iraq to Makkah — the Darb Zubaidah.",
+          "source": {
+            "text": "Histories of the Abbasid era (e.g. al-Tabari)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-muslim-women-razia-sultana",
+          "canonical": "Razia Sultana",
+          "variants": [
+            "Raziya Sultan",
+            "Razia Sultan",
+            "Razia",
+            "Raziyya"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Ruled the Delhi Sultanate from 1236 to 1240 — the only woman to do so.",
+          "source": {
+            "text": "Histories of the Delhi Sultanate (e.g. Minhaj al-Siraj, Tabaqat-i Nasiri)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-muslim-women-nafisa-bint-al-hasan",
+          "canonical": "Nafisa bint al-Hasan",
+          "variants": [
+            "Sayyida Nafisa",
+            "Nafisah",
+            "Nafisa",
+            "Sayyidah Nafisah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A great-granddaughter of al-Hasan and a scholar in Cairo whom Imam al-Shafi'i visited.",
+          "source": {
+            "text": "Classical biographies (e.g. al-Dhahabi, Siyar A'lam al-Nubala)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-muslim-women-shajar-al-durr",
+          "canonical": "Shajar al-Durr",
+          "variants": [
+            "Shajarat al-Durr",
+            "Shajar ad-Durr",
+            "Shajarat ad-Durr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Ruled Egypt as sultana in 1250 during the Seventh Crusade.",
+          "source": {
+            "text": "Mamluk-era histories (e.g. al-Maqrizi)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-muslim-women-nana-asmau",
+          "canonical": "Nana Asma'u",
+          "variants": [
+            "Nana Asmau",
+            "Asma'u",
+            "Asmau bint Usman"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A 19th-century scholar, poet and teacher of women in the Sokoto Caliphate.",
+          "source": {
+            "text": "Collected works of Nana Asma'u",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-muslim-women-gawhar-shad",
+          "canonical": "Gawhar Shad",
+          "variants": [
+            "Goharshad",
+            "Gauhar Shad",
+            "Gohar Shad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Timurid queen who built the great Gawhar Shad Mosque in Mashhad.",
+          "source": {
+            "text": "Timurid histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-muslim-women-karima-al-marwaziyya",
+          "canonical": "Karima al-Marwaziyya",
+          "variants": [
+            "Karima al-Marwaziyyah",
+            "Karima bint Ahmad"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An 11th-century hadith scholar in Makkah, renowned for teaching Sahih al-Bukhari.",
+          "source": {
+            "text": "Al-Dhahabi, Siyar A'lam al-Nubala",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-muslim-women-lubna-of-cordoba",
+          "canonical": "Lubna of Cordoba",
+          "variants": [
+            "Lubna",
+            "Lubna of Córdoba"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A 10th-century secretary, scribe and mathematician at the court of Cordoba.",
+          "source": {
+            "text": "Ibn Bashkuwal, Kitab al-Sila",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-muslim-women-mariam-al-asturlabi",
+          "canonical": "Mariam al-Asturlabi",
+          "variants": [
+            "Mariam al-Astrulabi",
+            "Maryam al-Asturlabi",
+            "Mariam al-Ijliya",
+            "Maryam al-Ijliya"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A 10th-century maker of astrolabes in Aleppo.",
+          "source": {
+            "text": "Ibn al-Nadim, al-Fihrist",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-muslim-women-umm-al-darda",
+          "canonical": "Umm al-Darda'",
+          "variants": [
+            "Umm Darda",
+            "Umm al-Darda",
+            "Hujaymah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A respected scholar of the generation after the Companions who taught in Damascus.",
+          "source": {
+            "text": "Al-Dhahabi, Siyar A'lam al-Nubala",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1010-muslim-women-fatima-al-samarqandi",
+          "canonical": "Fatima al-Samarqandi",
+          "variants": [
+            "Fatimah al-Samarqandi",
+            "Fatima bint Muhammad al-Samarqandi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A 12th-century jurist of Aleppo whose fatwas were signed alongside her husband's.",
+          "source": {
+            "text": "Hanafi biographical works",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}
